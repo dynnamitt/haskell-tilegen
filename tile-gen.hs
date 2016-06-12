@@ -39,6 +39,7 @@ main = do
   args' <- parseArgs
   genA <- getStdGen
   genB <- newStdGen
+
   -- pull the number for the lotteri !!
   let widths = randInts genB $ tileSizes args' - 1
   let colors = randInts genA $ tileColors args' - 1
@@ -94,6 +95,7 @@ tileLayout w h tiles
 
 -- Inject the NewRow and break stream
 tileRow :: Int -> [Tile] -> [Tile]
+tileRow _ [] = []
 tileRow width (x:xs)  
   | width <= 0 = [NewRow]
   | otherwise = x : tileRow ( width - tileCells x) xs
@@ -102,9 +104,9 @@ tileRow width (x:xs)
 showTile :: Tile -> String
 showTile (NewRow) = normColor ++ "\n"
 showTile (Small color) =
-  bgColor ( nicerColor color ) ++ "│" ++ " "
+  bgColor ( nicerColor color ) ++ "│ "
 showTile (Big color) =
-  bgColor ( nicerColor color ) ++ "│" ++ " . "
+  bgColor ( nicerColor color ) ++ "├   "
 
 -- backto normaal
 normColor :: String
