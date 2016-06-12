@@ -8,7 +8,7 @@ import Data.List
 data Tile = Small Color 
           | Big Color
           | NewRow
-            deriving (Show)
+            deriving (Show,Eq)
 
 type TileWidth = Int
 type Color = Int -- TODO data type ??
@@ -44,10 +44,12 @@ main = do
   let widths = randInts genB $ tileSizes args' - 1
   let colors = randInts genA $ tileColors args' - 1
 
-  putStrLn  $ concat.map showTile $ 
-                      tileLayout (floorWidth args')
-                                 (floorHeight args')
-                                 $ newTiles widths colors
+  let floorLayout = tileLayout (floorWidth args')
+                               (floorHeight args')
+                               $ newTiles widths colors
+
+  putStrLn $ concat.map showTile $ floorLayout
+  putStrLn $ "=="
 
 -- args or death
 parseArgs :: IO InputArgs
@@ -70,18 +72,26 @@ parseArgs = do
 usage :: IO ()
 usage = do
   prog <- getProgName
-  putStrLn "Tool that generates floor/tiles (in max 2 sizes, 7 colors) from random."
-  putStrLn "Please give these arguments"
+  putStrLn "Tool that generates floor/tiles (max 2 sizes, 7 colors) from random."
+  putStrLn "Please give us these arguments"
   putStrLn "usage:"
   putStrLn $ "  " ++ prog ++ " TILE-COLORS SIZE-ODDS FLOOR-WIDTH FLOOR-HEIGHT"
   -- hmm difficult to exit here
 
+-- summary :: [Tile] -> [(Tile,Int)]
+-- summary = foldl (incr) []
+--   where
+--   incr acc@(t,cnt) tile = case lookup tile acc of 
+--                             Just cnt -> swapIn (tile,cnt+1) acc
+--                             Nothing -> acc
+--   swapIn (
 
 
 randInts :: StdGen -> Int -> [Int]
 randInts g maxInt = 
   let (n,g') = randomR (0,maxInt) g
   in n : randInts g' maxInt
+
 
 tileLayout :: Int -> Int -> [Tile] -> [Tile]
 tileLayout _ _ [] = []
@@ -104,9 +114,10 @@ tileRow width (x:xs)
 showTile :: Tile -> String
 showTile (NewRow) = normColor ++ "\n"
 showTile (Small color) =
-  bgColor ( nicerColor color ) ++ "│ "
+  bgColor ( nicerColor color ) ++ "└ "
 showTile (Big color) =
   bgColor ( nicerColor color ) ++ "├   "
+
 
 -- backto normaal
 normColor :: String
