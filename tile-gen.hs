@@ -18,6 +18,10 @@ newTile :: (TileWidth,Color) -> Tile
 newTile (0,c) = Small c
 newTile (_,c) = Big c
 
+-- lovley infinite streams
+newTiles :: [TileWidth] -> [Color] -> [Tile]
+newTiles ws cs = map (newTile) $ zip ws cs
+
 tileCells :: Tile -> Int
 tileCells (Small _) = 1
 tileCells (Big _) = 2
@@ -38,15 +42,11 @@ main = do
   -- pull the number for the lotteri !!
   let widths = randInts genB $ tileSizes args' - 1
   let colors = randInts genA $ tileColors args' - 1
-  let tiles = tilesInRow ( floorWidth args') $ map newTile $ zip widths colors
 
-  -- TODO inject \n after x small-tiles 
-  --
-  --   (1 big-tile-len == 2 small-tile-len )
-  --  Buffer/Flush/State !! !
-  putStrLn  $ concat.map showTile $ take 400 tiles
-  -- putStr $ concat.map showTile $ zip widths colors
-  -- putStr $ intsToLines $ randInts gen 3
+  putStrLn  $ concat.map showTile $ 
+                      tileLayout (floorWidth args')
+                                 (floorHeight args')
+                                 $ newTiles widths colors
 
 -- args or death
 parseArgs :: IO InputArgs
@@ -69,21 +69,34 @@ parseArgs = do
 usage :: IO ()
 usage = do
   prog <- getProgName
-  putStrLn "Please give us some arguments"
+  putStrLn "Tool that generates floor/tiles (in max 2 sizes, 7 colors) from random."
+  putStrLn "Please give these arguments"
   putStrLn "usage:"
   putStrLn $ "  " ++ prog ++ " TILE-COLORS SIZE-ODDS FLOOR-WIDTH FLOOR-HEIGHT"
   -- hmm difficult to exit here
+
+
 
 randInts :: StdGen -> Int -> [Int]
 randInts g maxInt = 
   let (n,g') = randomR (0,maxInt) g
   in n : randInts g' maxInt
 
+tileLayout :: Int -> Int -> [Tile] -> [Tile]
+tileLayout _ _ [] = []
+tileLayout w h tiles 
+  | h == 0 = []
+  | otherwise = currRow ++ tileLayout w (h-1) futureRows
+    where
+      currRow = tileRow w tiles
+      futureRows = drop currRowLen tiles
+      currRowLen = length currRow - 1
+
 -- Inject the NewRow and break stream
-tilesInRow :: Int -> [Tile] -> [Tile]
-tilesInRow w (x:xs)  
-  | w <= 0 = [NewRow]
-  | otherwise = x : tilesInRow ( w - tileCells x) xs
+tileRow :: Int -> [Tile] -> [Tile]
+tileRow width (x:xs)  
+  | width <= 0 = [NewRow]
+  | otherwise = x : tileRow ( width - tileCells x) xs
 
 -- TODO derving inside Show class
 showTile :: Tile -> String
@@ -126,8 +139,6 @@ nicerColor n
 nixEsc :: Int -> String
 -- need `;` and more Int's too work w gb+fg+etc
 nixEsc n = "\ESC[" ++ show n ++ "m"
-
-
 
 
 -- intsToLines :: [Int] -> String
