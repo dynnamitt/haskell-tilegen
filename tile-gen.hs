@@ -7,6 +7,7 @@ import Data.List
 
 data Tile = Small Color 
           | Big Color
+          | NewRow
             deriving (Show)
 
 type TileWidth = Int
@@ -16,6 +17,11 @@ type Color = Int -- TODO data type ??
 newTile :: (TileWidth,Color) -> Tile
 newTile (0,c) = Small c
 newTile (_,c) = Big c
+
+tileCells :: Tile -> Int
+tileCells (Small _) = 1
+tileCells (Big _) = 2
+tileCells (NewRow) = 0
 
 data InputArgs = InputArgs { 
   tileColors::Int,
@@ -32,7 +38,7 @@ main = do
   -- pull the number for the lotteri !!
   let widths = randInts genB $ tileSizes args' - 1
   let colors = randInts genA $ tileColors args' - 1
-  let tiles = map newTile $ zip widths colors
+  let tiles = tilesInRow ( floorWidth args') $ map newTile $ zip widths colors
 
   -- TODO inject \n after x small-tiles 
   --
@@ -65,7 +71,7 @@ usage = do
   prog <- getProgName
   putStrLn "Please give us some arguments"
   putStrLn "usage:"
-  putStrLn $ "  " ++ prog ++ " TILE-COLORS TILE-SIZES FLOOR-WIDTH FLOOR-HEIGHT"
+  putStrLn $ "  " ++ prog ++ " TILE-COLORS SIZE-ODDS FLOOR-WIDTH FLOOR-HEIGHT"
   -- hmm difficult to exit here
 
 randInts :: StdGen -> Int -> [Int]
@@ -73,12 +79,23 @@ randInts g maxInt =
   let (n,g') = randomR (0,maxInt) g
   in n : randInts g' maxInt
 
+-- Inject the NewRow and break stream
+tilesInRow :: Int -> [Tile] -> [Tile]
+tilesInRow w (x:xs)  
+  | w <= 0 = [NewRow]
+  | otherwise = x : tilesInRow ( w - tileCells x) xs
+
 -- TODO derving inside Show class
 showTile :: Tile -> String
+showTile (NewRow) = normColor ++ "\n"
 showTile (Small color) =
-  bgColor ( nicerColor color ) ++ "│" ++ show color ++ " "
+  bgColor ( nicerColor color ) ++ "│" ++ " "
 showTile (Big color) =
-  bgColor ( nicerColor color ) ++ "│" ++ show color ++ " . "
+  bgColor ( nicerColor color ) ++ "│" ++ " . "
+
+-- backto normaal
+normColor :: String
+normColor = nixEsc 0
 
 -- background
 bgColor :: Int -> String
