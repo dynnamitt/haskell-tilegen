@@ -3,6 +3,7 @@ import System.Exit
 import System.Environment
 
 import Data.List
+import Data.Maybe
 import Data.Foldable (toList)
 
 import qualified Data.Sequence as Seq
@@ -89,15 +90,21 @@ usage = do
 -- should return uniq set of tiles w counted totals
 countedSet :: [Tile] -> [(Tile,Int)]
 countedSet tiles =
-  toList $ foldl replaceCount countSet tiles'
+  toList $ foldl sumTiles countSet tiles
   where
-  replaceCount cntSet tile = 
-    case Seq.elemIndexL tile cntSet of
-      Just idx -> Seq.adjust incrCnt1 idx cntSet
+  sumTiles cntSet tile = 
+    case lookup tile cntSet of
+      Just cnt -> replaceElem tile cnt cntSet
       Nothing -> cntSet
-  incrCnt1 (t,cnt) = (t,cnt+1)
-  countSet = Seq.fromList $ zip (nub tiles) $ repeat 1
-  tiles' = zip tiles $ repeat 1
+  replaceElem t cnt cs = 
+    case idx of
+      Just i -> toList $ Seq.update i (t,newCount) cs'
+      Nothing -> cs
+    where
+      cs' = Seq.fromList cs
+      idx = Seq.elemIndexL (t,cnt) cs'
+      newCount = cnt + 1
+  countSet = zip (nub tiles) $ repeat 0
         
 
   
