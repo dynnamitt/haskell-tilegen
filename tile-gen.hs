@@ -3,6 +3,8 @@ import System.Exit
 import System.Environment
 
 import Data.List
+import Data.Foldable (toList)
+
 import qualified Data.Sequence as Seq
 
 
@@ -50,7 +52,7 @@ main = do
                                $ newTiles widths colors
 
   putStrLn $ concat.map showTile $ floorLayout
-  putStrLn $ "=="
+  -- putStrLn "==" ++ map show $ countedSet floorLayout
 
 -- args or death
 parseArgs :: IO InputArgs
@@ -81,13 +83,23 @@ usage = do
   putStrLn "  S -> Number; Size odds. Tile is either 1 or 2 cell,"
   putStrLn "       and higher number here will give 1cell lower odds"
   putStrLn "  W -> Number; Floor width. Number of cells before new row"
-  putStrLn "  H -> Number; Floor height. Aka rows"
+  putStrLn "  H -> Number; Floor height, aka rows"
 
 
-  -- hmm difficult to exit here
-
+-- should return uniq set of tiles w counted totals
 countedSet :: [Tile] -> [(Tile,Int)]
-countedSet tiles = []
+countedSet tiles =
+  toList $ foldl replaceCount countSet tiles'
+  where
+  replaceCount cntSet tile = 
+    case Seq.elemIndexL tile cntSet of
+      Just idx -> Seq.adjust incrCnt1 idx cntSet
+      Nothing -> cntSet
+  incrCnt1 (t,cnt) = (t,cnt+1)
+  countSet = Seq.fromList $ zip (nub tiles) $ repeat 1
+  tiles' = zip tiles $ repeat 1
+        
+
   
 -- summary = foldl (incr) []
 --   where
