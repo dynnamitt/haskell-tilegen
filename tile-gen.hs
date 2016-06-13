@@ -26,10 +26,17 @@ newTile (_,c) = Dbl c
 newTiles :: [TileWidth] -> [Color] -> [Tile]
 newTiles ws cs = map (newTile) $ zip ws cs
 
-tileCells :: Tile -> Int
+-- TODO Maybe
+tileCells :: Tile -> TileWidth
 tileCells (Small _) = 1
 tileCells (Dbl _) = 2
-tileCells (NewRow) = 0
+tileCells (NewRow) = 0 -- Nothing
+
+-- TODO Maybe
+tileColor :: Tile -> Color
+tileColor (Small c) = c
+tileColor (Dbl c) = c
+tileColor (NewRow) = -1 -- Nothing
 
 data InputArgs = InputArgs { 
   tileColors::Int,
@@ -53,7 +60,9 @@ main = do
                                $ newTiles widths colors
 
   putStrLn $ concat.map showTile $ floorLayout
-  -- putStrLn "==" ++ map show $ countedSet floorLayout
+  putStrLn "== Summary =="
+  putStrLn "color,size=t"
+  putStrLn $ concat.intersperse "\n" .map showTileSum $ sumSet floorLayout
 
 -- args or death
 parseArgs :: IO InputArgs
@@ -88,8 +97,8 @@ usage = do
 
 
 -- should return uniq set of tiles w counted totals
-countedSet :: [Tile] -> [(Tile,Int)]
-countedSet tiles =
+sumSet :: [Tile] -> [(Tile,Int)]
+sumSet tiles =
   toList $ foldl sumTiles countSet tiles
   where
   sumTiles cntSet tile = 
@@ -98,14 +107,18 @@ countedSet tiles =
       Nothing -> cntSet
   replaceElem t cnt cs = 
     case idx of
-      Just i -> toList $ Seq.update i (t,newCount) cs'
+      Just i -> toList $ Seq.update i (t,newCnt) cs'
       Nothing -> cs
     where
       cs' = Seq.fromList cs
       idx = Seq.elemIndexL (t,cnt) cs'
-      newCount = cnt + 1
+      newCnt = cnt + 1
   countSet = zip (nub tiles) $ repeat 0
-        
+
+showTileSum :: (Tile,Int) -> String
+showTileSum (tile,cnt) = 
+  show (tileColor tile)  ++ ", " ++ show (tileCells tile)
+  ++ " = " ++ show cnt
 
   
 -- summary = foldl (incr) []
@@ -143,9 +156,9 @@ tileRow width (x:xs)
 showTile :: Tile -> String
 showTile (NewRow) = nixEsc 0 ++ "\n"
 showTile (Small color) =
-              tColor ( nicerColor color ) ++ "s."
+              tColor ( nicerColor color ) ++ "s" ++ show color
 showTile (Dbl color) =
-              tColor ( nicerColor color ) ++ "d  ."
+              tColor ( nicerColor color ) ++ "d  " ++ show color
 
 -- background + HI fg
 tColor :: Int -> String
