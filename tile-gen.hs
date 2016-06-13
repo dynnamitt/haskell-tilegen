@@ -77,10 +77,11 @@ usage = do
   putStrLn "usage:"
   putStrLn $ nixEsc 1 ++ fgColor 3 -- HI fg, yellow
   putStrLn $ "  " ++ prog ++ " <C> <S> <W> <H>" ++ nixEsc 0 -- restore ESC
-  putStrLn "  where \n  C -> Tile colors"
-  putStrLn "  S -> Size odds ( Tile is either 1 or 2 cell, higher num give 1cell low odds )"
-  putStrLn "  W -> Floor width ( Number of cells before new row )"
-  putStrLn "  H -> Floor height ( Number of rows )"
+  putStrLn "  where \n  C -> Number; Tile color variations"
+  putStrLn "  S -> Number; Size odds. Tile is either 1 or 2 cell,"
+  putStrLn "       and higher number here will give 1cell lower odds"
+  putStrLn "  W -> Number; Floor width. Number of cells before new row"
+  putStrLn "  H -> Number; Floor height. Aka rows"
 
 
   -- hmm difficult to exit here
@@ -127,7 +128,7 @@ showTile (Small color) =
 showTile (Dbl color) =
               tColor ( nicerColor color ) ++ "d  ."
 
--- background + black fg
+-- background + HI fg
 tColor :: Int -> String
 tColor n =
   let bg = 40
@@ -156,7 +157,3 @@ nicerColor n
 
 nixEsc :: Int ->String
 nixEsc n = "\ESC[" ++ show n ++ "m"
-
-
--- intsToLines :: [Int] -> String
--- intsToLines = concat . intersperse "\n" . map show 
