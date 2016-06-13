@@ -3,6 +3,7 @@ import System.Exit
 import System.Environment
 
 import Data.List
+import qualified Data.Sequence as Seq
 
 
 data Tile = Small Color 
@@ -72,19 +73,21 @@ parseArgs = do
 usage :: IO ()
 usage = do
   prog <- getProgName
-  putStrLn "Tool that generates floor/tiles from random."
-  putStrLn "Please give us these arguments"
+  putStrLn "Tool that generates floor w tiles from random."
   putStrLn "usage:"
-  putStrLn $ "  " ++ prog ++ " <C> <S> <W> <H>"
+  putStrLn $ nixEsc 1 ++ fgColor 3 -- HI fg, yellow
+  putStrLn $ "  " ++ prog ++ " <C> <S> <W> <H>" ++ nixEsc 0 -- restore ESC
   putStrLn "  where \n  C -> Tile colors"
-  putStrLn "  S -> Size odds ( Tile is either 1 or 2 cell, higher num give 1 cell low odds )"
+  putStrLn "  S -> Size odds ( Tile is either 1 or 2 cell, higher num give 1cell low odds )"
   putStrLn "  W -> Floor width ( Number of cells before new row )"
   putStrLn "  H -> Floor height ( Number of rows )"
 
 
   -- hmm difficult to exit here
 
--- summary :: [Tile] -> [(Tile,Int)]
+countedSet :: [Tile] -> [(Tile,Int)]
+countedSet tiles = []
+  
 -- summary = foldl (incr) []
 --   where
 --   incr acc tile = case lookup tile acc of 
@@ -118,24 +121,25 @@ tileRow width (x:xs)
 
 -- TODO derving inside Show class
 showTile :: Tile -> String
-showTile (NewRow) = normColor ++ "\n"
+showTile (NewRow) = nixEsc 0 ++ "\n"
 showTile (Small color) =
-                color' ( nicerColor color ) ++ "s."
+              tColor ( nicerColor color ) ++ "s."
 showTile (Dbl color) =
-              color' ( nicerColor color ) ++ "d  ."
+              tColor ( nicerColor color ) ++ "d  ."
 
-
--- backto normaal
-normColor :: String
-normColor = nixEsc 0 0
-
--- background
-color' :: Int -> String
-color' n =
+-- background + black fg
+tColor :: Int -> String
+tColor n =
   let bg = 40
       fg = 30
   in 
-    nixEsc ( bg + n ) $ fg + 0
+    nixEsc ( bg + n ) ++ nixEsc 1 ++ nixEsc ( fg + n )
+
+fgColor :: Int -> String
+fgColor c =
+  let fg = 30
+  in
+    nixEsc $ fg + c
 
 
 -- avoid red+black as starters
@@ -150,8 +154,8 @@ nicerColor n
   | n == 6 = 5 -- magents
   | n == 7 = 1 -- red
 
-nixEsc :: Int -> Int ->String
-nixEsc n m = "\ESC[" ++ show n ++ ";" ++ show m ++ "m"
+nixEsc :: Int ->String
+nixEsc n = "\ESC[" ++ show n ++ "m"
 
 
 -- intsToLines :: [Int] -> String

@@ -17,4 +17,4 @@ cabal-version:       >=1.8
 executable tile-gen
   main-is:             tile-gen.hs
   -- other-modules:       
-  build-depends:       base ==4.6.*,   random
+  build-depends:       base ==4.6.*, random, containers
