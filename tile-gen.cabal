@@ -18,3 +18,8 @@ executable tile-gen
   main-is:             tile-gen.hs
   -- other-modules:       
   build-depends:       base ==4.6.*, random, containers
+
+executable 2svg
+  main-is:             2svg.hs
+  -- other-modules:       
+  build-depends:       base ==4.6.*

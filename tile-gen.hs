@@ -60,9 +60,9 @@ main = do
                                $ newTiles widths colors
 
   putStrLn $ concat.map showTile $ floorLayout
-  putStrLn "== Summary =="
-  putStrLn "color,size=t"
-  putStrLn $ concat.intersperse "\n" .map showTileSum $ sumSet floorLayout
+  -- putStrLn "== Summary =="
+  -- putStrLn "color,size=t"
+  -- putStrLn $ concat.intersperse "\n" .map showTileSum $ sumSet floorLayout
 
 -- args or death
 parseArgs :: IO InputArgs
