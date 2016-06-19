@@ -1,3 +1,8 @@
+pageW = 1500
+pageH = 3000
+
+rectHeight = 50
+rectWidth = 50
 
 main = do
   putStrLn svgHead
@@ -16,7 +21,11 @@ readTiles rowNum = do
 
 svgHead :: String
 svgHead = 
-  "<svg xmlns=\"" ++ ns ++ "\"><g>"
+  "<svg xmlns=\"" ++ ns ++ "\"" ++
+  " version=\"1.1\" " ++
+  " width=\"" ++ show pageW ++ "\"" ++
+  " height=\"" ++ show pageH ++ "\"" ++
+  " ><g>"
   where
     ns = "http://www.w3.org/2000/svg"
 
@@ -41,9 +50,6 @@ svgRow tileN rowN row =
     dblColor = read row!!3
 
 
-rectHeight = 50
-rectWidth = 50
-
 rect :: Pos -> Int -> Color -> String
 rect pos wFactor color = 
   "<rect " ++
@@ -52,13 +58,29 @@ rect pos wFactor color =
   " x=" ++ attr (fst pos) ++
   " y=" ++ attr (snd pos) ++
   " style=\"" ++ (style color) ++ "\"" ++
-  " >\n"
+  " />\n"
 
 attr :: Int -> String
-attr n = "\"" ++ show n ++ "\""
+attr n = 
+  "\"" ++ show n ++ "\""
 
-style :: Int -> String
-style c = "stroke:#000"
+style :: Color -> String
+style c =
+  "fill:#" ++ (hexd c) ++ ";" ++
+  "stroke:#000;"
+
+hexd :: Color -> String
+hexd c = case c of
+           0 -> "CCC"
+           1 -> "333"
+           2 -> "AAA"
+           3 -> "C11"
+           4 -> "11C"
+           5 -> "255"
+           6 -> "6A6"
+           7 -> "311"
+           _ -> "A1A"
 
 svgFoot :: String
-svgFoot = "<g></svg>"
+svgFoot = 
+  "</g></svg>"
