@@ -120,14 +120,6 @@ showTileSum (tile,cnt) =
   show (tileColor tile)  ++ ", " ++ show (tileCells tile)
   ++ " = " ++ show cnt
 
-  
--- summary = foldl (incr) []
---   where
---   incr acc tile = case lookup tile acc of 
---                     Just cnt -> swapIn (tile, cnt+1) acc
---                     Nothing -> swapIn [(tile,1)] acc
---   swapIn (t,cnt) (x:xs) = 
-
 
 randInts :: StdGen -> Int -> [Int]
 randInts g maxInt = 
@@ -152,13 +144,19 @@ tileRow width (x:xs)
   | width <= 0 = [NewRow]
   | otherwise = x : tileRow ( width - tileCells x) xs
 
--- TODO derving inside Show class
+
 showTile :: Tile -> String
-showTile (NewRow) = nixEsc 0 ++ "\n"
-showTile (Small color) =
-              tColor ( nicerColor color ) ++ "s" ++ show color
-showTile (Dbl color) =
-              tColor ( nicerColor color ) ++ "d  " ++ show color
+showTile (NewRow) = "\n"
+showTile (Small c) = "s" ++ show c
+showTile (Dbl c) = "d  " ++ show c
+
+-- TODO derving inside Show class
+showTileC :: Tile -> String
+showTileC t@(NewRow) = nixEsc 0 ++ showTile t
+showTileC t =
+  tColor (nicerColor c) ++ showTile t
+  where
+  c = tileColor t
 
 -- background + HI fg
 tColor :: Int -> String
