@@ -1,10 +1,10 @@
 import Data.Char
 
-pageW = 1500
-pageH = 3000
+pageW = 1100
+pageH = 1100
 
-rectHeight = 50
-rectWidth = 50
+rectHeight = 20
+rectWidth = 20
 
 main = do
   putStrLn svgHead
@@ -27,9 +27,13 @@ svgHead =
   " version=\"1.1\" " ++
   " width=\"" ++ show pageW ++ "\"" ++
   " height=\"" ++ show pageH ++ "\"" ++
-  " ><g>"
+  " ><defs>" ++ fillGrps ++ "</defs><g>"
   where
     ns = "http://www.w3.org/2000/svg"
+    
+svgFoot :: String
+svgFoot = 
+  "</g></svg>"
 
 type Pos = (Int,Int) -- x,y
 type Color = Int
@@ -52,7 +56,6 @@ tileCharLen :: Tile -> Int
 tileCharLen (Tile 1 _ ) = 2
 tileCharLen (Tile 2 _ ) = 4
 tileCharLen _ = error "møkka tile"
-
 
 
 svgRow :: Int -> Int -> String -> String
@@ -86,21 +89,40 @@ attr n =
 
 style :: Color -> String
 style c =
-  "fill:#" ++ (hexd c) ++ ";" ++
+  "fill:url(#" ++ colorId c ++ ");" ++
   "stroke:#000;"
+
+fillGrps :: String
+fillGrps =
+  concat $ map linearGradient [0..9]
+
+linearGradient :: Color -> String
+linearGradient c =
+  "<linearGradient" ++
+  " id=\"" ++ colorId c ++ "\">\n" ++
+  stop c ++
+  "</linearGradient>"
+
+stop :: Color -> String
+stop c =
+  "<stop" ++
+  " offset=\"0\"" ++
+  " style=\"stop-opacity:1;" ++
+  "stop-color:#" ++ hexd c ++ "\" />"
+
+colorId :: Color -> String
+colorId c = "_c" ++ show c
 
 hexd :: Color -> String
 hexd c = case c of
-           0 -> "101010"
-           1 -> "220022"
-           2 -> "333"
-           3 -> "C11"
-           4 -> "11C"
-           5 -> "255"
-           6 -> "6A6"
-           7 -> "311"
-           _ -> "A1A"
+           0 -> "111"
+           1 -> "333"
+           2 -> "666"
+           3 -> "999"
+           4 -> "AAA"
+           5 -> "CCC"
+           6 -> "EEE"
+           7 -> "F4F4F4"
+           _ -> "A11"
 
-svgFoot :: String
-svgFoot = 
-  "</g></svg>"
+

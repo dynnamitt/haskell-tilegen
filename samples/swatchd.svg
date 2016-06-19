@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1500"
+   height="3000"
+   id="svg33117">
+  <metadata
+     id="metadata34533">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs34531">
+    <linearGradient
+       id="linearGradient34547">
+      <stop
+         id="stop34549"
+         style="stop-color:#a8986f;stop-opacity:1"
+         offset="0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient34541">
+      <stop
+         id="stop34543"
+         style="stop-color:#652929;stop-opacity:1"
+         offset="0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient34535">
+      <stop
+         id="stop34537"
+         style="stop-color:#9f419f;stop-opacity:1"
+         offset="0" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g33119">
+    <rect
+       width="100"
+       height="50"
+       x="0"
+       y="0"
+       id="rect33121"
+       style="fill:url(#linearGradient34535);stroke:#000000" />
+    <rect
+       width="100"
+       height="50"
+       x="100"
+       y="0"
+       id="rect33123"
+       style="fill:url(#linearGradient34535);stroke:#000000" />
+    <rect
+       width="100"
+       height="50"
+       x="200"
+       y="0"
+       id="rect33125"
+       style="fill:url(#linearGradient34541);stroke:#000000" />
+    <rect
+       width="50"
+       height="50"
+       x="300"
+       y="0"
+       id="rect33127"
+       style="fill:url(#linearGradient34535);stroke:#000000" />
+    <rect
+       width="50"
+       height="50"
+       x="0"
+       y="50"
+       id="rect33147"
+       style="fill:url(#linearGradient34541);stroke:#000000" />
+    <rect
+       width="100"
+       height="50"
+       x="50"
+       y="50"
+       id="rect33149"
+       style="fill:#bf6f6f;fill-opacity:1;stroke:#000000" />
+    <rect
+       width="50"
+       height="50"
+       x="150"
+       y="50"
+       id="rect33151"
+       style="fill:#cc1111;stroke:#000000" />
+    <rect
+       width="100"
+       height="50"
+       x="200"
+       y="50"
+       id="rect33153"
+       style="fill:#bf6f6f;fill-opacity:1;stroke:#000000" />
+    <rect
+       width="50"
+       height="50"
+       x="300"
+       y="50"
+       id="rect33155"
+       style="fill:url(#linearGradient34535);stroke:#000000" />
+    <rect
+       width="50"
+       height="50"
+       x="0"
+       y="100"
+       id="rect33179"
+       style="fill:url(#linearGradient34541);stroke:#000000" />
+    <rect
+       width="50"
+       height="50"
+       x="50"
+       y="100"
+       id="rect33181"
+       style="fill:#cc1111;stroke:#000000" />
+    <rect
+       width="100"
+       height="50"
+       x="100"
+       y="100"
+       id="rect33183"
+       style="fill:#cc1111;stroke:#000000" />
+    <rect
+       width="50"
+       height="50"
+       x="200"
+       y="100"
+       id="rect33185"
+       style="fill:url(#linearGradient34535);stroke:#000000" />
+    <rect
+       width="50"
+       height="50"
+       x="250"
+       y="100"
+       id="rect33187"
+       style="fill:#bf6f6f;fill-opacity:1;stroke:#000000" />
+    <rect
+       width="100"
+       height="50"
+       x="300"
+       y="100"
+       id="rect33189"
+       style="fill:url(#linearGradient34541);stroke:#000000" />
+    <rect
+       width="50"
+       height="50"
+       x="0"
+       y="150"
+       id="rect33211"
+       style="fill:url(#linearGradient34541);stroke:#000000" />
+    <rect
+       width="100"
+       height="50"
+       x="50"
+       y="150"
+       id="rect33213"
+       style="fill:url(#linearGradient34541);stroke:#000000" />
+    <rect
+       width="50"
+       height="50"
+       x="150"
+       y="150"
+       id="rect33215"
+       style="fill:#cc1111;stroke:#000000" />
+    <rect
+       width="100"
+       height="50"
+       x="200"
+       y="150"
+       id="rect33217"
+       style="fill:url(#linearGradient34535);stroke:#000000" />
+    <rect
+       width="100"
+       height="50"
+       x="300"
+       y="150"
+       id="rect33219"
+       style="fill:#cc1111;stroke:#000000" />
+    <rect
+       width="100"
+       height="50"
+       x="0"
+       y="200"
+       id="rect33239"
+       style="fill:url(#linearGradient34535);stroke:#000000" />
+    <rect
+       width="100"
+       height="50"
+       x="100"
+       y="200"
+       id="rect33241"
+       style="fill:url(#linearGradient34541);stroke:#000000" />
+    <rect
+       width="100"
+       height="50"
+       x="200"
+       y="200"
+       id="rect33243"
+       style="fill:#bf6f6f;fill-opacity:1;stroke:#000000" />
+    <rect
+       width="100"
+       height="50"
+       x="300"
+       y="200"
+       id="rect33245"
+       style="fill:url(#linearGradient34541);stroke:#000000" />
+  </g>
+</svg>

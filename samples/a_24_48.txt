@@ -1,0 +1,49 @@
+d  1d  1d  0s1d  2d  2d  0s2d  0d  3d  3d  1d  0
+s0d  2s3d  2s1d  0s0d  2s3d  1d  1d  0d  3s0s2d  1
+s0s3d  3s1s2d  0d  0d  0d  3d  2s1s2s1d  2s3d  0
+s0d  0s3d  1d  3d  0s3d  0d  3d  1s0d  0d  2d  2
+d  1d  0d  2d  0d  0s1d  3d  3s0d  3d  3s3d  1d  3
+d  3d  1d  1d  0d  0d  1d  3d  1s1s0d  2d  2d  1
+d  2d  2s0d  2d  1d  2d  0s0d  0d  0s0s0s3s3s3s2
+s1d  0s1d  3d  1s2d  3s0s2d  3d  0d  2d  0d  1s3
+s2s1s2d  1d  2d  1d  0d  3d  2d  3d  1d  1d  3s3
+d  1d  0s0d  1d  1s0d  2d  3d  3s3d  3s0d  0d  1
+s0d  2s1d  1d  2d  0d  2d  2s2d  0d  3s1s0s0d  1
+s1d  2s0d  0s2d  3d  0d  0d  0s0d  3s2s1d  0d  3
+s0d  1d  1d  2d  3d  0d  2d  2d  2d  0s3s3s1d  2
+s0d  3s0d  1d  2s1d  2d  1d  0s3d  1s3d  3d  3s3
+s3d  1d  0d  1d  2s1s0d  2s2d  2s2d  1s3d  3s3d  0
+s0d  2d  3d  1s0s3d  3d  0d  2d  3d  0s3d  2d  2
+d  3d  0d  0d  1d  3d  1s3d  2s1d  1s2d  2d  2s0
+d  0s1d  2s3d  1s1d  0d  1d  0d  1d  3d  1d  2d  0
+s0s3d  3d  1d  0d  3d  1s1d  0d  2d  1d  0d  2s0
+d  3d  0s3d  1d  1d  2s0d  1d  3d  3d  0s1s0d  3
+d  2s0s1d  0s3d  1s3d  0d  2s1d  1d  0d  1s0s1d  1
+s2s1d  1d  2s2s2d  1d  0s0d  2d  0d  0s0d  3d  0
+d  1s3d  2d  3d  2s0s0d  1d  2d  2s1d  3s1d  2d  2
+d  2s0d  3s3d  3d  3s2d  2s1d  0d  2d  2d  2d  2
+s2d  3d  3d  0s0d  2d  0s1s3d  3d  3s0d  3s3d  1
+s0s1d  3d  2s1s3d  0d  0s3d  1d  3d  3s0s3d  3d  0
+d  0s2s0s3d  3d  2s3s0s3d  3d  2s1s0d  2s3d  3d  1
+s0s3d  3s3d  1s1d  2s1s3d  1s0d  1d  2s3d  0d  2
+d  2d  1s0d  3d  0s3d  0s1s0d  1s0d  1d  0s1d  2
+d  2d  3s3d  2d  0d  2d  2d  3d  0d  0s1d  3s3d  0
+d  2d  2d  3d  3s0d  2s2d  1d  0d  3d  2d  2d  3
+d  2d  3d  1s0s2s3d  1d  1d  1d  3d  0d  3d  1d  2
+d  3d  1d  0d  2s1d  0d  1d  2s0d  1d  2s0s1d  2
+d  3s2d  2s2d  2s0d  2s2d  2d  2s1d  2s0d  1d  3
+d  1d  3s3s2s2d  3d  1d  0s3d  3d  2s3d  2d  0d  1
+d  1s0d  1s0s2d  0d  0s0d  3d  1s1d  3d  3d  3d  0
+d  2d  2d  3s1s0s1s1d  2s0s2d  3d  3s0d  3s1d  3
+d  1d  1d  3d  3d  2d  0d  2d  2d  2d  0d  2s2s2
+d  3s1d  0d  1d  1d  1d  0d  2d  1d  3d  1d  0d  0
+d  1s2d  0d  1s0s0d  3d  1s0s3s2s2d  1d  1d  3d  1
+s0d  3d  3d  0s1d  0d  0d  1s3d  1s0d  0s3s2d  2
+d  3d  1s0d  3d  2d  3s2d  1d  3d  2s1s3s0d  1s1
+s2d  1d  1d  1s3d  1d  3s0s1s0d  0d  0d  1s2d  2
+s1d  3d  2s2d  1d  3d  0d  3d  2d  2d  3d  3d  3
+d  3s0d  3d  2s1d  1d  1s0s1d  3s1d  3d  1d  2d  2
+s0d  2d  2d  1s2d  2d  0s2d  3d  3s0d  1s3d  1s2
+d  2s0d  1s0d  1d  2d  2d  2d  0d  0s3d  3d  2d  2
+s2d  2d  0d  1s0s3d  2s1s3d  3s3d  0d  3d  3d  3
+
