@@ -6,6 +6,8 @@ pageH = 1100
 rectHeight = 20
 rectWidth = 20
 
+
+
 main = do
   putStrLn svgHead
   parseTiles 0
@@ -14,6 +16,7 @@ main = do
 parseTiles :: Int -> IO ()
 parseTiles rowNum = do
   row <- getLine
+  -- let row' = filter isCodeChar row
   if null row || length row < 2
     then 
       return ()
@@ -34,6 +37,11 @@ svgHead =
 svgFoot :: String
 svgFoot = 
   "</g></svg>"
+
+-- stilly
+isCodeChar :: Char -> Bool
+isCodeChar ch = 
+  elem ch "0123456789sd \n"
 
 type Pos = (Int,Int) -- x,y
 type Color = Int
@@ -90,7 +98,7 @@ attr n =
 style :: Color -> String
 style c =
   "fill:url(#" ++ colorId c ++ ");" ++
-  "stroke:#000;"
+  "stroke:#999;"
 
 fillGrps :: String
 fillGrps =
