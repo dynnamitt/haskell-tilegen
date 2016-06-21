@@ -29,8 +29,8 @@
      id="namedview25389"
      showgrid="false"
      inkscape:zoom="1.4557148"
-     inkscape:cx="525.94916"
-     inkscape:cy="205.20736"
+     inkscape:cx="486.94311"
+     inkscape:cy="260.16318"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -1184,7 +1184,7 @@
        sodipodi:role="line"
        id="tspan25945"
        x="540.15698"
-       y="501.66629">(11+18)x4</tspan></text>
+       y="501.66629">(13+18)x4</tspan></text>
 <text
      sodipodi:linespacing="125%"
      id="text25947"
@@ -1195,5 +1195,5 @@
        y="443.17953"
        x="400.84393"
        id="tspan25949"
-       sodipodi:role="line">11x1</tspan></text>
+       sodipodi:role="line">13x1</tspan></text>
 </svg>
