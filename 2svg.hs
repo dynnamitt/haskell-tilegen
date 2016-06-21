@@ -6,8 +6,6 @@ pageH = 1100
 rectHeight = 20
 rectWidth = 20
 
-
-
 main = do
   putStrLn svgHead
   parseTiles 0
@@ -90,6 +88,7 @@ svgRow xOffset rowN row =
 rect :: Pos -> Int -> Color -> String
 rect pos wFactor color = 
   "<rect " ++
+  " class=\"swatch_" ++ show color ++ " spans_" ++ show wFactor ++ "\"" ++
   " width=" ++ attr ( rectWidth * wFactor ) ++ 
   " height=" ++ attr rectHeight ++
   " x=" ++ attr (fst pos) ++
