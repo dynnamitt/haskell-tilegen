@@ -1,4 +1,5 @@
 import System.Random
+
 import System.Exit
 import System.Environment
 
@@ -70,7 +71,7 @@ main = do
 -- args or death
 parseArgs :: IO InputArgs
 parseArgs = do
-  let argsLen = 5
+  let argsLen = 4
   args <- getArgs -- IO
   if length args < argsLen
     then do
@@ -83,7 +84,8 @@ parseArgs = do
       , tileSizes = read $ args !! 1 
       , floorWidth =  read $ args !! 2 
       , floorHeight = read $ args !! 3
-      , colorMode = args !! 4}
+      , colorMode = "color" }
+      -- always color .. for now
 
 -- help
 usage :: IO ()
@@ -92,13 +94,12 @@ usage = do
   putStrLn "Tool that generates floor w tiles from random."
   putStrLn "usage:"
   putStrLn $ nixEsc 1 ++ fgColor 3 -- HI fg, yellow
-  putStrLn $ "  " ++ prog ++ " <C> <S> <W> <H> <M>" ++ nixEsc 0 -- restore ESC
+  putStrLn $ "  " ++ prog ++ " <C> <S> <W> <H> " ++ nixEsc 0 -- restore ESC
   putStrLn "  where \n  C -> Number; Tile color variations"
-  putStrLn "  S -> Number; Size odds. Tile is either 1 or 2 cell,"
+  putStrLn "  S -> Number; Span odds. Tile spans either 1 or 2 cell,"
   putStrLn "       and higher number here will give 1cell lower odds"
   putStrLn "  W -> Number; Floor width. Number of cells before new row"
   putStrLn "  H -> Number; Floor height, aka rows"
-  putStrLn "  M -> Outputmode; either 'color' or 'bw'"
 
 
 -- should return uniq set of tiles w counted totals
@@ -189,6 +190,7 @@ nicerColor n
   | n == 5 = 4 -- blue
   | n == 6 = 5 -- magents
   | n == 7 = 1 -- red
+  | otherwise = 1 -- red
 
 nixEsc :: Int ->String
 nixEsc n = "\ESC[" ++ show n ++ "m"

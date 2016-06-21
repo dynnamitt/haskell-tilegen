@@ -2,19 +2,27 @@
 
 .. should the handyman want random
 
+It will generate a floor (rows and cells) of tiles that span either 1 or 2 cells.
+
+Max 10 colors. 
+
+Dbl tiles will sometimes be used at end of row since we have invented THE SAW.
+
 ## Build
 
     cabal configure && cabal build
 
-## Run w unix colors
+## Run w unix colors ( ESC[ )
 
-    tile-gen 3 3 20 20 color
+    usage: tile-gen <colors> <span-odds> <floor-w> <floor-h>
+
+    $ ./tile-gen 3 3 20 20
 
 ## Generate SVG
 
-    tile-gen 3 2 25 75 bw | 2svg
+    $ ./tile-gen 4 1 24 48 | tee /dev/stderr | ./2svg > my-floor.svg
 
 ## TODO
 
-  -  move summary into sep. bin
-  -  move colorize into sep. bin
+  - moneySaver func (merge small cell into dbl if siblings)
+  - summary XSLT (after floor have been optimized MANUALLY in Inkscape :)

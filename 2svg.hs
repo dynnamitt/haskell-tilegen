@@ -16,12 +16,13 @@ main = do
 parseTiles :: Int -> IO ()
 parseTiles rowNum = do
   row <- getLine
+  let rowBW = removeEsc row
   -- let row' = filter isCodeChar row
-  if null row || length row < 2
+  if null rowBW || length rowBW < 2
     then 
       return ()
     else do
-      putStrLn $ svgRow 0 rowNum row
+      putStrLn $ svgRow 0 rowNum rowBW
       parseTiles $ rowNum + 1
 
 svgHead :: String
@@ -38,10 +39,15 @@ svgFoot :: String
 svgFoot = 
   "</g></svg>"
 
--- stilly
-isCodeChar :: Char -> Bool
-isCodeChar ch = 
-  elem ch "0123456789sd \n"
+-- works w ESC[ codes from 00-99 ending w 'm'
+removeEsc :: String -> String
+removeEsc (a:b:c:d:xs)  
+  | a == '\ESC' && b == '[' = 
+    if d == 'm'
+    then removeEsc xs -- one figure code
+    else removeEsc $ drop 1 xs -- two figure code
+  | otherwise = a : removeEsc ( b:c:d:xs ) -- aproved char a
+removeEsc str = str -- aprove all
 
 type Pos = (Int,Int) -- x,y
 type Color = Int
