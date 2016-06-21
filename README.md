@@ -12,9 +12,9 @@ Dbl tiles will sometimes be used at end of row since we have invented THE SAW.
 
 ## Build
 
-    Make sure you have Linux (doh) and haskell-platform !
+Make sure you have Linux (doh) and haskell-platform !
 
-    cabal configure && cabal build
+    $ cabal configure && cabal build
 
 ## Run w unix colors ( ESC[ )
 
