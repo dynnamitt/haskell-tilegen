@@ -1,6 +1,6 @@
-# Tile generator for floors :p 
+# Streaming tile generator for floors :p 
 
-.. should the handyman want random (GNU)
+.. should the handyman want random (infinite) floors !
 
 It will generate a floor (rows and cells) of tiles that span either 1 or 2 cells.
 

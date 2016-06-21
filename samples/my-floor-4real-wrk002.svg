@@ -1,0 +1,7072 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1100"
+   height="1100"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="my-floor-4real-wrk002.svg">
+  <metadata
+     id="metadata2344">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     id="namedview2342"
+     showgrid="false"
+     inkscape:zoom="1.0889444"
+     inkscape:cx="203.79005"
+     inkscape:cy="507.97818"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="_c0"
+       osb:paint="solid"
+       gradientTransform="translate(4170.5,6830.5)">
+      <stop
+         offset="0"
+         style="stop-opacity:1;stop-color:#111"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       id="_c1"
+       osb:paint="solid"
+       gradientTransform="translate(3951,6471)">
+      <stop
+         offset="0"
+         style="stop-opacity:1;stop-color:#333"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="_c2"
+       osb:paint="solid"
+       gradientTransform="translate(5926.5,9706.5)">
+      <stop
+         offset="0"
+         style="stop-opacity:1;stop-color:#666"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       id="_c3"
+       osb:paint="solid"
+       gradientTransform="translate(4829,7909)">
+      <stop
+         offset="0"
+         style="stop-opacity:1;stop-color:#999"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       id="_c4"
+       osb:paint="solid"
+       gradientTransform="translate(2853.5,4673.5)">
+      <stop
+         offset="0"
+         style="stop-opacity:1;stop-color:#AAA"
+         id="stop19" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#_c3"
+       id="linearGradient20953"
+       x1="359.5"
+       y1="419.5"
+       x2="380.5"
+       y2="419.5"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#_c1"
+       id="linearGradient20955"
+       x1="319.5"
+       y1="419.5"
+       x2="340.5"
+       y2="419.5"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#_c4"
+       id="linearGradient20951"
+       x1="299.5"
+       y1="419.5"
+       x2="320.5"
+       y2="419.5"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#_c0"
+       id="linearGradient20957"
+       x1="359.5"
+       y1="399.5"
+       x2="380.5"
+       y2="399.5"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#_c2"
+       id="linearGradient20959"
+       x1="339.5"
+       y1="399.5"
+       x2="360.5"
+       y2="399.5"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     id="rect38"
+     style="fill:url(#_c2);stroke:#999"
+     y="0"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect40"
+     style="fill:url(#_c2);stroke:#999"
+     y="0"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect42"
+     style="fill:url(#_c2);stroke:#999"
+     y="0"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect44"
+     style="fill:url(#_c3);stroke:#999"
+     y="0"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect46"
+     style="fill:url(#_c4);stroke:#999"
+     y="0"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect48"
+     style="fill:url(#_c4);stroke:#999"
+     y="0"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect50"
+     style="fill:url(#_c4);stroke:#999"
+     y="0"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect52"
+     style="fill:url(#_c0);stroke:#999"
+     y="0"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect54"
+     style="fill:url(#_c2);stroke:#999"
+     y="0"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect56"
+     style="fill:url(#_c4);stroke:#999"
+     y="0"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect58"
+     style="fill:url(#_c4);stroke:#999"
+     y="0"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect60"
+     style="fill:url(#_c0);stroke:#999"
+     y="0"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect62"
+     style="fill:url(#_c1);stroke:#999"
+     y="0"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect64"
+     style="fill:url(#_c2);stroke:#999"
+     y="0"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect66"
+     style="fill:url(#_c3);stroke:#999"
+     y="0"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect68"
+     style="fill:url(#_c4);stroke:#999"
+     y="0"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect70"
+     style="fill:url(#_c1);stroke:#999"
+     y="0"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect72"
+     style="fill:url(#_c2);stroke:#999"
+     y="0"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect74"
+     style="fill:url(#_c1);stroke:#999"
+     y="0"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect76"
+     style="fill:url(#_c2);stroke:#999"
+     y="0"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect86"
+     style="fill:url(#_c1);stroke:#999"
+     y="20"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect88"
+     style="fill:url(#_c2);stroke:#999"
+     y="20"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect90"
+     style="fill:url(#_c2);stroke:#999"
+     y="20"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect92"
+     style="fill:url(#_c0);stroke:#999"
+     y="20"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect94"
+     style="fill:url(#_c0);stroke:#999"
+     y="20"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect96"
+     style="fill:url(#_c3);stroke:#999"
+     y="20"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect98"
+     style="fill:url(#_c1);stroke:#999"
+     y="20"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect100"
+     style="fill:url(#_c3);stroke:#999"
+     y="20"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect102"
+     style="fill:url(#_c0);stroke:#999"
+     y="20"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect104"
+     style="fill:url(#_c2);stroke:#999"
+     y="20"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect106"
+     style="fill:url(#_c1);stroke:#999"
+     y="20"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect108"
+     style="fill:url(#_c3);stroke:#999"
+     y="20"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect110"
+     style="fill:url(#_c2);stroke:#999"
+     y="20"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect112"
+     style="fill:url(#_c4);stroke:#999"
+     y="20"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect114"
+     style="fill:url(#_c3);stroke:#999"
+     y="20"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect116"
+     style="fill:url(#_c3);stroke:#999"
+     y="20"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect118"
+     style="fill:url(#_c4);stroke:#999"
+     y="20"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect120"
+     style="fill:url(#_c3);stroke:#999"
+     y="20"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect122"
+     style="fill:url(#_c2);stroke:#999"
+     y="20"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect124"
+     style="fill:url(#_c3);stroke:#999"
+     y="20"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect134"
+     style="fill:url(#_c3);stroke:#999"
+     y="40"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect136"
+     style="fill:url(#_c4);stroke:#999"
+     y="40"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect138"
+     style="fill:url(#_c2);stroke:#999"
+     y="40"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect140"
+     style="fill:url(#_c2);stroke:#999"
+     y="40"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect142"
+     style="fill:url(#_c3);stroke:#999"
+     y="40"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect144"
+     style="fill:url(#_c1);stroke:#999"
+     y="40"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect146"
+     style="fill:url(#_c3);stroke:#999"
+     y="40"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect148"
+     style="fill:url(#_c4);stroke:#999"
+     y="40"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect150"
+     style="fill:url(#_c0);stroke:#999"
+     y="40"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect152"
+     style="fill:url(#_c1);stroke:#999"
+     y="40"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect154"
+     style="fill:url(#_c4);stroke:#999"
+     y="40"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect156"
+     style="fill:url(#_c4);stroke:#999"
+     y="40"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect158"
+     style="fill:url(#_c1);stroke:#999"
+     y="40"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect160"
+     style="fill:url(#_c3);stroke:#999"
+     y="40"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect162"
+     style="fill:url(#_c4);stroke:#999"
+     y="40"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect164"
+     style="fill:url(#_c0);stroke:#999"
+     y="40"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect166"
+     style="fill:url(#_c1);stroke:#999"
+     y="40"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect168"
+     style="fill:url(#_c3);stroke:#999"
+     y="40"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect170"
+     style="fill:url(#_c0);stroke:#999"
+     y="40"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect172"
+     style="fill:url(#_c4);stroke:#999"
+     y="40"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect182"
+     style="fill:url(#_c3);stroke:#999"
+     y="60"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect184"
+     style="fill:url(#_c1);stroke:#999"
+     y="60"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect186"
+     style="fill:url(#_c2);stroke:#999"
+     y="60"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect188"
+     style="fill:url(#_c1);stroke:#999"
+     y="60"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect190"
+     style="fill:url(#_c1);stroke:#999"
+     y="60"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect192"
+     style="fill:url(#_c1);stroke:#999"
+     y="60"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect194"
+     style="fill:url(#_c2);stroke:#999"
+     y="60"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect196"
+     style="fill:url(#_c2);stroke:#999"
+     y="60"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect198"
+     style="fill:url(#_c1);stroke:#999"
+     y="60"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect200"
+     style="fill:url(#_c0);stroke:#999"
+     y="60"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect202"
+     style="fill:url(#_c2);stroke:#999"
+     y="60"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect204"
+     style="fill:url(#_c2);stroke:#999"
+     y="60"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect206"
+     style="fill:url(#_c0);stroke:#999"
+     y="60"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect208"
+     style="fill:url(#_c2);stroke:#999"
+     y="60"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect210"
+     style="fill:url(#_c1);stroke:#999"
+     y="60"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect212"
+     style="fill:url(#_c2);stroke:#999"
+     y="60"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect214"
+     style="fill:url(#_c1);stroke:#999"
+     y="60"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect216"
+     style="fill:url(#_c1);stroke:#999"
+     y="60"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect218"
+     style="fill:url(#_c2);stroke:#999"
+     y="60"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect220"
+     style="fill:url(#_c0);stroke:#999"
+     y="60"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect230"
+     style="fill:url(#_c0);stroke:#999"
+     y="80"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect232"
+     style="fill:url(#_c1);stroke:#999"
+     y="80"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect234"
+     style="fill:url(#_c3);stroke:#999"
+     y="80"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect236"
+     style="fill:url(#_c3);stroke:#999"
+     y="80"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect238"
+     style="fill:url(#_c4);stroke:#999"
+     y="80"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect240"
+     style="fill:url(#_c0);stroke:#999"
+     y="80"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect242"
+     style="fill:url(#_c1);stroke:#999"
+     y="80"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect244"
+     style="fill:url(#_c2);stroke:#999"
+     y="80"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect246"
+     style="fill:url(#_c3);stroke:#999"
+     y="80"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect248"
+     style="fill:url(#_c2);stroke:#999"
+     y="80"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect250"
+     style="fill:url(#_c1);stroke:#999"
+     y="80"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect252"
+     style="fill:url(#_c4);stroke:#999"
+     y="80"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect254"
+     style="fill:url(#_c1);stroke:#999"
+     y="80"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect256"
+     style="fill:url(#_c0);stroke:#999"
+     y="80"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect258"
+     style="fill:url(#_c4);stroke:#999"
+     y="80"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect260"
+     style="fill:url(#_c4);stroke:#999"
+     y="80"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect262"
+     style="fill:url(#_c3);stroke:#999"
+     y="80"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect264"
+     style="fill:url(#_c1);stroke:#999"
+     y="80"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect266"
+     style="fill:url(#_c4);stroke:#999"
+     y="80"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect268"
+     style="fill:url(#_c2);stroke:#999"
+     y="80"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect278"
+     style="fill:url(#_c4);stroke:#999"
+     y="100"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect280"
+     style="fill:url(#_c2);stroke:#999"
+     y="100"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect282"
+     style="fill:url(#_c2);stroke:#999"
+     y="100"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect284"
+     style="fill:url(#_c2);stroke:#999"
+     y="100"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect286"
+     style="fill:url(#_c1);stroke:#999"
+     y="100"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect288"
+     style="fill:url(#_c4);stroke:#999"
+     y="100"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect290"
+     style="fill:url(#_c0);stroke:#999"
+     y="100"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect292"
+     style="fill:url(#_c2);stroke:#999"
+     y="100"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect294"
+     style="fill:url(#_c4);stroke:#999"
+     y="100"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect296"
+     style="fill:url(#_c1);stroke:#999"
+     y="100"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect298"
+     style="fill:url(#_c1);stroke:#999"
+     y="100"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect300"
+     style="fill:url(#_c4);stroke:#999"
+     y="100"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect302"
+     style="fill:url(#_c4);stroke:#999"
+     y="100"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect304"
+     style="fill:url(#_c1);stroke:#999"
+     y="100"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect306"
+     style="fill:url(#_c3);stroke:#999"
+     y="100"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect308"
+     style="fill:url(#_c3);stroke:#999"
+     y="100"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect310"
+     style="fill:url(#_c3);stroke:#999"
+     y="100"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect312"
+     style="fill:url(#_c4);stroke:#999"
+     y="100"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect314"
+     style="fill:url(#_c2);stroke:#999"
+     y="100"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect316"
+     style="fill:url(#_c3);stroke:#999"
+     y="100"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect326"
+     style="fill:url(#_c1);stroke:#999"
+     y="120"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect328"
+     style="fill:url(#_c4);stroke:#999"
+     y="120"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect330"
+     style="fill:url(#_c2);stroke:#999"
+     y="120"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect332"
+     style="fill:url(#_c2);stroke:#999"
+     y="120"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect334"
+     style="fill:url(#_c3);stroke:#999"
+     y="120"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect336"
+     style="fill:url(#_c1);stroke:#999"
+     y="120"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect338"
+     style="fill:url(#_c2);stroke:#999"
+     y="120"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect340"
+     style="fill:url(#_c4);stroke:#999"
+     y="120"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect342"
+     style="fill:url(#_c3);stroke:#999"
+     y="120"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect344"
+     style="fill:url(#_c4);stroke:#999"
+     y="120"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect346"
+     style="fill:url(#_c2);stroke:#999"
+     y="120"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect348"
+     style="fill:url(#_c3);stroke:#999"
+     y="120"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect350"
+     style="fill:url(#_c2);stroke:#999"
+     y="120"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect352"
+     style="fill:url(#_c0);stroke:#999"
+     y="120"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect354"
+     style="fill:url(#_c4);stroke:#999"
+     y="120"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect356"
+     style="fill:url(#_c0);stroke:#999"
+     y="120"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect358"
+     style="fill:url(#_c4);stroke:#999"
+     y="120"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect360"
+     style="fill:url(#_c1);stroke:#999"
+     y="120"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect362"
+     style="fill:url(#_c0);stroke:#999"
+     y="120"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect364"
+     style="fill:url(#_c2);stroke:#999"
+     y="120"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect374"
+     style="fill:url(#_c1);stroke:#999"
+     y="140"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect376"
+     style="fill:url(#_c4);stroke:#999"
+     y="140"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect378"
+     style="fill:url(#_c2);stroke:#999"
+     y="140"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect380"
+     style="fill:url(#_c4);stroke:#999"
+     y="140"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect382"
+     style="fill:url(#_c1);stroke:#999"
+     y="140"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect384"
+     style="fill:url(#_c3);stroke:#999"
+     y="140"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect386"
+     style="fill:url(#_c3);stroke:#999"
+     y="140"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect388"
+     style="fill:url(#_c2);stroke:#999"
+     y="140"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect390"
+     style="fill:url(#_c3);stroke:#999"
+     y="140"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect392"
+     style="fill:url(#_c1);stroke:#999"
+     y="140"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect394"
+     style="fill:url(#_c1);stroke:#999"
+     y="140"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect396"
+     style="fill:url(#_c4);stroke:#999"
+     y="140"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect398"
+     style="fill:url(#_c0);stroke:#999"
+     y="140"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect400"
+     style="fill:url(#_c4);stroke:#999"
+     y="140"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect402"
+     style="fill:url(#_c4);stroke:#999"
+     y="140"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect404"
+     style="fill:url(#_c0);stroke:#999"
+     y="140"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect406"
+     style="fill:url(#_c3);stroke:#999"
+     y="140"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect408"
+     style="fill:url(#_c3);stroke:#999"
+     y="140"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect410"
+     style="fill:url(#_c4);stroke:#999"
+     y="140"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect412"
+     style="fill:url(#_c2);stroke:#999"
+     y="140"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect422"
+     style="fill:url(#_c2);stroke:#999"
+     y="160"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect424"
+     style="fill:url(#_c3);stroke:#999"
+     y="160"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect426"
+     style="fill:url(#_c0);stroke:#999"
+     y="160"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect428"
+     style="fill:url(#_c4);stroke:#999"
+     y="160"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect430"
+     style="fill:url(#_c0);stroke:#999"
+     y="160"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect432"
+     style="fill:url(#_c4);stroke:#999"
+     y="160"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect434"
+     style="fill:url(#_c4);stroke:#999"
+     y="160"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect436"
+     style="fill:url(#_c0);stroke:#999"
+     y="160"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect438"
+     style="fill:url(#_c3);stroke:#999"
+     y="160"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect440"
+     style="fill:url(#_c2);stroke:#999"
+     y="160"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect442"
+     style="fill:url(#_c3);stroke:#999"
+     y="160"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect444"
+     style="fill:url(#_c0);stroke:#999"
+     y="160"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect446"
+     style="fill:url(#_c1);stroke:#999"
+     y="160"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect448"
+     style="fill:url(#_c1);stroke:#999"
+     y="160"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect450"
+     style="fill:url(#_c2);stroke:#999"
+     y="160"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect452"
+     style="fill:url(#_c4);stroke:#999"
+     y="160"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect454"
+     style="fill:url(#_c2);stroke:#999"
+     y="160"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect456"
+     style="fill:url(#_c1);stroke:#999"
+     y="160"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect458"
+     style="fill:url(#_c0);stroke:#999"
+     y="160"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect460"
+     style="fill:url(#_c1);stroke:#999"
+     y="160"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect470"
+     style="fill:url(#_c0);stroke:#999"
+     y="180"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect472"
+     style="fill:url(#_c0);stroke:#999"
+     y="180"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect474"
+     style="fill:url(#_c4);stroke:#999"
+     y="180"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect476"
+     style="fill:url(#_c0);stroke:#999"
+     y="180"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect478"
+     style="fill:url(#_c2);stroke:#999"
+     y="180"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect480"
+     style="fill:url(#_c1);stroke:#999"
+     y="180"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect482"
+     style="fill:url(#_c1);stroke:#999"
+     y="180"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect484"
+     style="fill:url(#_c1);stroke:#999"
+     y="180"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect486"
+     style="fill:url(#_c0);stroke:#999"
+     y="180"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect488"
+     style="fill:url(#_c0);stroke:#999"
+     y="180"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect490"
+     style="fill:url(#_c2);stroke:#999"
+     y="180"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect492"
+     style="fill:url(#_c0);stroke:#999"
+     y="180"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect494"
+     style="fill:url(#_c1);stroke:#999"
+     y="180"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect496"
+     style="fill:url(#_c2);stroke:#999"
+     y="180"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect498"
+     style="fill:url(#_c2);stroke:#999"
+     y="180"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect500"
+     style="fill:url(#_c2);stroke:#999"
+     y="180"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect502"
+     style="fill:url(#_c0);stroke:#999"
+     y="180"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect504"
+     style="fill:url(#_c1);stroke:#999"
+     y="180"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect506"
+     style="fill:url(#_c1);stroke:#999"
+     y="180"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect508"
+     style="fill:url(#_c1);stroke:#999"
+     y="180"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect518"
+     style="fill:url(#_c3);stroke:#999"
+     y="200"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect520"
+     style="fill:url(#_c0);stroke:#999"
+     y="200"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect522"
+     style="fill:url(#_c1);stroke:#999"
+     y="200"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect524"
+     style="fill:url(#_c3);stroke:#999"
+     y="200"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect526"
+     style="fill:url(#_c0);stroke:#999"
+     y="200"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect528"
+     style="fill:url(#_c1);stroke:#999"
+     y="200"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect530"
+     style="fill:url(#_c3);stroke:#999"
+     y="200"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect532"
+     style="fill:url(#_c4);stroke:#999"
+     y="200"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect534"
+     style="fill:url(#_c1);stroke:#999"
+     y="200"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect536"
+     style="fill:url(#_c4);stroke:#999"
+     y="200"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect538"
+     style="fill:url(#_c4);stroke:#999"
+     y="200"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect540"
+     style="fill:url(#_c1);stroke:#999"
+     y="200"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect542"
+     style="fill:url(#_c0);stroke:#999"
+     y="200"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect544"
+     style="fill:url(#_c4);stroke:#999"
+     y="200"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect546"
+     style="fill:url(#_c2);stroke:#999"
+     y="200"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect548"
+     style="fill:url(#_c4);stroke:#999"
+     y="200"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect550"
+     style="fill:url(#_c3);stroke:#999"
+     y="200"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect552"
+     style="fill:url(#_c2);stroke:#999"
+     y="200"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect554"
+     style="fill:url(#_c2);stroke:#999"
+     y="200"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect556"
+     style="fill:url(#_c4);stroke:#999"
+     y="200"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect566"
+     style="fill:url(#_c3);stroke:#999"
+     y="220"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect568"
+     style="fill:url(#_c3);stroke:#999"
+     y="220"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect570"
+     style="fill:url(#_c4);stroke:#999"
+     y="220"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect572"
+     style="fill:url(#_c4);stroke:#999"
+     y="220"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect574"
+     style="fill:url(#_c4);stroke:#999"
+     y="220"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect576"
+     style="fill:url(#_c1);stroke:#999"
+     y="220"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect578"
+     style="fill:url(#_c3);stroke:#999"
+     y="220"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect580"
+     style="fill:url(#_c3);stroke:#999"
+     y="220"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect582"
+     style="fill:url(#_c1);stroke:#999"
+     y="220"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect584"
+     style="fill:url(#_c4);stroke:#999"
+     y="220"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect586"
+     style="fill:url(#_c0);stroke:#999"
+     y="220"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect588"
+     style="fill:url(#_c1);stroke:#999"
+     y="220"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect590"
+     style="fill:url(#_c4);stroke:#999"
+     y="220"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect592"
+     style="fill:url(#_c1);stroke:#999"
+     y="220"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect594"
+     style="fill:url(#_c2);stroke:#999"
+     y="220"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect596"
+     style="fill:url(#_c4);stroke:#999"
+     y="220"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect598"
+     style="fill:url(#_c3);stroke:#999"
+     y="220"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect600"
+     style="fill:url(#_c2);stroke:#999"
+     y="220"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect602"
+     style="fill:url(#_c1);stroke:#999"
+     y="220"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect604"
+     style="fill:url(#_c2);stroke:#999"
+     y="220"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect614"
+     style="fill:url(#_c1);stroke:#999"
+     y="240"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect616"
+     style="fill:url(#_c1);stroke:#999"
+     y="240"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect618"
+     style="fill:url(#_c1);stroke:#999"
+     y="240"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect620"
+     style="fill:url(#_c0);stroke:#999"
+     y="240"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect622"
+     style="fill:url(#_c1);stroke:#999"
+     y="240"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect624"
+     style="fill:url(#_c1);stroke:#999"
+     y="240"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect626"
+     style="fill:url(#_c3);stroke:#999"
+     y="240"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect628"
+     style="fill:url(#_c1);stroke:#999"
+     y="240"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect630"
+     style="fill:url(#_c2);stroke:#999"
+     y="240"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect632"
+     style="fill:url(#_c4);stroke:#999"
+     y="240"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect634"
+     style="fill:url(#_c3);stroke:#999"
+     y="240"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect636"
+     style="fill:url(#_c2);stroke:#999"
+     y="240"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect638"
+     style="fill:url(#_c0);stroke:#999"
+     y="240"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect640"
+     style="fill:url(#_c1);stroke:#999"
+     y="240"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect642"
+     style="fill:url(#_c4);stroke:#999"
+     y="240"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect644"
+     style="fill:url(#_c1);stroke:#999"
+     y="240"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect646"
+     style="fill:url(#_c1);stroke:#999"
+     y="240"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect648"
+     style="fill:url(#_c4);stroke:#999"
+     y="240"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect650"
+     style="fill:url(#_c1);stroke:#999"
+     y="240"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect652"
+     style="fill:url(#_c1);stroke:#999"
+     y="240"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect662"
+     style="fill:url(#_c2);stroke:#999"
+     y="260"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect664"
+     style="fill:url(#_c1);stroke:#999"
+     y="260"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect666"
+     style="fill:url(#_c1);stroke:#999"
+     y="260"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect668"
+     style="fill:url(#_c1);stroke:#999"
+     y="260"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect670"
+     style="fill:url(#_c4);stroke:#999"
+     y="260"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect672"
+     style="fill:url(#_c1);stroke:#999"
+     y="260"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect674"
+     style="fill:url(#_c4);stroke:#999"
+     y="260"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect676"
+     style="fill:url(#_c0);stroke:#999"
+     y="260"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect678"
+     style="fill:url(#_c4);stroke:#999"
+     y="260"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect680"
+     style="fill:url(#_c2);stroke:#999"
+     y="260"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect682"
+     style="fill:url(#_c0);stroke:#999"
+     y="260"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect684"
+     style="fill:url(#_c3);stroke:#999"
+     y="260"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect686"
+     style="fill:url(#_c3);stroke:#999"
+     y="260"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect688"
+     style="fill:url(#_c2);stroke:#999"
+     y="260"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect690"
+     style="fill:url(#_c3);stroke:#999"
+     y="260"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect692"
+     style="fill:url(#_c3);stroke:#999"
+     y="260"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect694"
+     style="fill:url(#_c2);stroke:#999"
+     y="260"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect696"
+     style="fill:url(#_c0);stroke:#999"
+     y="260"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect698"
+     style="fill:url(#_c0);stroke:#999"
+     y="260"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect700"
+     style="fill:url(#_c2);stroke:#999"
+     y="260"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect710"
+     style="fill:url(#_c2);stroke:#999"
+     y="280"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect712"
+     style="fill:url(#_c2);stroke:#999"
+     y="280"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect714"
+     style="fill:url(#_c1);stroke:#999"
+     y="280"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect716"
+     style="fill:url(#_c4);stroke:#999"
+     y="280"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect718"
+     style="fill:url(#_c0);stroke:#999"
+     y="280"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect720"
+     style="fill:url(#_c2);stroke:#999"
+     y="280"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect722"
+     style="fill:url(#_c2);stroke:#999"
+     y="280"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect724"
+     style="fill:url(#_c1);stroke:#999"
+     y="280"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect726"
+     style="fill:url(#_c2);stroke:#999"
+     y="280"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect728"
+     style="fill:url(#_c4);stroke:#999"
+     y="280"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect730"
+     style="fill:url(#_c1);stroke:#999"
+     y="280"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect732"
+     style="fill:url(#_c2);stroke:#999"
+     y="280"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect734"
+     style="fill:url(#_c4);stroke:#999"
+     y="280"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect736"
+     style="fill:url(#_c4);stroke:#999"
+     y="280"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect738"
+     style="fill:url(#_c2);stroke:#999"
+     y="280"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect740"
+     style="fill:url(#_c0);stroke:#999"
+     y="280"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect742"
+     style="fill:url(#_c3);stroke:#999"
+     y="280"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect744"
+     style="fill:url(#_c4);stroke:#999"
+     y="280"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect746"
+     style="fill:url(#_c2);stroke:#999"
+     y="280"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect748"
+     style="fill:url(#_c0);stroke:#999"
+     y="280"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect758"
+     style="fill:url(#_c3);stroke:#999"
+     y="300"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect760"
+     style="fill:url(#_c4);stroke:#999"
+     y="300"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect762"
+     style="fill:url(#_c4);stroke:#999"
+     y="300"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect764"
+     style="fill:url(#_c3);stroke:#999"
+     y="300"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect766"
+     style="fill:url(#_c2);stroke:#999"
+     y="300"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect768"
+     style="fill:url(#_c1);stroke:#999"
+     y="300"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect770"
+     style="fill:url(#_c4);stroke:#999"
+     y="300"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect772"
+     style="fill:url(#_c0);stroke:#999"
+     y="300"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect774"
+     style="fill:url(#_c0);stroke:#999"
+     y="300"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect776"
+     style="fill:url(#_c2);stroke:#999"
+     y="300"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect778"
+     style="fill:url(#_c4);stroke:#999"
+     y="300"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect780"
+     style="fill:url(#_c0);stroke:#999"
+     y="300"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect782"
+     style="fill:url(#_c3);stroke:#999"
+     y="300"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect784"
+     style="fill:url(#_c1);stroke:#999"
+     y="300"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect786"
+     style="fill:url(#_c3);stroke:#999"
+     y="300"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect788"
+     style="fill:url(#_c0);stroke:#999"
+     y="300"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect790"
+     style="fill:url(#_c4);stroke:#999"
+     y="300"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect792"
+     style="fill:url(#_c4);stroke:#999"
+     y="300"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect794"
+     style="fill:url(#_c3);stroke:#999"
+     y="300"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect796"
+     style="fill:url(#_c3);stroke:#999"
+     y="300"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect806"
+     style="fill:url(#_c1);stroke:#999"
+     y="320"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect808"
+     style="fill:url(#_c4);stroke:#999"
+     y="320"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect810"
+     style="fill:url(#_c4);stroke:#999"
+     y="320"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect812"
+     style="fill:url(#_c0);stroke:#999"
+     y="320"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect814"
+     style="fill:url(#_c1);stroke:#999"
+     y="320"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect816"
+     style="fill:url(#_c4);stroke:#999"
+     y="320"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect818"
+     style="fill:url(#_c2);stroke:#999"
+     y="320"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect820"
+     style="fill:url(#_c0);stroke:#999"
+     y="320"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect822"
+     style="fill:url(#_c1);stroke:#999"
+     y="320"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect824"
+     style="fill:url(#_c4);stroke:#999"
+     y="320"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect826"
+     style="fill:url(#_c2);stroke:#999"
+     y="320"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect828"
+     style="fill:url(#_c3);stroke:#999"
+     y="320"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect830"
+     style="fill:url(#_c3);stroke:#999"
+     y="320"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect832"
+     style="fill:url(#_c4);stroke:#999"
+     y="320"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect834"
+     style="fill:url(#_c2);stroke:#999"
+     y="320"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect836"
+     style="fill:url(#_c1);stroke:#999"
+     y="320"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect838"
+     style="fill:url(#_c2);stroke:#999"
+     y="320"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect840"
+     style="fill:url(#_c2);stroke:#999"
+     y="320"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect842"
+     style="fill:url(#_c2);stroke:#999"
+     y="320"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect844"
+     style="fill:url(#_c4);stroke:#999"
+     y="320"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect854"
+     style="fill:url(#_c0);stroke:#999"
+     y="340"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect856"
+     style="fill:url(#_c2);stroke:#999"
+     y="340"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect858"
+     style="fill:url(#_c0);stroke:#999"
+     y="340"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect860"
+     style="fill:url(#_c0);stroke:#999"
+     y="340"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect862"
+     style="fill:url(#_c0);stroke:#999"
+     y="340"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect864"
+     style="fill:url(#_c2);stroke:#999"
+     y="340"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect866"
+     style="fill:url(#_c2);stroke:#999"
+     y="340"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect868"
+     style="fill:url(#_c1);stroke:#999"
+     y="340"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect870"
+     style="fill:url(#_c3);stroke:#999"
+     y="340"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect872"
+     style="fill:url(#_c3);stroke:#999"
+     y="340"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect874"
+     style="fill:url(#_c4);stroke:#999"
+     y="340"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect876"
+     style="fill:url(#_c3);stroke:#999"
+     y="340"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect878"
+     style="fill:url(#_c0);stroke:#999"
+     y="340"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect880"
+     style="fill:url(#_c2);stroke:#999"
+     y="340"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect882"
+     style="fill:url(#_c3);stroke:#999"
+     y="340"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect884"
+     style="fill:url(#_c1);stroke:#999"
+     y="340"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect886"
+     style="fill:url(#_c0);stroke:#999"
+     y="340"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect888"
+     style="fill:url(#_c4);stroke:#999"
+     y="340"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect890"
+     style="fill:url(#_c1);stroke:#999"
+     y="340"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect892"
+     style="fill:url(#_c2);stroke:#999"
+     y="340"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect902"
+     style="fill:url(#_c1);stroke:#999"
+     y="360"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect904"
+     style="fill:url(#_c4);stroke:#999"
+     y="360"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect906"
+     style="fill:url(#_c1);stroke:#999"
+     y="360"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect908"
+     style="fill:url(#_c0);stroke:#999"
+     y="360"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect910"
+     style="fill:url(#_c0);stroke:#999"
+     y="360"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect912"
+     style="fill:url(#_c4);stroke:#999"
+     y="360"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect914"
+     style="fill:url(#_c2);stroke:#999"
+     y="360"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect916"
+     style="fill:url(#_c3);stroke:#999"
+     y="360"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect918"
+     style="fill:url(#_c0);stroke:#999"
+     y="360"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect920"
+     style="fill:url(#_c3);stroke:#999"
+     y="360"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect922"
+     style="fill:url(#_c3);stroke:#999"
+     y="360"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect950"
+     style="fill:url(#_c2);stroke:#999"
+     y="380"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect952"
+     style="fill:url(#_c2);stroke:#999"
+     y="380"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect954"
+     style="fill:url(#_c0);stroke:#999"
+     y="380"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect956"
+     style="fill:url(#_c2);stroke:#999"
+     y="380"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect958"
+     style="fill:url(#_c4);stroke:#999"
+     y="380"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect960"
+     style="fill:url(#_c2);stroke:#999"
+     y="380"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect962"
+     style="fill:url(#_c1);stroke:#999"
+     y="380"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect964"
+     style="fill:url(#_c2);stroke:#999"
+     y="380"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect966"
+     style="fill:url(#_c0);stroke:#999"
+     y="380"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect968"
+     style="fill:url(#_c0);stroke:#999"
+     y="380"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect970"
+     style="fill:url(#_c3);stroke:#999"
+     y="380"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect998"
+     style="fill:url(#_c4);stroke:#999"
+     y="400"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1000"
+     style="fill:url(#_c0);stroke:#999"
+     y="400"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1002"
+     style="fill:url(#_c1);stroke:#999"
+     y="400"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1004"
+     style="fill:url(#_c3);stroke:#999"
+     y="400"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1006"
+     style="fill:url(#_c0);stroke:#999"
+     y="400"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1008"
+     style="fill:url(#_c1);stroke:#999"
+     y="400"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1010"
+     style="fill:url(#_c2);stroke:#999"
+     y="400"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1012"
+     style="fill:url(#_c3);stroke:#999"
+     y="400"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1014"
+     style="fill:url(#_c0);stroke:#999"
+     y="400"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1016"
+     style="fill:url(#_c1);stroke:#999"
+     y="400"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1018"
+     style="fill:url(#_c1);stroke:#999"
+     y="400"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1046"
+     style="fill:url(#_c0);stroke:#999"
+     y="420"
+     x="0"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1048"
+     style="fill:url(#_c3);stroke:#999"
+     y="420"
+     x="20"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1050"
+     style="fill:url(#_c2);stroke:#999"
+     y="420"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1052"
+     style="fill:url(#_c0);stroke:#999"
+     y="420"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1054"
+     style="fill:url(#_c0);stroke:#999"
+     y="420"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1056"
+     style="fill:url(#_c4);stroke:#999"
+     y="420"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1058"
+     style="fill:url(#_c4);stroke:#999"
+     y="420"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1060"
+     style="fill:url(#_c2);stroke:#999"
+     y="420"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1062"
+     style="fill:url(#_c0);stroke:#999"
+     y="420"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1064"
+     style="fill:url(#_c4);stroke:#999"
+     y="420"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1066"
+     style="fill:url(#_c2);stroke:#999"
+     y="420"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1548"
+     style="fill:url(#_c2);stroke:#999"
+     y="620"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1550"
+     style="fill:url(#_c0);stroke:#999"
+     y="620"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1552"
+     style="fill:url(#_c4);stroke:#999"
+     y="620"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1554"
+     style="fill:url(#_c1);stroke:#999"
+     y="620"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1556"
+     style="fill:url(#_c1);stroke:#999"
+     y="620"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1558"
+     style="fill:url(#_c0);stroke:#999"
+     y="620"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1560"
+     style="fill:url(#_c1);stroke:#999"
+     y="620"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1562"
+     style="fill:url(#_c2);stroke:#999"
+     y="620"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1564"
+     style="fill:url(#_c0);stroke:#999"
+     y="620"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1566"
+     style="fill:url(#_c4);stroke:#999"
+     y="620"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1568"
+     style="fill:url(#_c2);stroke:#999"
+     y="620"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1570"
+     style="fill:url(#_c0);stroke:#999"
+     y="620"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1572"
+     style="fill:url(#_c2);stroke:#999"
+     y="620"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1596"
+     style="fill:url(#_c0);stroke:#999"
+     y="640"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1598"
+     style="fill:url(#_c1);stroke:#999"
+     y="640"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1600"
+     style="fill:url(#_c1);stroke:#999"
+     y="640"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1602"
+     style="fill:url(#_c2);stroke:#999"
+     y="640"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1604"
+     style="fill:url(#_c3);stroke:#999"
+     y="640"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1606"
+     style="fill:url(#_c3);stroke:#999"
+     y="640"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1608"
+     style="fill:url(#_c3);stroke:#999"
+     y="640"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1610"
+     style="fill:url(#_c4);stroke:#999"
+     y="640"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1612"
+     style="fill:url(#_c2);stroke:#999"
+     y="640"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1614"
+     style="fill:url(#_c2);stroke:#999"
+     y="640"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1616"
+     style="fill:url(#_c0);stroke:#999"
+     y="640"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1618"
+     style="fill:url(#_c1);stroke:#999"
+     y="640"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1620"
+     style="fill:url(#_c0);stroke:#999"
+     y="640"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1626"
+     style="fill:url(#_c2);stroke:#999"
+     y="660"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1628"
+     style="fill:url(#_c4);stroke:#999"
+     y="660"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1630"
+     style="fill:url(#_c4);stroke:#999"
+     y="660"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1632"
+     style="fill:url(#_c0);stroke:#999"
+     y="660"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1634"
+     style="fill:url(#_c3);stroke:#999"
+     y="660"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1636"
+     style="fill:url(#_c2);stroke:#999"
+     y="660"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1638"
+     style="fill:url(#_c3);stroke:#999"
+     y="660"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1640"
+     style="fill:url(#_c4);stroke:#999"
+     y="660"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1642"
+     style="fill:url(#_c0);stroke:#999"
+     y="660"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1644"
+     style="fill:url(#_c3);stroke:#999"
+     y="660"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1646"
+     style="fill:url(#_c1);stroke:#999"
+     y="660"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1648"
+     style="fill:url(#_c2);stroke:#999"
+     y="660"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1650"
+     style="fill:url(#_c0);stroke:#999"
+     y="660"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1652"
+     style="fill:url(#_c0);stroke:#999"
+     y="660"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1654"
+     style="fill:url(#_c2);stroke:#999"
+     y="660"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1656"
+     style="fill:url(#_c0);stroke:#999"
+     y="660"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1658"
+     style="fill:url(#_c2);stroke:#999"
+     y="660"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1660"
+     style="fill:url(#_c3);stroke:#999"
+     y="660"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1662"
+     style="fill:url(#_c4);stroke:#999"
+     y="660"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1664"
+     style="fill:url(#_c2);stroke:#999"
+     y="660"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1666"
+     style="fill:url(#_c4);stroke:#999"
+     y="660"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1668"
+     style="fill:url(#_c0);stroke:#999"
+     y="660"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1674"
+     style="fill:url(#_c4);stroke:#999"
+     y="680"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1676"
+     style="fill:url(#_c0);stroke:#999"
+     y="680"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1678"
+     style="fill:url(#_c2);stroke:#999"
+     y="680"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1680"
+     style="fill:url(#_c4);stroke:#999"
+     y="680"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1682"
+     style="fill:url(#_c0);stroke:#999"
+     y="680"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1684"
+     style="fill:url(#_c0);stroke:#999"
+     y="680"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1686"
+     style="fill:url(#_c4);stroke:#999"
+     y="680"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1688"
+     style="fill:url(#_c4);stroke:#999"
+     y="680"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1690"
+     style="fill:url(#_c2);stroke:#999"
+     y="680"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1692"
+     style="fill:url(#_c3);stroke:#999"
+     y="680"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1694"
+     style="fill:url(#_c1);stroke:#999"
+     y="680"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1696"
+     style="fill:url(#_c1);stroke:#999"
+     y="680"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1698"
+     style="fill:url(#_c4);stroke:#999"
+     y="680"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1700"
+     style="fill:url(#_c2);stroke:#999"
+     y="680"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1702"
+     style="fill:url(#_c4);stroke:#999"
+     y="680"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1704"
+     style="fill:url(#_c1);stroke:#999"
+     y="680"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1706"
+     style="fill:url(#_c1);stroke:#999"
+     y="680"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1708"
+     style="fill:url(#_c1);stroke:#999"
+     y="680"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1710"
+     style="fill:url(#_c2);stroke:#999"
+     y="680"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1712"
+     style="fill:url(#_c3);stroke:#999"
+     y="680"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1714"
+     style="fill:url(#_c2);stroke:#999"
+     y="680"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1716"
+     style="fill:url(#_c0);stroke:#999"
+     y="680"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1722"
+     style="fill:url(#_c1);stroke:#999"
+     y="700"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1724"
+     style="fill:url(#_c0);stroke:#999"
+     y="700"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1726"
+     style="fill:url(#_c1);stroke:#999"
+     y="700"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1728"
+     style="fill:url(#_c3);stroke:#999"
+     y="700"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1730"
+     style="fill:url(#_c4);stroke:#999"
+     y="700"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1732"
+     style="fill:url(#_c3);stroke:#999"
+     y="700"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1734"
+     style="fill:url(#_c1);stroke:#999"
+     y="700"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1736"
+     style="fill:url(#_c3);stroke:#999"
+     y="700"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1738"
+     style="fill:url(#_c0);stroke:#999"
+     y="700"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1740"
+     style="fill:url(#_c2);stroke:#999"
+     y="700"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1742"
+     style="fill:url(#_c3);stroke:#999"
+     y="700"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1744"
+     style="fill:url(#_c0);stroke:#999"
+     y="700"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1746"
+     style="fill:url(#_c4);stroke:#999"
+     y="700"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1748"
+     style="fill:url(#_c3);stroke:#999"
+     y="700"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1750"
+     style="fill:url(#_c3);stroke:#999"
+     y="700"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1752"
+     style="fill:url(#_c0);stroke:#999"
+     y="700"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1754"
+     style="fill:url(#_c0);stroke:#999"
+     y="700"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1756"
+     style="fill:url(#_c1);stroke:#999"
+     y="700"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1758"
+     style="fill:url(#_c2);stroke:#999"
+     y="700"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1760"
+     style="fill:url(#_c2);stroke:#999"
+     y="700"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1762"
+     style="fill:url(#_c0);stroke:#999"
+     y="700"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1764"
+     style="fill:url(#_c3);stroke:#999"
+     y="700"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1770"
+     style="fill:url(#_c3);stroke:#999"
+     y="720"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1772"
+     style="fill:url(#_c3);stroke:#999"
+     y="720"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1774"
+     style="fill:url(#_c1);stroke:#999"
+     y="720"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1776"
+     style="fill:url(#_c3);stroke:#999"
+     y="720"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1778"
+     style="fill:url(#_c4);stroke:#999"
+     y="720"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1780"
+     style="fill:url(#_c4);stroke:#999"
+     y="720"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1782"
+     style="fill:url(#_c1);stroke:#999"
+     y="720"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1784"
+     style="fill:url(#_c4);stroke:#999"
+     y="720"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1786"
+     style="fill:url(#_c0);stroke:#999"
+     y="720"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1788"
+     style="fill:url(#_c0);stroke:#999"
+     y="720"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1790"
+     style="fill:url(#_c3);stroke:#999"
+     y="720"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1792"
+     style="fill:url(#_c2);stroke:#999"
+     y="720"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1794"
+     style="fill:url(#_c1);stroke:#999"
+     y="720"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1796"
+     style="fill:url(#_c3);stroke:#999"
+     y="720"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1798"
+     style="fill:url(#_c2);stroke:#999"
+     y="720"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1800"
+     style="fill:url(#_c4);stroke:#999"
+     y="720"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1802"
+     style="fill:url(#_c2);stroke:#999"
+     y="720"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1804"
+     style="fill:url(#_c4);stroke:#999"
+     y="720"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1806"
+     style="fill:url(#_c1);stroke:#999"
+     y="720"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1808"
+     style="fill:url(#_c0);stroke:#999"
+     y="720"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1810"
+     style="fill:url(#_c2);stroke:#999"
+     y="720"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1812"
+     style="fill:url(#_c0);stroke:#999"
+     y="720"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1818"
+     style="fill:url(#_c4);stroke:#999"
+     y="740"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1820"
+     style="fill:url(#_c0);stroke:#999"
+     y="740"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1822"
+     style="fill:url(#_c2);stroke:#999"
+     y="740"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1824"
+     style="fill:url(#_c2);stroke:#999"
+     y="740"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1826"
+     style="fill:url(#_c1);stroke:#999"
+     y="740"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1828"
+     style="fill:url(#_c0);stroke:#999"
+     y="740"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1830"
+     style="fill:url(#_c0);stroke:#999"
+     y="740"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1832"
+     style="fill:url(#_c2);stroke:#999"
+     y="740"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1834"
+     style="fill:url(#_c2);stroke:#999"
+     y="740"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1836"
+     style="fill:url(#_c2);stroke:#999"
+     y="740"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1838"
+     style="fill:url(#_c3);stroke:#999"
+     y="740"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1840"
+     style="fill:url(#_c1);stroke:#999"
+     y="740"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1842"
+     style="fill:url(#_c2);stroke:#999"
+     y="740"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1844"
+     style="fill:url(#_c0);stroke:#999"
+     y="740"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1846"
+     style="fill:url(#_c2);stroke:#999"
+     y="740"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1848"
+     style="fill:url(#_c0);stroke:#999"
+     y="740"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1850"
+     style="fill:url(#_c1);stroke:#999"
+     y="740"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1852"
+     style="fill:url(#_c1);stroke:#999"
+     y="740"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1854"
+     style="fill:url(#_c0);stroke:#999"
+     y="740"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1856"
+     style="fill:url(#_c1);stroke:#999"
+     y="740"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1858"
+     style="fill:url(#_c4);stroke:#999"
+     y="740"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1860"
+     style="fill:url(#_c2);stroke:#999"
+     y="740"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1866"
+     style="fill:url(#_c3);stroke:#999"
+     y="760"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1868"
+     style="fill:url(#_c1);stroke:#999"
+     y="760"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1870"
+     style="fill:url(#_c1);stroke:#999"
+     y="760"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1872"
+     style="fill:url(#_c1);stroke:#999"
+     y="760"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1874"
+     style="fill:url(#_c2);stroke:#999"
+     y="760"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1876"
+     style="fill:url(#_c4);stroke:#999"
+     y="760"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1878"
+     style="fill:url(#_c1);stroke:#999"
+     y="760"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1880"
+     style="fill:url(#_c3);stroke:#999"
+     y="760"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1882"
+     style="fill:url(#_c1);stroke:#999"
+     y="760"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1884"
+     style="fill:url(#_c2);stroke:#999"
+     y="760"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1886"
+     style="fill:url(#_c2);stroke:#999"
+     y="760"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1888"
+     style="fill:url(#_c0);stroke:#999"
+     y="760"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1890"
+     style="fill:url(#_c3);stroke:#999"
+     y="760"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1892"
+     style="fill:url(#_c0);stroke:#999"
+     y="760"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1894"
+     style="fill:url(#_c3);stroke:#999"
+     y="760"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1896"
+     style="fill:url(#_c1);stroke:#999"
+     y="760"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1898"
+     style="fill:url(#_c4);stroke:#999"
+     y="760"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1900"
+     style="fill:url(#_c2);stroke:#999"
+     y="760"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1902"
+     style="fill:url(#_c4);stroke:#999"
+     y="760"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1904"
+     style="fill:url(#_c0);stroke:#999"
+     y="760"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1906"
+     style="fill:url(#_c3);stroke:#999"
+     y="760"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1908"
+     style="fill:url(#_c2);stroke:#999"
+     y="760"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1914"
+     style="fill:url(#_c3);stroke:#999"
+     y="780"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1916"
+     style="fill:url(#_c4);stroke:#999"
+     y="780"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1918"
+     style="fill:url(#_c0);stroke:#999"
+     y="780"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1920"
+     style="fill:url(#_c2);stroke:#999"
+     y="780"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1922"
+     style="fill:url(#_c0);stroke:#999"
+     y="780"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1924"
+     style="fill:url(#_c3);stroke:#999"
+     y="780"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1926"
+     style="fill:url(#_c2);stroke:#999"
+     y="780"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1928"
+     style="fill:url(#_c4);stroke:#999"
+     y="780"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1930"
+     style="fill:url(#_c2);stroke:#999"
+     y="780"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1932"
+     style="fill:url(#_c3);stroke:#999"
+     y="780"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1934"
+     style="fill:url(#_c4);stroke:#999"
+     y="780"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1936"
+     style="fill:url(#_c3);stroke:#999"
+     y="780"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1938"
+     style="fill:url(#_c1);stroke:#999"
+     y="780"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1940"
+     style="fill:url(#_c3);stroke:#999"
+     y="780"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1942"
+     style="fill:url(#_c1);stroke:#999"
+     y="780"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1944"
+     style="fill:url(#_c2);stroke:#999"
+     y="780"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1946"
+     style="fill:url(#_c1);stroke:#999"
+     y="780"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1948"
+     style="fill:url(#_c0);stroke:#999"
+     y="780"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1950"
+     style="fill:url(#_c1);stroke:#999"
+     y="780"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1952"
+     style="fill:url(#_c0);stroke:#999"
+     y="780"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1954"
+     style="fill:url(#_c1);stroke:#999"
+     y="780"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1956"
+     style="fill:url(#_c3);stroke:#999"
+     y="780"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1962"
+     style="fill:url(#_c0);stroke:#999"
+     y="800"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1964"
+     style="fill:url(#_c2);stroke:#999"
+     y="800"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1966"
+     style="fill:url(#_c4);stroke:#999"
+     y="800"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1968"
+     style="fill:url(#_c4);stroke:#999"
+     y="800"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1970"
+     style="fill:url(#_c3);stroke:#999"
+     y="800"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1972"
+     style="fill:url(#_c2);stroke:#999"
+     y="800"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1974"
+     style="fill:url(#_c0);stroke:#999"
+     y="800"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect1976"
+     style="fill:url(#_c1);stroke:#999"
+     y="800"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1978"
+     style="fill:url(#_c2);stroke:#999"
+     y="800"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1980"
+     style="fill:url(#_c2);stroke:#999"
+     y="800"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1982"
+     style="fill:url(#_c4);stroke:#999"
+     y="800"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect1984"
+     style="fill:url(#_c1);stroke:#999"
+     y="800"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1986"
+     style="fill:url(#_c2);stroke:#999"
+     y="800"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1988"
+     style="fill:url(#_c3);stroke:#999"
+     y="800"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1990"
+     style="fill:url(#_c3);stroke:#999"
+     y="800"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect1992"
+     style="fill:url(#_c2);stroke:#999"
+     y="800"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1994"
+     style="fill:url(#_c2);stroke:#999"
+     y="800"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect1996"
+     style="fill:url(#_c1);stroke:#999"
+     y="800"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect1998"
+     style="fill:url(#_c4);stroke:#999"
+     y="800"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2000"
+     style="fill:url(#_c3);stroke:#999"
+     y="800"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2002"
+     style="fill:url(#_c2);stroke:#999"
+     y="800"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2004"
+     style="fill:url(#_c2);stroke:#999"
+     y="800"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2010"
+     style="fill:url(#_c4);stroke:#999"
+     y="820"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2012"
+     style="fill:url(#_c4);stroke:#999"
+     y="820"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2014"
+     style="fill:url(#_c1);stroke:#999"
+     y="820"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2016"
+     style="fill:url(#_c4);stroke:#999"
+     y="820"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2018"
+     style="fill:url(#_c4);stroke:#999"
+     y="820"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2020"
+     style="fill:url(#_c1);stroke:#999"
+     y="820"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2022"
+     style="fill:url(#_c1);stroke:#999"
+     y="820"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2024"
+     style="fill:url(#_c1);stroke:#999"
+     y="820"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2026"
+     style="fill:url(#_c0);stroke:#999"
+     y="820"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2028"
+     style="fill:url(#_c0);stroke:#999"
+     y="820"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2030"
+     style="fill:url(#_c0);stroke:#999"
+     y="820"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2032"
+     style="fill:url(#_c2);stroke:#999"
+     y="820"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2034"
+     style="fill:url(#_c3);stroke:#999"
+     y="820"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2036"
+     style="fill:url(#_c3);stroke:#999"
+     y="820"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2038"
+     style="fill:url(#_c1);stroke:#999"
+     y="820"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2040"
+     style="fill:url(#_c3);stroke:#999"
+     y="820"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2042"
+     style="fill:url(#_c3);stroke:#999"
+     y="820"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2044"
+     style="fill:url(#_c0);stroke:#999"
+     y="820"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2046"
+     style="fill:url(#_c0);stroke:#999"
+     y="820"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2048"
+     style="fill:url(#_c2);stroke:#999"
+     y="820"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2050"
+     style="fill:url(#_c4);stroke:#999"
+     y="820"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2052"
+     style="fill:url(#_c3);stroke:#999"
+     y="820"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2058"
+     style="fill:url(#_c4);stroke:#999"
+     y="840"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2060"
+     style="fill:url(#_c0);stroke:#999"
+     y="840"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2062"
+     style="fill:url(#_c2);stroke:#999"
+     y="840"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2064"
+     style="fill:url(#_c3);stroke:#999"
+     y="840"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2066"
+     style="fill:url(#_c1);stroke:#999"
+     y="840"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2068"
+     style="fill:url(#_c3);stroke:#999"
+     y="840"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2070"
+     style="fill:url(#_c1);stroke:#999"
+     y="840"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2072"
+     style="fill:url(#_c2);stroke:#999"
+     y="840"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2074"
+     style="fill:url(#_c2);stroke:#999"
+     y="840"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2076"
+     style="fill:url(#_c3);stroke:#999"
+     y="840"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2078"
+     style="fill:url(#_c0);stroke:#999"
+     y="840"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2080"
+     style="fill:url(#_c0);stroke:#999"
+     y="840"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2082"
+     style="fill:url(#_c2);stroke:#999"
+     y="840"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2084"
+     style="fill:url(#_c2);stroke:#999"
+     y="840"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2086"
+     style="fill:url(#_c1);stroke:#999"
+     y="840"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2088"
+     style="fill:url(#_c1);stroke:#999"
+     y="840"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2090"
+     style="fill:url(#_c2);stroke:#999"
+     y="840"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2092"
+     style="fill:url(#_c3);stroke:#999"
+     y="840"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2094"
+     style="fill:url(#_c4);stroke:#999"
+     y="840"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2096"
+     style="fill:url(#_c0);stroke:#999"
+     y="840"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2098"
+     style="fill:url(#_c0);stroke:#999"
+     y="840"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2100"
+     style="fill:url(#_c4);stroke:#999"
+     y="840"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2106"
+     style="fill:url(#_c4);stroke:#999"
+     y="860"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2108"
+     style="fill:url(#_c4);stroke:#999"
+     y="860"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2110"
+     style="fill:url(#_c2);stroke:#999"
+     y="860"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2112"
+     style="fill:url(#_c0);stroke:#999"
+     y="860"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2114"
+     style="fill:url(#_c1);stroke:#999"
+     y="860"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2116"
+     style="fill:url(#_c0);stroke:#999"
+     y="860"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2118"
+     style="fill:url(#_c1);stroke:#999"
+     y="860"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2120"
+     style="fill:url(#_c1);stroke:#999"
+     y="860"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2122"
+     style="fill:url(#_c1);stroke:#999"
+     y="860"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2124"
+     style="fill:url(#_c4);stroke:#999"
+     y="860"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2126"
+     style="fill:url(#_c0);stroke:#999"
+     y="860"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2128"
+     style="fill:url(#_c4);stroke:#999"
+     y="860"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2130"
+     style="fill:url(#_c0);stroke:#999"
+     y="860"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2132"
+     style="fill:url(#_c1);stroke:#999"
+     y="860"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2134"
+     style="fill:url(#_c1);stroke:#999"
+     y="860"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2136"
+     style="fill:url(#_c0);stroke:#999"
+     y="860"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2138"
+     style="fill:url(#_c3);stroke:#999"
+     y="860"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2140"
+     style="fill:url(#_c2);stroke:#999"
+     y="860"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2142"
+     style="fill:url(#_c1);stroke:#999"
+     y="860"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2144"
+     style="fill:url(#_c1);stroke:#999"
+     y="860"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2146"
+     style="fill:url(#_c4);stroke:#999"
+     y="860"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2148"
+     style="fill:url(#_c1);stroke:#999"
+     y="860"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2154"
+     style="fill:url(#_c2);stroke:#999"
+     y="880"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2156"
+     style="fill:url(#_c2);stroke:#999"
+     y="880"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2158"
+     style="fill:url(#_c1);stroke:#999"
+     y="880"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2160"
+     style="fill:url(#_c2);stroke:#999"
+     y="880"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2162"
+     style="fill:url(#_c4);stroke:#999"
+     y="880"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2164"
+     style="fill:url(#_c1);stroke:#999"
+     y="880"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2166"
+     style="fill:url(#_c2);stroke:#999"
+     y="880"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2168"
+     style="fill:url(#_c4);stroke:#999"
+     y="880"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2170"
+     style="fill:url(#_c0);stroke:#999"
+     y="880"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2172"
+     style="fill:url(#_c0);stroke:#999"
+     y="880"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2174"
+     style="fill:url(#_c4);stroke:#999"
+     y="880"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2176"
+     style="fill:url(#_c2);stroke:#999"
+     y="880"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2178"
+     style="fill:url(#_c1);stroke:#999"
+     y="880"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2180"
+     style="fill:url(#_c3);stroke:#999"
+     y="880"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2182"
+     style="fill:url(#_c3);stroke:#999"
+     y="880"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2184"
+     style="fill:url(#_c3);stroke:#999"
+     y="880"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2186"
+     style="fill:url(#_c1);stroke:#999"
+     y="880"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2188"
+     style="fill:url(#_c3);stroke:#999"
+     y="880"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2190"
+     style="fill:url(#_c4);stroke:#999"
+     y="880"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2192"
+     style="fill:url(#_c0);stroke:#999"
+     y="880"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2194"
+     style="fill:url(#_c3);stroke:#999"
+     y="880"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2196"
+     style="fill:url(#_c4);stroke:#999"
+     y="880"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2202"
+     style="fill:url(#_c3);stroke:#999"
+     y="900"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2204"
+     style="fill:url(#_c1);stroke:#999"
+     y="900"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2206"
+     style="fill:url(#_c0);stroke:#999"
+     y="900"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2208"
+     style="fill:url(#_c0);stroke:#999"
+     y="900"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2210"
+     style="fill:url(#_c1);stroke:#999"
+     y="900"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2212"
+     style="fill:url(#_c0);stroke:#999"
+     y="900"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2214"
+     style="fill:url(#_c0);stroke:#999"
+     y="900"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2216"
+     style="fill:url(#_c1);stroke:#999"
+     y="900"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2218"
+     style="fill:url(#_c4);stroke:#999"
+     y="900"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2220"
+     style="fill:url(#_c1);stroke:#999"
+     y="900"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2222"
+     style="fill:url(#_c1);stroke:#999"
+     y="900"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2224"
+     style="fill:url(#_c1);stroke:#999"
+     y="900"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2226"
+     style="fill:url(#_c3);stroke:#999"
+     y="900"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2228"
+     style="fill:url(#_c0);stroke:#999"
+     y="900"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2230"
+     style="fill:url(#_c4);stroke:#999"
+     y="900"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2232"
+     style="fill:url(#_c2);stroke:#999"
+     y="900"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2234"
+     style="fill:url(#_c1);stroke:#999"
+     y="900"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2236"
+     style="fill:url(#_c4);stroke:#999"
+     y="900"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2238"
+     style="fill:url(#_c1);stroke:#999"
+     y="900"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2240"
+     style="fill:url(#_c3);stroke:#999"
+     y="900"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2242"
+     style="fill:url(#_c2);stroke:#999"
+     y="900"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2244"
+     style="fill:url(#_c4);stroke:#999"
+     y="900"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2250"
+     style="fill:url(#_c1);stroke:#999"
+     y="920"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2252"
+     style="fill:url(#_c1);stroke:#999"
+     y="920"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2254"
+     style="fill:url(#_c4);stroke:#999"
+     y="920"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2256"
+     style="fill:url(#_c2);stroke:#999"
+     y="920"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2258"
+     style="fill:url(#_c1);stroke:#999"
+     y="920"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2260"
+     style="fill:url(#_c0);stroke:#999"
+     y="920"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2262"
+     style="fill:url(#_c1);stroke:#999"
+     y="920"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2264"
+     style="fill:url(#_c3);stroke:#999"
+     y="920"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2266"
+     style="fill:url(#_c0);stroke:#999"
+     y="920"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2268"
+     style="fill:url(#_c1);stroke:#999"
+     y="920"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2270"
+     style="fill:url(#_c1);stroke:#999"
+     y="920"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2272"
+     style="fill:url(#_c4);stroke:#999"
+     y="920"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2274"
+     style="fill:url(#_c1);stroke:#999"
+     y="920"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2276"
+     style="fill:url(#_c0);stroke:#999"
+     y="920"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2278"
+     style="fill:url(#_c3);stroke:#999"
+     y="920"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2280"
+     style="fill:url(#_c0);stroke:#999"
+     y="920"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2282"
+     style="fill:url(#_c0);stroke:#999"
+     y="920"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2284"
+     style="fill:url(#_c2);stroke:#999"
+     y="920"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2286"
+     style="fill:url(#_c2);stroke:#999"
+     y="920"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2288"
+     style="fill:url(#_c2);stroke:#999"
+     y="920"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2290"
+     style="fill:url(#_c2);stroke:#999"
+     y="920"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2292"
+     style="fill:url(#_c2);stroke:#999"
+     y="920"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2298"
+     style="fill:url(#_c2);stroke:#999"
+     y="940"
+     x="40"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2300"
+     style="fill:url(#_c1);stroke:#999"
+     y="940"
+     x="60"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2302"
+     style="fill:url(#_c2);stroke:#999"
+     y="940"
+     x="80"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2304"
+     style="fill:url(#_c2);stroke:#999"
+     y="940"
+     x="100"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2306"
+     style="fill:url(#_c0);stroke:#999"
+     y="940"
+     x="120"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2308"
+     style="fill:url(#_c3);stroke:#999"
+     y="940"
+     x="140"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2310"
+     style="fill:url(#_c4);stroke:#999"
+     y="940"
+     x="160"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2312"
+     style="fill:url(#_c2);stroke:#999"
+     y="940"
+     x="180"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2314"
+     style="fill:url(#_c0);stroke:#999"
+     y="940"
+     x="200"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2316"
+     style="fill:url(#_c0);stroke:#999"
+     y="940"
+     x="220"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2318"
+     style="fill:url(#_c3);stroke:#999"
+     y="940"
+     x="240"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2320"
+     style="fill:url(#_c3);stroke:#999"
+     y="940"
+     x="260"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2322"
+     style="fill:url(#_c3);stroke:#999"
+     y="940"
+     x="280"
+     height="20"
+     width="20"
+     class="swatch_3 spans_1" />
+  <rect
+     id="rect2324"
+     style="fill:url(#_c4);stroke:#999"
+     y="940"
+     x="300"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2326"
+     style="fill:url(#_c0);stroke:#999"
+     y="940"
+     x="320"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2328"
+     style="fill:url(#_c0);stroke:#999"
+     y="940"
+     x="340"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2330"
+     style="fill:url(#_c4);stroke:#999"
+     y="940"
+     x="360"
+     height="20"
+     width="20"
+     class="swatch_4 spans_1" />
+  <rect
+     id="rect2332"
+     style="fill:url(#_c0);stroke:#999"
+     y="940"
+     x="380"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <rect
+     id="rect2334"
+     style="fill:url(#_c2);stroke:#999"
+     y="940"
+     x="400"
+     height="20"
+     width="20"
+     class="swatch_2 spans_1" />
+  <rect
+     id="rect2336"
+     style="fill:url(#_c1);stroke:#999"
+     y="940"
+     x="420"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2338"
+     style="fill:url(#_c1);stroke:#999"
+     y="940"
+     x="440"
+     height="20"
+     width="20"
+     class="swatch_1 spans_1" />
+  <rect
+     id="rect2340"
+     style="fill:url(#_c0);stroke:#999"
+     y="940"
+     x="460"
+     height="20"
+     width="20"
+     class="swatch_0 spans_1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="hall">
+    <rect
+       id="rect924"
+       style="fill:url(#_c2);stroke:#999"
+       y="360"
+       x="220"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect926"
+       style="fill:url(#_c1);stroke:#999"
+       y="360"
+       x="240"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect928"
+       style="fill:url(#_c2);stroke:#999"
+       y="360"
+       x="260"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect930"
+       style="fill:url(#_c2);stroke:#999"
+       y="360"
+       x="280"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect932"
+       style="fill:url(#_c1);stroke:#999"
+       y="360"
+       x="300"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect934"
+       style="fill:url(#_c0);stroke:#999"
+       y="360"
+       x="320"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect936"
+       style="fill:url(#_c3);stroke:#999"
+       y="360"
+       x="340"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect938"
+       style="fill:url(#_c1);stroke:#999"
+       y="360"
+       x="360"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect972"
+       style="fill:url(#_c2);stroke:#999"
+       y="380"
+       x="220"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect974"
+       style="fill:url(#_c1);stroke:#999"
+       y="380"
+       x="240"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect976"
+       style="fill:url(#_c3);stroke:#999"
+       y="380"
+       x="260"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect978"
+       style="fill:url(#_c2);stroke:#999"
+       y="380"
+       x="280"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect980"
+       style="fill:url(#_c3);stroke:#999"
+       y="380"
+       x="300"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect982"
+       style="fill:url(#_c0);stroke:#999"
+       y="380"
+       x="320"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect984"
+       style="fill:url(#_c2);stroke:#999"
+       y="380"
+       x="340"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect986"
+       style="fill:url(#_c4);stroke:#999"
+       y="380"
+       x="360"
+       height="20"
+       width="20"
+       class="swatch_4 spans_1" />
+    <rect
+       id="rect1020"
+       style="fill:url(#_c2);stroke:#999"
+       y="400"
+       x="220"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1022"
+       style="fill:url(#_c0);stroke:#999"
+       y="400"
+       x="240"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1024"
+       style="fill:url(#_c3);stroke:#999"
+       y="400"
+       x="260"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1026"
+       style="fill:url(#_c4);stroke:#999"
+       y="400"
+       x="280"
+       height="20"
+       width="20"
+       class="swatch_4 spans_1" />
+    <rect
+       id="rect1028"
+       style="fill:url(#_c0);stroke:#999"
+       y="400"
+       x="300"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1030"
+       style="fill:url(#_c2);stroke:#999"
+       y="400"
+       x="320"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1032"
+       style="fill:url(#linearGradient20959);fill-opacity:1;stroke:#999"
+       y="400"
+       x="340"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1034"
+       style="fill:url(#linearGradient20957);fill-opacity:1;stroke:#999"
+       y="400"
+       x="360"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1068"
+       style="fill:url(#_c3);stroke:#999"
+       y="420"
+       x="220"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1070"
+       style="fill:url(#_c1);stroke:#999"
+       y="420"
+       x="240"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect1072"
+       style="fill:url(#_c2);stroke:#999"
+       y="420"
+       x="260"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1074"
+       style="fill:url(#_c2);stroke:#999"
+       y="420"
+       x="280"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1076"
+       style="fill:url(#linearGradient20951);fill-opacity:1;stroke:#999"
+       y="420"
+       x="300"
+       height="20"
+       width="20"
+       class="swatch_4 spans_1" />
+    <rect
+       id="rect1078"
+       style="fill:url(#linearGradient20955);fill-opacity:1;stroke:#999"
+       y="420"
+       x="320"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect1080"
+       style="fill:url(#_c0);stroke:#999"
+       y="420"
+       x="340"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1082"
+       style="fill:url(#linearGradient20953);fill-opacity:1;stroke:#999"
+       y="420"
+       x="360"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1116"
+       style="fill:url(#_c1);stroke:#999"
+       y="440"
+       x="220"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect1118"
+       style="fill:url(#_c0);stroke:#999"
+       y="440"
+       x="240"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1120"
+       style="fill:url(#_c1);stroke:#999"
+       y="440"
+       x="260"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect1122"
+       style="fill:url(#_c0);stroke:#999"
+       y="440"
+       x="280"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1124"
+       style="fill:url(#_c2);stroke:#999"
+       y="440"
+       x="300"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1126"
+       style="fill:url(#_c4);stroke:#999"
+       y="440"
+       x="320"
+       height="20"
+       width="20"
+       class="swatch_4 spans_1" />
+    <rect
+       id="rect1128"
+       style="fill:url(#_c3);stroke:#999"
+       y="440"
+       x="340"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1130"
+       style="fill:url(#_c2);stroke:#999"
+       y="440"
+       x="360"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1164"
+       style="fill:url(#_c3);stroke:#999"
+       y="460"
+       x="220"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1166"
+       style="fill:url(#_c0);stroke:#999"
+       y="460"
+       x="240"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1168"
+       style="fill:url(#_c2);stroke:#999"
+       y="460"
+       x="260"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1170"
+       style="fill:url(#_c2);stroke:#999"
+       y="460"
+       x="280"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1172"
+       style="fill:url(#_c1);stroke:#999"
+       y="460"
+       x="300"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect1174"
+       style="fill:url(#_c0);stroke:#999"
+       y="460"
+       x="320"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1176"
+       style="fill:url(#_c1);stroke:#999"
+       y="460"
+       x="340"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect1178"
+       style="fill:url(#_c3);stroke:#999"
+       y="460"
+       x="360"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1212"
+       style="fill:url(#_c2);stroke:#999"
+       y="480"
+       x="220"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1214"
+       style="fill:url(#_c0);stroke:#999"
+       y="480"
+       x="240"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1216"
+       style="fill:url(#_c1);stroke:#999"
+       y="480"
+       x="260"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect1218"
+       style="fill:url(#_c0);stroke:#999"
+       y="480"
+       x="280"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1220"
+       style="fill:url(#_c1);stroke:#999"
+       y="480"
+       x="300"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect1222"
+       style="fill:url(#_c3);stroke:#999"
+       y="480"
+       x="320"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1224"
+       style="fill:url(#_c3);stroke:#999"
+       y="480"
+       x="340"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1226"
+       style="fill:url(#_c4);stroke:#999"
+       y="480"
+       x="360"
+       height="20"
+       width="20"
+       class="swatch_4 spans_1" />
+    <rect
+       id="rect1260"
+       style="fill:url(#_c4);stroke:#999"
+       y="500"
+       x="220"
+       height="20"
+       width="20"
+       class="swatch_4 spans_1" />
+    <rect
+       id="rect1262"
+       style="fill:url(#_c4);stroke:#999"
+       y="500"
+       x="240"
+       height="20"
+       width="20"
+       class="swatch_4 spans_1" />
+    <rect
+       id="rect1264"
+       style="fill:url(#_c4);stroke:#999"
+       y="500"
+       x="260"
+       height="20"
+       width="20"
+       class="swatch_4 spans_1" />
+    <rect
+       id="rect1266"
+       style="fill:url(#_c3);stroke:#999"
+       y="500"
+       x="280"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1268"
+       style="fill:url(#_c1);stroke:#999"
+       y="500"
+       x="300"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect1270"
+       style="fill:url(#_c2);stroke:#999"
+       y="500"
+       x="320"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1272"
+       style="fill:url(#_c3);stroke:#999"
+       y="500"
+       x="340"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1274"
+       style="fill:url(#_c2);stroke:#999"
+       y="500"
+       x="360"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1308"
+       style="fill:url(#_c4);stroke:#999"
+       y="520"
+       x="220"
+       height="20"
+       width="20"
+       class="swatch_4 spans_1" />
+    <rect
+       id="rect1310"
+       style="fill:url(#_c3);stroke:#999"
+       y="520"
+       x="240"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1312"
+       style="fill:url(#_c0);stroke:#999"
+       y="520"
+       x="260"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1314"
+       style="fill:url(#_c0);stroke:#999"
+       y="520"
+       x="280"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1316"
+       style="fill:url(#_c1);stroke:#999"
+       y="520"
+       x="300"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect1318"
+       style="fill:url(#_c3);stroke:#999"
+       y="520"
+       x="320"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1320"
+       style="fill:url(#_c3);stroke:#999"
+       y="520"
+       x="340"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1322"
+       style="fill:url(#_c0);stroke:#999"
+       y="520"
+       x="360"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1356"
+       style="fill:url(#_c4);stroke:#999"
+       y="540"
+       x="220"
+       height="20"
+       width="20"
+       class="swatch_4 spans_1" />
+    <rect
+       id="rect1358"
+       style="fill:url(#_c1);stroke:#999"
+       y="540"
+       x="240"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect1360"
+       style="fill:url(#_c3);stroke:#999"
+       y="540"
+       x="260"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1362"
+       style="fill:url(#_c0);stroke:#999"
+       y="540"
+       x="280"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1364"
+       style="fill:url(#_c3);stroke:#999"
+       y="540"
+       x="300"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1366"
+       style="fill:url(#_c2);stroke:#999"
+       y="540"
+       x="320"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1368"
+       style="fill:url(#_c1);stroke:#999"
+       y="540"
+       x="340"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect1370"
+       style="fill:url(#_c3);stroke:#999"
+       y="540"
+       x="360"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1404"
+       style="fill:url(#_c3);stroke:#999"
+       y="560"
+       x="220"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1406"
+       style="fill:url(#_c2);stroke:#999"
+       y="560"
+       x="240"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1408"
+       style="fill:url(#_c3);stroke:#999"
+       y="560"
+       x="260"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1410"
+       style="fill:url(#_c1);stroke:#999"
+       y="560"
+       x="280"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect1412"
+       style="fill:url(#_c1);stroke:#999"
+       y="560"
+       x="300"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect1414"
+       style="fill:url(#_c1);stroke:#999"
+       y="560"
+       x="320"
+       height="20"
+       width="20"
+       class="swatch_1 spans_1" />
+    <rect
+       id="rect1416"
+       style="fill:url(#_c0);stroke:#999"
+       y="560"
+       x="340"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1418"
+       style="fill:url(#_c4);stroke:#999"
+       y="560"
+       x="360"
+       height="20"
+       width="20"
+       class="swatch_4 spans_1" />
+    <rect
+       id="rect1452"
+       style="fill:url(#_c2);stroke:#999"
+       y="580"
+       x="220"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1454"
+       style="fill:url(#_c2);stroke:#999"
+       y="580"
+       x="240"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1456"
+       style="fill:url(#_c4);stroke:#999"
+       y="580"
+       x="260"
+       height="20"
+       width="20"
+       class="swatch_4 spans_1" />
+    <rect
+       id="rect1458"
+       style="fill:url(#_c2);stroke:#999"
+       y="580"
+       x="280"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1460"
+       style="fill:url(#_c0);stroke:#999"
+       y="580"
+       x="300"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1462"
+       style="fill:url(#_c0);stroke:#999"
+       y="580"
+       x="320"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1464"
+       style="fill:url(#_c2);stroke:#999"
+       y="580"
+       x="340"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1466"
+       style="fill:url(#_c2);stroke:#999"
+       y="580"
+       x="360"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1500"
+       style="fill:url(#_c4);stroke:#999"
+       y="600"
+       x="220"
+       height="20"
+       width="20"
+       class="swatch_4 spans_1" />
+    <rect
+       id="rect1502"
+       style="fill:url(#_c2);stroke:#999"
+       y="600"
+       x="240"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1504"
+       style="fill:url(#_c2);stroke:#999"
+       y="600"
+       x="260"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1506"
+       style="fill:url(#_c3);stroke:#999"
+       y="600"
+       x="280"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+    <rect
+       id="rect1508"
+       style="fill:url(#_c2);stroke:#999"
+       y="600"
+       x="300"
+       height="20"
+       width="20"
+       class="swatch_2 spans_1" />
+    <rect
+       id="rect1510"
+       style="fill:url(#_c0);stroke:#999"
+       y="600"
+       x="320"
+       height="20"
+       width="20"
+       class="swatch_0 spans_1" />
+    <rect
+       id="rect1512"
+       style="fill:url(#_c4);stroke:#999"
+       y="600"
+       x="340"
+       height="20"
+       width="20"
+       class="swatch_4 spans_1" />
+    <rect
+       id="rect1514"
+       style="fill:url(#_c3);stroke:#999"
+       y="600"
+       x="360"
+       height="20"
+       width="20"
+       class="swatch_3 spans_1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="kitch" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="entr" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="living" />
+</svg>
