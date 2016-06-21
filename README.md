@@ -4,6 +4,8 @@
 
 It will generate a floor (rows and cells) of tiles that span either 1 or 2 cells.
 
+![floor sample in svg](https://dynnamitt.github.io/swatchd.svg#2)
+
 Max 10 colors. 
 
 Dbl tiles will sometimes be used at end of row since we have invented THE SAW.
