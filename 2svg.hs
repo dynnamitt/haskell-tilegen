@@ -25,13 +25,15 @@ parseTiles rowNum = do
 
 svgHead :: String
 svgHead = 
-  "<svg xmlns=\"" ++ ns ++ "\"" ++
+  "<svg xmlns=\"" ++ ns ++ "\"\n" ++
+  " xmlns:osb=\"" ++ osb_ns ++ "\"\n" ++
   " version=\"1.1\" " ++
   " width=\"" ++ show pageW ++ "\"" ++
   " height=\"" ++ show pageH ++ "\"" ++
-  " ><defs>" ++ fillGrps ++ "</defs><g>"
+  " ><defs>\n" ++ fillGrps ++ "\n</defs>\n<g id=\"g1\">"
   where
     ns = "http://www.w3.org/2000/svg"
+    osb_ns = "http://www.openswatchbook.org/uri/2009/osb"
     
 svgFoot :: String
 svgFoot = 
@@ -112,9 +114,10 @@ fillGrps =
 linearGradient :: Color -> String
 linearGradient c =
   "<linearGradient" ++
+  " osb:paint=\"solid\" " ++
   " id=\"" ++ colorId c ++ "\">\n" ++
   stop c ++
-  "</linearGradient>"
+  "</linearGradient>\n"
 
 stop :: Color -> String
 stop c =
