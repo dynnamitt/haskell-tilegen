@@ -23,3 +23,8 @@ executable 2svg
   main-is:             2svg.hs
   -- other-modules:       
   build-depends:       base ==4.6.*
+
+executable xmlexec
+  main-is:             hxt.hs
+  -- other-modules:       
+  build-depends:       base ==4.6.*, hxt

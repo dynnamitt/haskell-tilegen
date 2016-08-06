@@ -41,8 +41,8 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.86368364"
-     inkscape:cx="364.87258"
-     inkscape:cy="502.57637"
+     inkscape:cx="154.72618"
+     inkscape:cy="595.20288"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -52,7 +52,7 @@
     <linearGradient
        osb:paint="solid"
        id="_c0"
-       gradientTransform="matrix(0.00959501,0,0,1.0298385,432.64606,-12.995785)">
+       gradientTransform="matrix(0.00572329,0,0,1.0298385,423.45855,-12.995785)">
       <stop
          offset="0"
          style="stop-opacity:1;stop-color:#111"
@@ -61,7 +61,7 @@
     <linearGradient
        osb:paint="solid"
        id="_c1"
-       gradientTransform="matrix(0.04853282,0,0,1.0098159,319.3892,-5.0856046)">
+       gradientTransform="matrix(0.03420706,0,0,1.0098159,326.211,-5.0856046)">
       <stop
          offset="0"
          style="stop-opacity:1;stop-color:#333"
@@ -70,7 +70,7 @@
     <linearGradient
        osb:paint="solid"
        id="_c2"
-       gradientTransform="matrix(0.00561069,0,0,1.0127569,440.33577,-5.8585143)">
+       gradientTransform="matrix(0.00293918,0,0,1.0127569,409.70691,-5.8585143)">
       <stop
          offset="0"
          style="stop-color:#333333;stop-opacity:1;"
@@ -142,7 +142,7 @@
        height="20"
        x="0"
        y="0"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect37" />
     <rect
        class="swatch_0 spans_1"
@@ -150,7 +150,7 @@
        height="20"
        x="40"
        y="0"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect39" />
     <rect
        class="swatch_0 spans_1"
@@ -158,7 +158,7 @@
        height="20"
        x="60"
        y="0"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect41" />
     <rect
        class="swatch_1 spans_1"
@@ -166,7 +166,7 @@
        height="20"
        x="80"
        y="0"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect43" />
     <rect
        class="swatch_1 spans_2"
@@ -174,7 +174,7 @@
        height="20"
        x="100"
        y="0"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect45" />
     <rect
        class="swatch_2 spans_1"
@@ -182,7 +182,7 @@
        height="20"
        x="140"
        y="0"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect47" />
     <rect
        class="swatch_0 spans_2"
@@ -190,7 +190,7 @@
        height="20"
        x="160"
        y="0"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect49" />
     <rect
        class="swatch_2 spans_1"
@@ -198,7 +198,7 @@
        height="20"
        x="200"
        y="0"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect51" />
     <rect
        class="swatch_0 spans_2"
@@ -206,7 +206,7 @@
        height="20"
        x="220"
        y="0"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect53" />
     <rect
        class="swatch_0 spans_1"
@@ -214,7 +214,7 @@
        height="20"
        x="260"
        y="0"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect55" />
     <rect
        class="swatch_0 spans_2"
@@ -222,7 +222,7 @@
        height="20"
        x="280"
        y="0"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect57" />
     <rect
        class="swatch_1 spans_2"
@@ -230,7 +230,7 @@
        height="20"
        x="320"
        y="0"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect59" />
     <rect
        class="swatch_0 spans_1"
@@ -238,7 +238,7 @@
        height="20"
        x="360"
        y="0"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect61" />
     <rect
        class="swatch_0 spans_1"
@@ -246,7 +246,7 @@
        height="20"
        x="380"
        y="0"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect63" />
     <rect
        class="swatch_1 spans_1"
@@ -254,7 +254,7 @@
        height="20"
        x="400"
        y="0"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect65" />
     <rect
        class="swatch_1 spans_1"
@@ -262,7 +262,7 @@
        height="20"
        x="420"
        y="0"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect67" />
     <rect
        class="swatch_2 spans_1"
@@ -270,7 +270,7 @@
        height="20"
        x="0"
        y="20"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect71" />
     <rect
        class="swatch_2 spans_1"
@@ -278,7 +278,7 @@
        height="20"
        x="20"
        y="20"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect73" />
     <rect
        class="swatch_0 spans_1"
@@ -286,7 +286,7 @@
        height="20"
        x="40"
        y="20"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect75" />
     <rect
        class="swatch_0 spans_2"
@@ -294,7 +294,7 @@
        height="20"
        x="60"
        y="20"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect77" />
     <rect
        class="swatch_2 spans_1"
@@ -302,7 +302,7 @@
        height="20"
        x="100"
        y="20"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect79" />
     <rect
        class="swatch_1 spans_2"
@@ -310,7 +310,7 @@
        height="20"
        x="120"
        y="20"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect81" />
     <rect
        class="swatch_0 spans_2"
@@ -318,7 +318,7 @@
        height="20"
        x="160"
        y="20"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect83" />
     <rect
        class="swatch_2 spans_2"
@@ -326,7 +326,7 @@
        height="20"
        x="200"
        y="20"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect85" />
     <rect
        class="swatch_2 spans_1"
@@ -334,7 +334,7 @@
        height="20"
        x="240"
        y="20"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect87" />
     <rect
        class="swatch_0 spans_2"
@@ -342,7 +342,7 @@
        height="20"
        x="260"
        y="20"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect89" />
     <rect
        class="swatch_1 spans_1"
@@ -350,7 +350,7 @@
        height="20"
        x="300"
        y="20"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect91" />
     <rect
        class="swatch_0 spans_1"
@@ -358,7 +358,7 @@
        height="20"
        x="320"
        y="20"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect93" />
     <rect
        class="swatch_0 spans_2"
@@ -366,7 +366,7 @@
        height="20"
        x="340"
        y="20"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect95" />
     <rect
        class="swatch_0 spans_2"
@@ -374,15 +374,15 @@
        height="20"
        x="380"
        y="20"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect97" />
     <rect
        class="swatch_0 spans_2"
-       width="22.875982"
+       width="20"
        height="20.01623"
        x="419.87827"
        y="19.878273"
-       style="fill:url(#_c0);stroke:#999999;stroke-width:0.75654721"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-width:0.75654721;stroke-opacity:1"
        id="rect99" />
     <rect
        class="swatch_1 spans_2"
@@ -390,7 +390,7 @@
        height="20"
        x="0"
        y="40"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect103" />
     <rect
        class="swatch_2 spans_1"
@@ -398,7 +398,7 @@
        height="20"
        x="40"
        y="40"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect105" />
     <rect
        class="swatch_0 spans_1"
@@ -406,7 +406,7 @@
        height="20"
        x="60"
        y="40"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect107" />
     <rect
        class="swatch_1 spans_2"
@@ -414,7 +414,7 @@
        height="20"
        x="80"
        y="40"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect109" />
     <rect
        class="swatch_0 spans_1"
@@ -422,7 +422,7 @@
        height="20"
        x="120"
        y="40"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect111" />
     <rect
        class="swatch_0 spans_1"
@@ -430,7 +430,7 @@
        height="20"
        x="140"
        y="40"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect113" />
     <rect
        class="swatch_2 spans_1"
@@ -438,7 +438,7 @@
        height="20"
        x="160"
        y="40"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect115" />
     <rect
        class="swatch_1 spans_2"
@@ -446,7 +446,7 @@
        height="20"
        x="180"
        y="40"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect117" />
     <rect
        class="swatch_1 spans_1"
@@ -454,7 +454,7 @@
        height="20"
        x="220"
        y="40"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect119" />
     <rect
        class="swatch_0 spans_1"
@@ -462,7 +462,7 @@
        height="20"
        x="240"
        y="40"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect121" />
     <rect
        class="swatch_1 spans_2"
@@ -470,7 +470,7 @@
        height="20"
        x="260"
        y="40"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect123" />
     <rect
        class="swatch_0 spans_2"
@@ -478,7 +478,7 @@
        height="20"
        x="300"
        y="40"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect125" />
     <rect
        class="swatch_2 spans_1"
@@ -486,7 +486,7 @@
        height="20"
        x="340"
        y="40"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect127" />
     <rect
        class="swatch_1 spans_1"
@@ -494,7 +494,7 @@
        height="20"
        x="360"
        y="40"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect129" />
     <rect
        class="swatch_0 spans_2"
@@ -502,7 +502,7 @@
        height="20"
        x="380"
        y="40"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect131" />
     <rect
        class="swatch_0 spans_1"
@@ -510,7 +510,7 @@
        height="20"
        x="420"
        y="40"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect133" />
     <rect
        class="swatch_2 spans_1"
@@ -518,7 +518,7 @@
        height="20"
        x="0"
        y="60"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect139" />
     <rect
        class="swatch_1 spans_1"
@@ -526,7 +526,7 @@
        height="20"
        x="20"
        y="60"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect141" />
     <rect
        class="swatch_1 spans_1"
@@ -534,7 +534,7 @@
        height="20"
        x="40"
        y="60"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect143" />
     <rect
        class="swatch_0 spans_1"
@@ -542,7 +542,7 @@
        height="20"
        x="60"
        y="60"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect145" />
     <rect
        class="swatch_1 spans_1"
@@ -550,7 +550,7 @@
        height="20"
        x="80"
        y="60"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect147" />
     <rect
        class="swatch_2 spans_2"
@@ -558,7 +558,7 @@
        height="20"
        x="100"
        y="60"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect149" />
     <rect
        class="swatch_1 spans_1"
@@ -566,7 +566,7 @@
        height="20"
        x="140"
        y="60"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect151" />
     <rect
        class="swatch_1 spans_2"
@@ -574,7 +574,7 @@
        height="20"
        x="160"
        y="60"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect153" />
     <rect
        class="swatch_0 spans_1"
@@ -582,7 +582,7 @@
        height="20"
        x="200"
        y="60"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect155" />
     <rect
        class="swatch_1 spans_1"
@@ -590,7 +590,7 @@
        height="20"
        x="220"
        y="60"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect157" />
     <rect
        class="swatch_2 spans_1"
@@ -598,7 +598,7 @@
        height="20"
        x="240"
        y="60"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect159" />
     <rect
        class="swatch_2 spans_1"
@@ -606,7 +606,7 @@
        height="20"
        x="260"
        y="60"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect161" />
     <rect
        class="swatch_0 spans_2"
@@ -614,7 +614,7 @@
        height="20"
        x="280"
        y="60"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect163" />
     <rect
        class="swatch_2 spans_1"
@@ -622,7 +622,7 @@
        height="20"
        x="320"
        y="60"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect165" />
     <rect
        class="swatch_0 spans_2"
@@ -630,7 +630,7 @@
        height="20"
        x="340"
        y="60"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect167" />
     <rect
        class="swatch_0 spans_2"
@@ -638,7 +638,7 @@
        height="20"
        x="380"
        y="60"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect169" />
     <rect
        class="swatch_2 spans_1"
@@ -646,7 +646,7 @@
        height="20"
        x="420"
        y="60"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect171" />
     <rect
        class="swatch_2 spans_1"
@@ -654,7 +654,7 @@
        height="20"
        x="0"
        y="80"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect175" />
     <rect
        class="swatch_0 spans_1"
@@ -662,7 +662,7 @@
        height="20"
        x="20"
        y="80"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect177" />
     <rect
        class="swatch_1 spans_2"
@@ -670,7 +670,7 @@
        height="20"
        x="40"
        y="80"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect179" />
     <rect
        class="swatch_1 spans_1"
@@ -678,7 +678,7 @@
        height="20"
        x="80"
        y="80"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect181" />
     <rect
        class="swatch_0 spans_1"
@@ -686,7 +686,7 @@
        height="20"
        x="100"
        y="80"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect183" />
     <rect
        class="swatch_1 spans_1"
@@ -694,7 +694,7 @@
        height="20"
        x="120"
        y="80"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect185" />
     <rect
        class="swatch_1 spans_2"
@@ -702,7 +702,7 @@
        height="20"
        x="140"
        y="80"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect187" />
     <rect
        class="swatch_1 spans_2"
@@ -710,7 +710,7 @@
        height="20"
        x="180"
        y="80"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect189" />
     <rect
        class="swatch_0 spans_2"
@@ -718,7 +718,7 @@
        height="20"
        x="220"
        y="80"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect191" />
     <rect
        class="swatch_2 spans_1"
@@ -726,7 +726,7 @@
        height="20"
        x="260"
        y="80"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect193" />
     <rect
        class="swatch_2 spans_1"
@@ -734,7 +734,7 @@
        height="20"
        x="280"
        y="80"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect195" />
     <rect
        class="swatch_0 spans_2"
@@ -742,7 +742,7 @@
        height="20"
        x="300"
        y="80"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect197" />
     <rect
        class="swatch_1 spans_1"
@@ -750,7 +750,7 @@
        height="20"
        x="340"
        y="80"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect199" />
     <rect
        class="swatch_1 spans_1"
@@ -758,7 +758,7 @@
        height="20"
        x="360"
        y="80"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect201" />
     <rect
        class="swatch_2 spans_1"
@@ -766,7 +766,7 @@
        height="20"
        x="380"
        y="80"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect203" />
     <rect
        class="swatch_1 spans_2"
@@ -774,7 +774,7 @@
        height="20"
        x="400"
        y="80"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect205" />
     <rect
        class="swatch_1 spans_1"
@@ -782,7 +782,7 @@
        height="20"
        x="0"
        y="100"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect209" />
     <rect
        class="swatch_2 spans_1"
@@ -790,7 +790,7 @@
        height="20"
        x="20"
        y="100"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect211" />
     <rect
        class="swatch_1 spans_2"
@@ -798,7 +798,7 @@
        height="20"
        x="40"
        y="100"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect213" />
     <rect
        class="swatch_2 spans_1"
@@ -806,7 +806,7 @@
        height="20"
        x="80"
        y="100"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect215" />
     <rect
        class="swatch_0 spans_1"
@@ -814,7 +814,7 @@
        height="20"
        x="100"
        y="100"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect217" />
     <rect
        class="swatch_0 spans_2"
@@ -822,7 +822,7 @@
        height="20"
        x="120"
        y="100"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect219" />
     <rect
        class="swatch_1 spans_2"
@@ -830,7 +830,7 @@
        height="20"
        x="160"
        y="100"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect221" />
     <rect
        class="swatch_1 spans_1"
@@ -838,7 +838,7 @@
        height="20"
        x="200"
        y="100"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect223" />
     <rect
        class="swatch_2 spans_2"
@@ -846,7 +846,7 @@
        height="20"
        x="220"
        y="100"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect225" />
     <rect
        class="swatch_2 spans_1"
@@ -854,7 +854,7 @@
        height="20"
        x="260"
        y="100"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect227" />
     <rect
        class="swatch_0 spans_2"
@@ -862,7 +862,7 @@
        height="20"
        x="280"
        y="100"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect229" />
     <rect
        class="swatch_0 spans_1"
@@ -870,7 +870,7 @@
        height="20"
        x="320"
        y="100"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect231" />
     <rect
        class="swatch_0 spans_2"
@@ -878,7 +878,7 @@
        height="20"
        x="340"
        y="100"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect233" />
     <rect
        class="swatch_1 spans_1"
@@ -886,7 +886,7 @@
        height="20"
        x="380"
        y="100"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect235" />
     <rect
        class="swatch_0 spans_1"
@@ -894,7 +894,7 @@
        height="20"
        x="400"
        y="100"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect237" />
     <rect
        class="swatch_2 spans_1"
@@ -902,7 +902,7 @@
        height="20"
        x="420"
        y="100"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect239" />
     <rect
        class="swatch_2 spans_1"
@@ -910,7 +910,7 @@
        height="20"
        x="0"
        y="120"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect243" />
     <rect
        class="swatch_1 spans_2"
@@ -918,7 +918,7 @@
        height="20"
        x="20"
        y="120"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect245" />
     <rect
        class="swatch_2 spans_1"
@@ -926,7 +926,7 @@
        height="20"
        x="60"
        y="120"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect247" />
     <rect
        class="swatch_2 spans_1"
@@ -934,7 +934,7 @@
        height="20"
        x="80"
        y="120"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect249" />
     <rect
        class="swatch_0 spans_2"
@@ -942,7 +942,7 @@
        height="20"
        x="100"
        y="120"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect251" />
     <rect
        class="swatch_2 spans_1"
@@ -950,7 +950,7 @@
        height="20"
        x="140"
        y="120"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect253" />
     <rect
        class="swatch_1 spans_1"
@@ -958,7 +958,7 @@
        height="20"
        x="160"
        y="120"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect255" />
     <rect
        class="swatch_2 spans_2"
@@ -966,7 +966,7 @@
        height="20"
        x="180"
        y="120"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect257" />
     <rect
        class="swatch_1 spans_1"
@@ -974,7 +974,7 @@
        height="20"
        x="220"
        y="120"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect259" />
     <rect
        class="swatch_1 spans_1"
@@ -982,7 +982,7 @@
        height="20"
        x="240"
        y="120"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect261" />
     <rect
        class="swatch_2 spans_2"
@@ -990,7 +990,7 @@
        height="20"
        x="260"
        y="120"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect263" />
     <rect
        class="swatch_1 spans_1"
@@ -998,7 +998,7 @@
        height="20"
        x="300"
        y="120"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect265" />
     <rect
        class="swatch_1 spans_2"
@@ -1006,7 +1006,7 @@
        height="20"
        x="320"
        y="120"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect267" />
     <rect
        class="swatch_2 spans_1"
@@ -1014,7 +1014,7 @@
        height="20"
        x="360"
        y="120"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect269" />
     <rect
        class="swatch_1 spans_1"
@@ -1022,7 +1022,7 @@
        height="20"
        x="380"
        y="120"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect271" />
     <rect
        class="swatch_0 spans_1"
@@ -1030,7 +1030,7 @@
        height="20"
        x="400"
        y="120"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect273" />
     <rect
        class="swatch_2 spans_1"
@@ -1038,7 +1038,7 @@
        height="20"
        x="420"
        y="120"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect275" />
     <rect
        class="swatch_2 spans_2"
@@ -1046,7 +1046,7 @@
        height="20"
        x="0"
        y="140"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect281" />
     <rect
        class="swatch_2 spans_1"
@@ -1054,7 +1054,7 @@
        height="20"
        x="40"
        y="140"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect283" />
     <rect
        class="swatch_2 spans_2"
@@ -1062,7 +1062,7 @@
        height="20"
        x="60"
        y="140"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect285" />
     <rect
        class="swatch_0 spans_1"
@@ -1070,7 +1070,7 @@
        height="20"
        x="100"
        y="140"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect287" />
     <rect
        class="swatch_1 spans_1"
@@ -1078,7 +1078,7 @@
        height="20"
        x="120"
        y="140"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect289" />
     <rect
        class="swatch_2 spans_2"
@@ -1086,7 +1086,7 @@
        height="20"
        x="140"
        y="140"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect291" />
     <rect
        class="swatch_2 spans_1"
@@ -1094,7 +1094,7 @@
        height="20"
        x="180"
        y="140"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect293" />
     <rect
        class="swatch_1 spans_2"
@@ -1102,7 +1102,7 @@
        height="20"
        x="200"
        y="140"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect295" />
     <rect
        class="swatch_2 spans_2"
@@ -1110,7 +1110,7 @@
        height="20"
        x="240"
        y="140"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect297" />
     <rect
        class="swatch_2 spans_1"
@@ -1118,7 +1118,7 @@
        height="20"
        x="280"
        y="140"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect299" />
     <rect
        class="swatch_2 spans_2"
@@ -1126,7 +1126,7 @@
        height="20"
        x="300"
        y="140"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect301" />
     <rect
        class="swatch_2 spans_1"
@@ -1134,7 +1134,7 @@
        height="20"
        x="340"
        y="140"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect303" />
     <rect
        class="swatch_1 spans_2"
@@ -1142,7 +1142,7 @@
        height="20"
        x="360"
        y="140"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect305" />
     <rect
        class="swatch_2 spans_1"
@@ -1150,15 +1150,15 @@
        height="20"
        x="400"
        y="140"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect307" />
     <rect
        class="swatch_2 spans_2"
-       width="22.875982"
+       width="20"
        height="20.01623"
        x="419.87827"
        y="139.97566"
-       style="fill:url(#_c2);stroke:#999999;stroke-width:0.75654721"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-width:0.75654721;stroke-opacity:1"
        id="rect309" />
     <rect
        class="swatch_2 spans_2"
@@ -1166,7 +1166,7 @@
        height="20"
        x="0"
        y="160"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect313" />
     <rect
        class="swatch_2 spans_1"
@@ -1174,7 +1174,7 @@
        height="20"
        x="40"
        y="160"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect315" />
     <rect
        class="swatch_1 spans_2"
@@ -1182,7 +1182,7 @@
        height="20"
        x="60"
        y="160"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect317" />
     <rect
        class="swatch_1 spans_2"
@@ -1190,7 +1190,7 @@
        height="20"
        x="100"
        y="160"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect319" />
     <rect
        class="swatch_0 spans_2"
@@ -1198,7 +1198,7 @@
        height="20"
        x="140"
        y="160"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect321" />
     <rect
        class="swatch_0 spans_1"
@@ -1206,7 +1206,7 @@
        height="20"
        x="180"
        y="160"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect323" />
     <rect
        class="swatch_1 spans_2"
@@ -1214,7 +1214,7 @@
        height="20"
        x="200"
        y="160"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect325" />
     <rect
        class="swatch_1 spans_1"
@@ -1222,7 +1222,7 @@
        height="20"
        x="240"
        y="160"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect327" />
     <rect
        class="swatch_0 spans_2"
@@ -1230,7 +1230,7 @@
        height="20"
        x="260"
        y="160"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect329" />
     <rect
        class="swatch_1 spans_1"
@@ -1238,7 +1238,7 @@
        height="20"
        x="300"
        y="160"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect331" />
     <rect
        class="swatch_0 spans_2"
@@ -1246,7 +1246,7 @@
        height="20"
        x="320"
        y="160"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect333" />
     <rect
        class="swatch_1 spans_2"
@@ -1254,7 +1254,7 @@
        height="20"
        x="360"
        y="160"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect335" />
     <rect
        class="swatch_0 spans_2"
@@ -1262,7 +1262,7 @@
        height="20"
        x="400"
        y="160"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect337" />
     <rect
        class="swatch_2 spans_1"
@@ -1270,7 +1270,7 @@
        height="20"
        x="0"
        y="180"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect343" />
     <rect
        class="swatch_2 spans_2"
@@ -1278,7 +1278,7 @@
        height="20"
        x="20"
        y="180"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect345" />
     <rect
        class="swatch_2 spans_2"
@@ -1286,7 +1286,7 @@
        height="20"
        x="60"
        y="180"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect347" />
     <rect
        class="swatch_0 spans_1"
@@ -1294,7 +1294,7 @@
        height="20"
        x="100"
        y="180"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect349" />
     <rect
        class="swatch_0 spans_1"
@@ -1302,7 +1302,7 @@
        height="20"
        x="120"
        y="180"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect351" />
     <rect
        class="swatch_1 spans_2"
@@ -1310,7 +1310,7 @@
        height="20"
        x="140"
        y="180"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect353" />
     <rect
        class="swatch_0 spans_2"
@@ -1318,7 +1318,7 @@
        height="20"
        x="180"
        y="180"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect355" />
     <rect
        class="swatch_0 spans_2"
@@ -1326,7 +1326,7 @@
        height="20"
        x="220"
        y="180"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect357" />
     <rect
        class="swatch_1 spans_2"
@@ -1334,7 +1334,7 @@
        height="20"
        x="260"
        y="180"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect359" />
     <rect
        class="swatch_1 spans_1"
@@ -1342,7 +1342,7 @@
        height="20"
        x="300"
        y="180"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect361" />
     <rect
        class="swatch_1 spans_1"
@@ -1350,7 +1350,7 @@
        height="20"
        x="320"
        y="180"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect363" />
     <rect
        class="swatch_1 spans_2"
@@ -1358,7 +1358,7 @@
        height="20"
        x="340"
        y="180"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect365" />
     <rect
        class="swatch_0 spans_2"
@@ -1366,15 +1366,15 @@
        height="20"
        x="380"
        y="180"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect367" />
     <rect
        class="swatch_2 spans_2"
-       width="22.875982"
+       width="20"
        height="20.01623"
        x="419.87827"
        y="180.00812"
-       style="fill:url(#_c2);stroke:#999999;stroke-width:0.75654721"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-width:0.75654721;stroke-opacity:1"
        id="rect369" />
     <rect
        class="swatch_0 spans_2"
@@ -1382,7 +1382,7 @@
        height="20"
        x="0"
        y="200"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect373" />
     <rect
        class="swatch_2 spans_2"
@@ -1390,7 +1390,7 @@
        height="20"
        x="40"
        y="200"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect375" />
     <rect
        class="swatch_2 spans_2"
@@ -1398,7 +1398,7 @@
        height="20"
        x="80"
        y="200"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect377" />
     <rect
        class="swatch_0 spans_2"
@@ -1406,7 +1406,7 @@
        height="20"
        x="120"
        y="200"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect379" />
     <rect
        class="swatch_0 spans_2"
@@ -1414,7 +1414,7 @@
        height="20"
        x="160"
        y="200"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect381" />
     <rect
        class="swatch_1 spans_1"
@@ -1422,7 +1422,7 @@
        height="20"
        x="200"
        y="200"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect383" />
     <rect
        class="swatch_1 spans_2"
@@ -1430,7 +1430,7 @@
        height="20"
        x="220"
        y="200"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect385" />
     <rect
        class="swatch_0 spans_1"
@@ -1438,7 +1438,7 @@
        height="20"
        x="260"
        y="200"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect387" />
     <rect
        class="swatch_0 spans_1"
@@ -1446,7 +1446,7 @@
        height="20"
        x="280"
        y="200"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect389" />
     <rect
        class="swatch_1 spans_2"
@@ -1454,7 +1454,7 @@
        height="20"
        x="300"
        y="200"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect391" />
     <rect
        class="swatch_2 spans_2"
@@ -1462,7 +1462,7 @@
        height="20"
        x="340"
        y="200"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect393" />
     <rect
        class="swatch_1 spans_2"
@@ -1470,15 +1470,15 @@
        height="20"
        x="380"
        y="200"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect395" />
     <rect
        class="swatch_0 spans_2"
-       width="23.0436"
+       width="20"
        height="20.236519"
        x="419.88174"
        y="199.88174"
-       style="fill:url(#_c0);stroke:#999999;stroke-width:0.76348072"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-width:0.76348072;stroke-opacity:1"
        id="rect397" />
     <rect
        class="swatch_1 spans_1"
@@ -1486,7 +1486,7 @@
        height="20"
        x="0"
        y="220"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect401" />
     <rect
        class="swatch_0 spans_1"
@@ -1494,7 +1494,7 @@
        height="20"
        x="20"
        y="220"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect403" />
     <rect
        class="swatch_1 spans_1"
@@ -1502,7 +1502,7 @@
        height="20"
        x="40"
        y="220"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect405" />
     <rect
        class="swatch_1 spans_1"
@@ -1510,7 +1510,7 @@
        height="20"
        x="60"
        y="220"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect407" />
     <rect
        class="swatch_0 spans_1"
@@ -1518,7 +1518,7 @@
        height="20"
        x="80"
        y="220"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect409" />
     <rect
        class="swatch_0 spans_1"
@@ -1526,7 +1526,7 @@
        height="20"
        x="100"
        y="220"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect411" />
     <rect
        class="swatch_1 spans_1"
@@ -1534,7 +1534,7 @@
        height="20"
        x="120"
        y="220"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect413" />
     <rect
        class="swatch_0 spans_2"
@@ -1542,7 +1542,7 @@
        height="20"
        x="140"
        y="220"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect415" />
     <rect
        class="swatch_2 spans_2"
@@ -1550,7 +1550,7 @@
        height="20"
        x="180"
        y="220"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect417" />
     <rect
        class="swatch_0 spans_1"
@@ -1558,7 +1558,7 @@
        height="20"
        x="220"
        y="220"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect419" />
     <rect
        class="swatch_0 spans_2"
@@ -1566,7 +1566,7 @@
        height="20"
        x="240"
        y="220"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect421" />
     <rect
        class="swatch_2 spans_1"
@@ -1574,7 +1574,7 @@
        height="20"
        x="280"
        y="220"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect423" />
     <rect
        class="swatch_1 spans_2"
@@ -1582,7 +1582,7 @@
        height="20"
        x="300"
        y="220"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect425" />
     <rect
        class="swatch_1 spans_1"
@@ -1590,7 +1590,7 @@
        height="20"
        x="340"
        y="220"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect427" />
     <rect
        class="swatch_1 spans_2"
@@ -1598,7 +1598,7 @@
        height="20"
        x="360"
        y="220"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect429" />
     <rect
        class="swatch_2 spans_1"
@@ -1606,7 +1606,7 @@
        height="20"
        x="400"
        y="220"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect431" />
     <rect
        class="swatch_0 spans_1"
@@ -1614,7 +1614,7 @@
        height="20"
        x="420"
        y="220"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect433" />
     <rect
        class="swatch_1 spans_1"
@@ -1622,7 +1622,7 @@
        height="20"
        x="0"
        y="240"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect437" />
     <rect
        class="swatch_0 spans_2"
@@ -1630,7 +1630,7 @@
        height="20"
        x="20"
        y="240"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect439" />
     <rect
        class="swatch_2 spans_2"
@@ -1638,7 +1638,7 @@
        height="20"
        x="60"
        y="240"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect441" />
     <rect
        class="swatch_2 spans_2"
@@ -1646,7 +1646,7 @@
        height="20"
        x="100"
        y="240"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect443" />
     <rect
        class="swatch_0 spans_1"
@@ -1654,7 +1654,7 @@
        height="20"
        x="140"
        y="240"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect445" />
     <rect
        class="swatch_0 spans_2"
@@ -1662,7 +1662,7 @@
        height="20"
        x="160"
        y="240"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect447" />
     <rect
        class="swatch_2 spans_1"
@@ -1670,7 +1670,7 @@
        height="20"
        x="200"
        y="240"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect449" />
     <rect
        class="swatch_1 spans_2"
@@ -1678,7 +1678,7 @@
        height="20"
        x="220"
        y="240"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect451" />
     <rect
        class="swatch_0 spans_1"
@@ -1686,7 +1686,7 @@
        height="20"
        x="260"
        y="240"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect453" />
     <rect
        class="swatch_0 spans_1"
@@ -1694,7 +1694,7 @@
        height="20"
        x="280"
        y="240"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect455" />
     <rect
        class="swatch_0 spans_1"
@@ -1702,7 +1702,7 @@
        height="20"
        x="300"
        y="240"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect457" />
     <rect
        class="swatch_2 spans_1"
@@ -1710,7 +1710,7 @@
        height="20"
        x="320"
        y="240"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect459" />
     <rect
        class="swatch_2 spans_2"
@@ -1718,7 +1718,7 @@
        height="20"
        x="340"
        y="240"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect461" />
     <rect
        class="swatch_0 spans_2"
@@ -1726,15 +1726,15 @@
        height="20"
        x="380"
        y="240"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect463" />
     <rect
        class="swatch_2 spans_2"
-       width="22.875982"
+       width="20"
        height="20.01623"
        x="419.87827"
        y="240.05681"
-       style="fill:url(#_c2);stroke:#999999;stroke-width:0.75654721"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-width:0.75654721;stroke-opacity:1"
        id="rect465" />
     <rect
        class="swatch_1 spans_2"
@@ -1742,7 +1742,7 @@
        height="20"
        x="0"
        y="260"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect469" />
     <rect
        class="swatch_2 spans_2"
@@ -1750,7 +1750,7 @@
        height="20"
        x="40"
        y="260"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect471" />
     <rect
        class="swatch_0 spans_1"
@@ -1758,7 +1758,7 @@
        height="20"
        x="80"
        y="260"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect473" />
     <rect
        class="swatch_1 spans_1"
@@ -1766,7 +1766,7 @@
        height="20"
        x="100"
        y="260"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect475" />
     <rect
        class="swatch_1 spans_2"
@@ -1774,7 +1774,7 @@
        height="20"
        x="120"
        y="260"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect477" />
     <rect
        class="swatch_2 spans_2"
@@ -1782,7 +1782,7 @@
        height="20"
        x="160"
        y="260"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect479" />
     <rect
        class="swatch_1 spans_1"
@@ -1790,7 +1790,7 @@
        height="20"
        x="200"
        y="260"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect481" />
     <rect
        class="swatch_2 spans_2"
@@ -1798,7 +1798,7 @@
        height="20"
        x="220"
        y="260"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect483" />
     <rect
        class="swatch_1 spans_1"
@@ -1806,7 +1806,7 @@
        height="20"
        x="260"
        y="260"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect485" />
     <rect
        class="swatch_1 spans_2"
@@ -1814,7 +1814,7 @@
        height="20"
        x="280"
        y="260"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect487" />
     <rect
        class="swatch_2 spans_1"
@@ -1822,7 +1822,7 @@
        height="20"
        x="320"
        y="260"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect489" />
     <rect
        class="swatch_0 spans_1"
@@ -1830,7 +1830,7 @@
        height="20"
        x="340"
        y="260"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect491" />
     <rect
        class="swatch_1 spans_1"
@@ -1838,7 +1838,7 @@
        height="20"
        x="360"
        y="260"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect493" />
     <rect
        class="swatch_2 spans_2"
@@ -1846,15 +1846,15 @@
        height="20"
        x="380"
        y="260"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect495" />
     <rect
        class="swatch_1 spans_2"
-       width="22.875982"
+       width="20"
        height="20.01623"
        x="419.87827"
        y="260.07303"
-       style="fill:url(#_c1);stroke:#999999;stroke-width:0.75654721"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-width:0.75654721;stroke-opacity:1"
        id="rect497" />
     <rect
        class="swatch_2 spans_1"
@@ -1862,7 +1862,7 @@
        height="20"
        x="0"
        y="280"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect501" />
     <rect
        class="swatch_1 spans_1"
@@ -1870,7 +1870,7 @@
        height="20"
        x="20"
        y="280"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect503" />
     <rect
        class="swatch_1 spans_1"
@@ -1878,7 +1878,7 @@
        height="20"
        x="40"
        y="280"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect505" />
     <rect
        class="swatch_2 spans_2"
@@ -1886,7 +1886,7 @@
        height="20"
        x="60"
        y="280"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect507" />
     <rect
        class="swatch_2 spans_1"
@@ -1894,7 +1894,7 @@
        height="20"
        x="100"
        y="280"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect509" />
     <rect
        class="swatch_1 spans_1"
@@ -1902,7 +1902,7 @@
        height="20"
        x="120"
        y="280"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect511" />
     <rect
        class="swatch_1 spans_2"
@@ -1910,7 +1910,7 @@
        height="20"
        x="140"
        y="280"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect513" />
     <rect
        class="swatch_2 spans_1"
@@ -1918,7 +1918,7 @@
        height="20"
        x="180"
        y="280"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect515" />
     <rect
        class="swatch_1 spans_2"
@@ -1926,7 +1926,7 @@
        height="20"
        x="200"
        y="280"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect517" />
     <rect
        class="swatch_0 spans_2"
@@ -1934,7 +1934,7 @@
        height="20"
        x="240"
        y="280"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect519" />
     <rect
        class="swatch_2 spans_2"
@@ -1942,7 +1942,7 @@
        height="20"
        x="280"
        y="280"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect521" />
     <rect
        class="swatch_0 spans_2"
@@ -1950,7 +1950,7 @@
        height="20"
        x="320"
        y="280"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect523" />
     <rect
        class="swatch_1 spans_1"
@@ -1958,7 +1958,7 @@
        height="20"
        x="360"
        y="280"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect525" />
     <rect
        class="swatch_0 spans_1"
@@ -1966,7 +1966,7 @@
        height="20"
        x="380"
        y="280"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect527" />
     <rect
        class="swatch_2 spans_1"
@@ -1974,15 +1974,15 @@
        height="20"
        x="400"
        y="280"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect529" />
     <rect
        class="swatch_2 spans_2"
-       width="22.875982"
+       width="20"
        height="20.01623"
        x="419.87827"
        y="280.08926"
-       style="fill:url(#_c2);stroke:#999999;stroke-width:0.75654721"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-width:0.75654721;stroke-opacity:1"
        id="rect531" />
     <rect
        class="swatch_1 spans_1"
@@ -1990,7 +1990,7 @@
        height="20"
        x="0"
        y="300"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect535" />
     <rect
        class="swatch_0 spans_1"
@@ -1998,7 +1998,7 @@
        height="20"
        x="20"
        y="300"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect537" />
     <rect
        class="swatch_1 spans_2"
@@ -2006,7 +2006,7 @@
        height="20"
        x="40"
        y="300"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect539" />
     <rect
        class="swatch_2 spans_1"
@@ -2014,7 +2014,7 @@
        height="20"
        x="80"
        y="300"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect541" />
     <rect
        class="swatch_2 spans_2"
@@ -2022,7 +2022,7 @@
        height="20"
        x="100"
        y="300"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect543" />
     <rect
        class="swatch_1 spans_1"
@@ -2030,7 +2030,7 @@
        height="20"
        x="140"
        y="300"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect545" />
     <rect
        class="swatch_0 spans_2"
@@ -2038,7 +2038,7 @@
        height="20"
        x="160"
        y="300"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect547" />
     <rect
        class="swatch_2 spans_1"
@@ -2046,7 +2046,7 @@
        height="20"
        x="200"
        y="300"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect549" />
     <rect
        class="swatch_1 spans_2"
@@ -2054,7 +2054,7 @@
        height="20"
        x="220"
        y="300"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect551" />
     <rect
        class="swatch_0 spans_2"
@@ -2062,7 +2062,7 @@
        height="20"
        x="260"
        y="300"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect553" />
     <rect
        class="swatch_1 spans_1"
@@ -2070,7 +2070,7 @@
        height="20"
        x="300"
        y="300"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect555" />
     <rect
        class="swatch_1 spans_2"
@@ -2078,7 +2078,7 @@
        height="20"
        x="320"
        y="300"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect557" />
     <rect
        class="swatch_2 spans_2"
@@ -2086,7 +2086,7 @@
        height="20"
        x="360"
        y="300"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect559" />
     <rect
        class="swatch_0 spans_1"
@@ -2094,15 +2094,15 @@
        height="20"
        x="400"
        y="300"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect561" />
     <rect
        class="swatch_0 spans_2"
-       width="22.875982"
+       width="20"
        height="20.01623"
        x="419.87827"
        y="300.1055"
-       style="fill:url(#_c0);stroke:#999999;stroke-width:0.75654721"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-width:0.75654721;stroke-opacity:1"
        id="rect563" />
     <rect
        class="swatch_2 spans_2"
@@ -2110,7 +2110,7 @@
        height="20"
        x="0"
        y="320"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect567" />
     <rect
        class="swatch_1 spans_1"
@@ -2118,7 +2118,7 @@
        height="20"
        x="40"
        y="320"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect569" />
     <rect
        class="swatch_2 spans_1"
@@ -2126,7 +2126,7 @@
        height="20"
        x="60"
        y="320"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect571" />
     <rect
        class="swatch_0 spans_1"
@@ -2134,7 +2134,7 @@
        height="20"
        x="80"
        y="320"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect573" />
     <rect
        class="swatch_1 spans_2"
@@ -2142,7 +2142,7 @@
        height="20"
        x="100"
        y="320"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect575" />
     <rect
        class="swatch_0 spans_2"
@@ -2150,7 +2150,7 @@
        height="20"
        x="140"
        y="320"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect577" />
     <rect
        class="swatch_1 spans_2"
@@ -2158,7 +2158,7 @@
        height="20"
        x="180"
        y="320"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect579" />
     <rect
        class="swatch_0 spans_2"
@@ -2166,7 +2166,7 @@
        height="20"
        x="220"
        y="320"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect581" />
     <rect
        class="swatch_1 spans_2"
@@ -2174,7 +2174,7 @@
        height="20"
        x="260"
        y="320"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect583" />
     <rect
        class="swatch_0 spans_2"
@@ -2182,7 +2182,7 @@
        height="20"
        x="300"
        y="320"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect585" />
     <rect
        class="swatch_1 spans_2"
@@ -2190,7 +2190,7 @@
        height="20"
        x="340"
        y="320"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect587" />
     <rect
        class="swatch_0 spans_1"
@@ -2198,7 +2198,7 @@
        height="20"
        x="380"
        y="320"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect589" />
     <rect
        class="swatch_2 spans_2"
@@ -2206,7 +2206,7 @@
        height="20"
        x="400"
        y="320"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect591" />
     <rect
        class="swatch_0 spans_1"
@@ -2214,7 +2214,7 @@
        height="20"
        x="0"
        y="340"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect595" />
     <rect
        class="swatch_1 spans_1"
@@ -2222,7 +2222,7 @@
        height="20"
        x="20"
        y="340"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect597" />
     <rect
        class="swatch_0 spans_2"
@@ -2230,7 +2230,7 @@
        height="20"
        x="40"
        y="340"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect599" />
     <rect
        class="swatch_1 spans_2"
@@ -2238,7 +2238,7 @@
        height="20"
        x="80"
        y="340"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect601" />
     <rect
        class="swatch_0 spans_2"
@@ -2246,7 +2246,7 @@
        height="20"
        x="120"
        y="340"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect603" />
     <rect
        class="swatch_2 spans_2"
@@ -2254,7 +2254,7 @@
        height="20"
        x="160"
        y="340"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect605" />
     <rect
        class="swatch_2 spans_1"
@@ -2262,7 +2262,7 @@
        height="20"
        x="200"
        y="340"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect607" />
     <rect
        class="swatch_0 spans_2"
@@ -2270,7 +2270,7 @@
        height="20"
        x="220"
        y="340"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect609" />
     <rect
        class="swatch_2 spans_2"
@@ -2278,7 +2278,7 @@
        height="20"
        x="260"
        y="340"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect611" />
     <rect
        class="swatch_1 spans_2"
@@ -2286,7 +2286,7 @@
        height="20"
        x="300"
        y="340"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect613" />
     <rect
        class="swatch_2 spans_2"
@@ -2294,7 +2294,7 @@
        height="20"
        x="340"
        y="340"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect615" />
     <rect
        class="swatch_0 spans_2"
@@ -2302,15 +2302,15 @@
        height="20"
        x="380"
        y="340"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect617" />
     <rect
        class="swatch_1 spans_1"
        width="20"
        height="20"
-       x="420"
+       x="419.9711"
        y="340"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect619" />
     <rect
        class="swatch_1 spans_1"
@@ -2318,7 +2318,7 @@
        height="20"
        x="0"
        y="360"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect623" />
     <rect
        class="swatch_2 spans_1"
@@ -2326,7 +2326,7 @@
        height="20"
        x="20"
        y="360"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect625" />
     <rect
        class="swatch_2 spans_2"
@@ -2334,7 +2334,7 @@
        height="20"
        x="40"
        y="360"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect627" />
     <rect
        class="swatch_1 spans_2"
@@ -2342,7 +2342,7 @@
        height="20"
        x="80"
        y="360"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect629" />
     <rect
        class="swatch_2 spans_1"
@@ -2350,7 +2350,7 @@
        height="20"
        x="120"
        y="360"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect631" />
     <rect
        class="swatch_2 spans_1"
@@ -2358,7 +2358,7 @@
        height="20"
        x="140"
        y="360"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect633" />
     <rect
        class="swatch_0 spans_1"
@@ -2366,7 +2366,7 @@
        height="20"
        x="160"
        y="360"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect635" />
     <rect
        class="swatch_0 spans_2"
@@ -2374,7 +2374,7 @@
        height="20"
        x="180"
        y="360"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect637" />
     <rect
        class="swatch_2 spans_2"
@@ -2382,7 +2382,7 @@
        height="20"
        x="220"
        y="360"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect639" />
     <rect
        class="swatch_1 spans_1"
@@ -2390,7 +2390,7 @@
        height="20"
        x="260"
        y="360"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect641" />
     <rect
        class="swatch_2 spans_1"
@@ -2398,7 +2398,7 @@
        height="20"
        x="280"
        y="360"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect643" />
     <rect
        class="swatch_2 spans_2"
@@ -2406,7 +2406,7 @@
        height="20"
        x="300"
        y="360"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect645" />
     <rect
        class="swatch_1 spans_2"
@@ -2414,7 +2414,7 @@
        height="20"
        x="340"
        y="360"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect647" />
     <rect
        class="swatch_2 spans_2"
@@ -2422,7 +2422,7 @@
        height="20.08708"
        x="379.86938"
        y="359.86938"
-       style="fill:url(#_c2);stroke:#999999;stroke-width:0.73875874"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-width:0.73875874;stroke-opacity:1"
        id="rect649" />
     <rect
        class="swatch_0 spans_1"
@@ -2430,7 +2430,7 @@
        height="20"
        x="0"
        y="380"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect657" />
     <rect
        class="swatch_0 spans_2"
@@ -2438,7 +2438,7 @@
        height="20"
        x="20"
        y="380"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect659" />
     <rect
        class="swatch_2 spans_2"
@@ -2446,7 +2446,7 @@
        height="20"
        x="60"
        y="380"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect661" />
     <rect
        class="swatch_2 spans_1"
@@ -2454,7 +2454,7 @@
        height="20"
        x="100"
        y="380"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect663" />
     <rect
        class="swatch_1 spans_1"
@@ -2462,7 +2462,7 @@
        height="20"
        x="120"
        y="380"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect665" />
     <rect
        class="swatch_1 spans_2"
@@ -2470,7 +2470,7 @@
        height="20"
        x="140"
        y="380"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect667" />
     <rect
        class="swatch_0 spans_2"
@@ -2478,7 +2478,7 @@
        height="20"
        x="180"
        y="380"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect669" />
     <rect
        class="swatch_0 spans_1"
@@ -2486,7 +2486,7 @@
        height="20"
        x="220"
        y="380"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect671" />
     <rect
        class="swatch_1 spans_1"
@@ -2494,7 +2494,7 @@
        height="20"
        x="240"
        y="380"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect673" />
     <rect
        class="swatch_2 spans_2"
@@ -2502,7 +2502,7 @@
        height="20"
        x="260"
        y="380"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect675" />
     <rect
        class="swatch_2 spans_2"
@@ -2510,7 +2510,7 @@
        height="20"
        x="300"
        y="380"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect677" />
     <rect
        class="swatch_0 spans_1"
@@ -2518,7 +2518,7 @@
        height="20"
        x="340"
        y="380"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect679" />
     <rect
        class="swatch_0 spans_2"
@@ -2526,7 +2526,7 @@
        height="20"
        x="360"
        y="380"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect681" />
     <rect
        class="swatch_2 spans_2"
@@ -2534,7 +2534,7 @@
        height="20"
        x="0"
        y="400"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect691" />
     <rect
        class="swatch_0 spans_2"
@@ -2542,7 +2542,7 @@
        height="20"
        x="40"
        y="400"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect693" />
     <rect
        class="swatch_1 spans_2"
@@ -2550,7 +2550,7 @@
        height="20"
        x="80"
        y="400"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect695" />
     <rect
        class="swatch_1 spans_2"
@@ -2558,7 +2558,7 @@
        height="20"
        x="120"
        y="400"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect697" />
     <rect
        class="swatch_2 spans_2"
@@ -2566,7 +2566,7 @@
        height="20"
        x="160"
        y="400"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect699" />
     <rect
        class="swatch_2 spans_2"
@@ -2574,7 +2574,7 @@
        height="20"
        x="200"
        y="400"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect701" />
     <rect
        class="swatch_1 spans_2"
@@ -2582,7 +2582,7 @@
        height="20"
        x="240"
        y="400"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect703" />
     <rect
        class="swatch_2 spans_2"
@@ -2590,7 +2590,7 @@
        height="20"
        x="280"
        y="400"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect705" />
     <rect
        class="swatch_2 spans_2"
@@ -2598,7 +2598,7 @@
        height="20"
        x="320"
        y="400"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect707" />
     <rect
        class="swatch_1 spans_1"
@@ -2606,15 +2606,15 @@
        height="20"
        x="360"
        y="400"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect709" />
     <rect
        class="swatch_1 spans_2"
-       width="21.735939"
+       width="19.543329"
        height="20.08708"
        x="379.86938"
        y="400.04355"
-       style="fill:url(#_c1);stroke:#999999;stroke-width:0.73875874"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-width:0.73875874;stroke-opacity:1"
        id="rect711" />
     <rect
        class="swatch_2 spans_1"
@@ -2622,7 +2622,7 @@
        height="20"
        x="0"
        y="420"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect717" />
     <rect
        class="swatch_0 spans_2"
@@ -2630,7 +2630,7 @@
        height="20"
        x="20"
        y="420"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect719" />
     <rect
        class="swatch_1 spans_1"
@@ -2638,7 +2638,7 @@
        height="20"
        x="60"
        y="420"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect721" />
     <rect
        class="swatch_2 spans_1"
@@ -2646,7 +2646,7 @@
        height="20"
        x="80"
        y="420"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect723" />
     <rect
        class="swatch_2 spans_2"
@@ -2654,7 +2654,7 @@
        height="20"
        x="100"
        y="420"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect725" />
     <rect
        class="swatch_2 spans_2"
@@ -2662,7 +2662,7 @@
        height="20"
        x="140"
        y="420"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect727" />
     <rect
        class="swatch_1 spans_1"
@@ -2670,7 +2670,7 @@
        height="20"
        x="180"
        y="420"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect729" />
     <rect
        class="swatch_1 spans_1"
@@ -2678,7 +2678,7 @@
        height="20"
        x="200"
        y="420"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect731" />
     <rect
        class="swatch_1 spans_2"
@@ -2686,7 +2686,7 @@
        height="20"
        x="220"
        y="420"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect733" />
     <rect
        class="swatch_0 spans_2"
@@ -2694,7 +2694,7 @@
        height="20"
        x="260"
        y="420"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect735" />
     <rect
        class="swatch_1 spans_2"
@@ -2702,7 +2702,7 @@
        height="20"
        x="300"
        y="420"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect737" />
     <rect
        class="swatch_2 spans_1"
@@ -2710,7 +2710,7 @@
        height="20"
        x="340"
        y="420"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect739" />
     <rect
        class="swatch_1 spans_1"
@@ -2718,7 +2718,7 @@
        height="20"
        x="360"
        y="420"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect741" />
     <rect
        class="swatch_1 spans_1"
@@ -2726,7 +2726,7 @@
        height="20"
        x="380"
        y="420"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect743" />
     <rect
        class="swatch_0 spans_2"
@@ -2734,7 +2734,7 @@
        height="20"
        x="220"
        y="440"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect769" />
     <rect
        class="swatch_2 spans_2"
@@ -2742,7 +2742,7 @@
        height="20"
        x="260"
        y="440"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect771" />
     <rect
        class="swatch_0 spans_1"
@@ -2750,7 +2750,7 @@
        height="20"
        x="300"
        y="440"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect773" />
     <rect
        class="swatch_0 spans_2"
@@ -2758,7 +2758,7 @@
        height="20"
        x="320"
        y="440"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect775" />
     <rect
        class="swatch_1 spans_2"
@@ -2766,7 +2766,7 @@
        height="20"
        x="360"
        y="440"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect777" />
     <rect
        class="swatch_1 spans_2"
@@ -2774,7 +2774,7 @@
        height="20"
        x="220"
        y="460"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect801" />
     <rect
        class="swatch_2 spans_1"
@@ -2782,7 +2782,7 @@
        height="20"
        x="260"
        y="460"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect803" />
     <rect
        class="swatch_2 spans_1"
@@ -2790,7 +2790,7 @@
        height="20"
        x="280"
        y="460"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect805" />
     <rect
        class="swatch_0 spans_2"
@@ -2798,7 +2798,7 @@
        height="20"
        x="300"
        y="460"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect807" />
     <rect
        class="swatch_0 spans_1"
@@ -2806,7 +2806,7 @@
        height="20"
        x="340"
        y="460"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect809" />
     <rect
        class="swatch_2 spans_2"
@@ -2814,7 +2814,7 @@
        height="20"
        x="360"
        y="460"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect811" />
     <rect
        class="swatch_0 spans_1"
@@ -2822,7 +2822,7 @@
        height="20"
        x="220"
        y="480"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect835" />
     <rect
        class="swatch_0 spans_1"
@@ -2830,7 +2830,7 @@
        height="20"
        x="240"
        y="480"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect837" />
     <rect
        class="swatch_0 spans_1"
@@ -2838,7 +2838,7 @@
        height="20"
        x="260"
        y="480"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect839" />
     <rect
        class="swatch_1 spans_1"
@@ -2846,7 +2846,7 @@
        height="20"
        x="280"
        y="480"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect841" />
     <rect
        class="swatch_0 spans_1"
@@ -2854,7 +2854,7 @@
        height="20"
        x="300"
        y="480"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect843" />
     <rect
        class="swatch_0 spans_2"
@@ -2862,7 +2862,7 @@
        height="20"
        x="320"
        y="480"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect845" />
     <rect
        class="swatch_2 spans_2"
@@ -2870,7 +2870,7 @@
        height="20"
        x="360"
        y="480"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect847" />
     <rect
        class="swatch_1 spans_1"
@@ -2878,7 +2878,7 @@
        height="20"
        x="220"
        y="500"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect869" />
     <rect
        class="swatch_1 spans_2"
@@ -2886,7 +2886,7 @@
        height="20"
        x="240"
        y="500"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect871" />
     <rect
        class="swatch_0 spans_1"
@@ -2894,7 +2894,7 @@
        height="20"
        x="280"
        y="500"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect873" />
     <rect
        class="swatch_1 spans_2"
@@ -2902,7 +2902,7 @@
        height="20"
        x="300"
        y="500"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect875" />
     <rect
        class="swatch_2 spans_1"
@@ -2910,7 +2910,7 @@
        height="20"
        x="340"
        y="500"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect877" />
     <rect
        class="swatch_1 spans_2"
@@ -2918,7 +2918,7 @@
        height="20"
        x="360"
        y="500"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect879" />
     <rect
        class="swatch_2 spans_2"
@@ -2926,7 +2926,7 @@
        height="20"
        x="220"
        y="520"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect901" />
     <rect
        class="swatch_2 spans_2"
@@ -2934,7 +2934,7 @@
        height="20"
        x="260"
        y="520"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect903" />
     <rect
        class="swatch_1 spans_2"
@@ -2942,7 +2942,7 @@
        height="20"
        x="300"
        y="520"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect905" />
     <rect
        class="swatch_2 spans_2"
@@ -2950,7 +2950,7 @@
        height="20"
        x="340"
        y="520"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect907" />
     <rect
        class="swatch_0 spans_1"
@@ -2958,15 +2958,15 @@
        height="20"
        x="380"
        y="520"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect909" />
     <rect
        class="swatch_1 spans_2"
-       width="22.305914"
+       width="20"
        height="20.050461"
        x="217.82024"
        y="539.87384"
-       style="fill:url(#_c1);stroke:#999999;stroke-width:0.74769968"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-width:0.74769968;stroke-opacity:1"
        id="rect929" />
     <rect
        class="swatch_2 spans_1"
@@ -2974,7 +2974,7 @@
        height="20"
        x="240"
        y="540"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect931" />
     <rect
        class="swatch_2 spans_2"
@@ -2982,7 +2982,7 @@
        height="20"
        x="260"
        y="540"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect933" />
     <rect
        class="swatch_1 spans_1"
@@ -2990,7 +2990,7 @@
        height="20"
        x="300"
        y="540"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect935" />
     <rect
        class="swatch_1 spans_1"
@@ -2998,7 +2998,7 @@
        height="20"
        x="320"
        y="540"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect937" />
     <rect
        class="swatch_0 spans_2"
@@ -3006,7 +3006,7 @@
        height="20"
        x="340"
        y="540"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect939" />
     <rect
        class="swatch_2 spans_1"
@@ -3014,7 +3014,7 @@
        height="20"
        x="380"
        y="540"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect941" />
     <rect
        class="swatch_2 spans_1"
@@ -3022,7 +3022,7 @@
        height="20"
        x="220"
        y="560"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect961" />
     <rect
        class="swatch_1 spans_2"
@@ -3030,7 +3030,7 @@
        height="20"
        x="240"
        y="560"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect963" />
     <rect
        class="swatch_0 spans_1"
@@ -3038,7 +3038,7 @@
        height="20"
        x="280"
        y="560"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect965" />
     <rect
        class="swatch_2 spans_2"
@@ -3046,7 +3046,7 @@
        height="20"
        x="300"
        y="560"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect967" />
     <rect
        class="swatch_1 spans_2"
@@ -3054,15 +3054,15 @@
        height="20"
        x="340"
        y="560"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect969" />
     <rect
        class="swatch_0 spans_2"
-       width="22.238108"
+       width="19.994841"
        height="20.249737"
-       x="379.87512"
+       x="379.87454"
        y="559.87512"
-       style="fill:url(#_c0);stroke:#999999;stroke-width:0.75026315"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-width:0.75026315;stroke-opacity:1"
        id="rect971" />
     <rect
        class="swatch_1 spans_1"
@@ -3070,7 +3070,7 @@
        height="20"
        x="220"
        y="580"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect993" />
     <rect
        class="swatch_2 spans_1"
@@ -3078,7 +3078,7 @@
        height="20"
        x="240"
        y="580"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect995" />
     <rect
        class="swatch_2 spans_2"
@@ -3086,7 +3086,7 @@
        height="20"
        x="260"
        y="580"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect997" />
     <rect
        class="swatch_0 spans_1"
@@ -3094,7 +3094,7 @@
        height="20"
        x="300"
        y="580"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect999" />
     <rect
        class="swatch_1 spans_1"
@@ -3102,7 +3102,7 @@
        height="20"
        x="320"
        y="580"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1001" />
     <rect
        class="swatch_1 spans_1"
@@ -3110,7 +3110,7 @@
        height="20"
        x="340"
        y="580"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1003" />
     <rect
        class="swatch_1 spans_2"
@@ -3118,7 +3118,7 @@
        height="20"
        x="360"
        y="580"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1005" />
     <rect
        class="swatch_0 spans_1"
@@ -3126,7 +3126,7 @@
        height="20"
        x="220"
        y="600"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1023" />
     <rect
        class="swatch_0 spans_1"
@@ -3134,7 +3134,7 @@
        height="20"
        x="240"
        y="600"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1025" />
     <rect
        class="swatch_2 spans_2"
@@ -3142,7 +3142,7 @@
        height="20"
        x="260"
        y="600"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1027" />
     <rect
        class="swatch_1 spans_2"
@@ -3150,7 +3150,7 @@
        height="20"
        x="300"
        y="600"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1029" />
     <rect
        class="swatch_0 spans_2"
@@ -3158,7 +3158,7 @@
        height="20"
        x="340"
        y="600"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1031" />
     <rect
        class="swatch_1 spans_1"
@@ -3166,15 +3166,15 @@
        height="20"
        x="380"
        y="600"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1033" />
     <rect
        class="swatch_2 spans_2"
-       width="22.305914"
+       width="20"
        height="20.050461"
        x="217.82024"
        y="620.07568"
-       style="fill:url(#_c2);stroke:#999999;stroke-width:0.74769968"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-width:0.74769968;stroke-opacity:1"
        id="rect1051" />
     <rect
        class="swatch_1 spans_1"
@@ -3182,7 +3182,7 @@
        height="20"
        x="240"
        y="620"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1053" />
     <rect
        class="swatch_0 spans_2"
@@ -3190,7 +3190,7 @@
        height="20"
        x="260"
        y="620"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1055" />
     <rect
        class="swatch_0 spans_1"
@@ -3198,7 +3198,7 @@
        height="20"
        x="300"
        y="620"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1057" />
     <rect
        class="swatch_0 spans_1"
@@ -3206,7 +3206,7 @@
        height="20"
        x="320"
        y="620"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1059" />
     <rect
        class="swatch_2 spans_2"
@@ -3214,7 +3214,7 @@
        height="20"
        x="340"
        y="620"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1061" />
     <rect
        class="swatch_2 spans_1"
@@ -3222,7 +3222,7 @@
        height="20"
        x="380"
        y="620"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1063" />
     <rect
        class="swatch_0 spans_2"
@@ -3230,7 +3230,7 @@
        height="20"
        x="400"
        y="620"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1065" />
     <rect
        class="swatch_0 spans_2"
@@ -3238,7 +3238,7 @@
        height="20"
        x="440"
        y="620"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1067" />
     <rect
        class="swatch_1 spans_2"
@@ -3246,7 +3246,7 @@
        height="20"
        x="220"
        y="640"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1083" />
     <rect
        class="swatch_1 spans_2"
@@ -3254,7 +3254,7 @@
        height="20"
        x="260"
        y="640"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1085" />
     <rect
        class="swatch_2 spans_1"
@@ -3262,7 +3262,7 @@
        height="20"
        x="300"
        y="640"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1087" />
     <rect
        class="swatch_0 spans_1"
@@ -3270,7 +3270,7 @@
        height="20"
        x="320"
        y="640"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1089" />
     <rect
        class="swatch_2 spans_2"
@@ -3278,7 +3278,7 @@
        height="20"
        x="340"
        y="640"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1091" />
     <rect
        class="swatch_0 spans_1"
@@ -3286,7 +3286,7 @@
        height="20"
        x="380"
        y="640"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1093" />
     <rect
        class="swatch_1 spans_2"
@@ -3294,7 +3294,7 @@
        height="20"
        x="400"
        y="640"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1095" />
     <rect
        class="swatch_0 spans_1"
@@ -3302,7 +3302,7 @@
        height="20"
        x="440"
        y="640"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1097" />
     <rect
        class="swatch_2 spans_2"
@@ -3310,7 +3310,7 @@
        height="20.015217"
        x="459.87827"
        y="639.87823"
-       style="fill:url(#_c2);stroke:#999999;stroke-width:0.75652838"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-width:0.75652838;stroke-opacity:1"
        id="rect1099" />
     <rect
        class="swatch_1 spans_1"
@@ -3318,7 +3318,7 @@
        height="20"
        x="40"
        y="660"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1103" />
     <rect
        class="swatch_0 spans_1"
@@ -3326,7 +3326,7 @@
        height="20"
        x="60"
        y="660"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1105" />
     <rect
        class="swatch_0 spans_2"
@@ -3334,7 +3334,7 @@
        height="20"
        x="80"
        y="660"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1107" />
     <rect
        class="swatch_2 spans_1"
@@ -3342,7 +3342,7 @@
        height="20"
        x="120"
        y="660"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1109" />
     <rect
        class="swatch_0 spans_1"
@@ -3350,7 +3350,7 @@
        height="20"
        x="140"
        y="660"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1111" />
     <rect
        class="swatch_0 spans_2"
@@ -3358,7 +3358,7 @@
        height="20"
        x="160"
        y="660"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1113" />
     <rect
        class="swatch_2 spans_2"
@@ -3366,7 +3366,7 @@
        height="20"
        x="200"
        y="660"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1115" />
     <rect
        class="swatch_0 spans_2"
@@ -3374,7 +3374,7 @@
        height="20"
        x="240"
        y="660"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1117" />
     <rect
        class="swatch_0 spans_2"
@@ -3382,7 +3382,7 @@
        height="20"
        x="280"
        y="660"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1119" />
     <rect
        class="swatch_2 spans_1"
@@ -3390,7 +3390,7 @@
        height="20"
        x="320"
        y="660"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1121" />
     <rect
        class="swatch_2 spans_2"
@@ -3398,7 +3398,7 @@
        height="20"
        x="340"
        y="660"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1123" />
     <rect
        class="swatch_0 spans_2"
@@ -3406,7 +3406,7 @@
        height="20"
        x="380"
        y="660"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1125" />
     <rect
        class="swatch_2 spans_2"
@@ -3414,7 +3414,7 @@
        height="20"
        x="420"
        y="660"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1127" />
     <rect
        class="swatch_0 spans_1"
@@ -3422,7 +3422,7 @@
        height="20"
        x="460"
        y="660"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1129" />
     <rect
        class="swatch_2 spans_2"
@@ -3430,7 +3430,7 @@
        height="20"
        x="40"
        y="680"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1135" />
     <rect
        class="swatch_2 spans_2"
@@ -3438,7 +3438,7 @@
        height="20"
        x="80"
        y="680"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1137" />
     <rect
        class="swatch_2 spans_1"
@@ -3446,7 +3446,7 @@
        height="20"
        x="120"
        y="680"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1139" />
     <rect
        class="swatch_2 spans_2"
@@ -3454,7 +3454,7 @@
        height="20"
        x="140"
        y="680"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1141" />
     <rect
        class="swatch_0 spans_2"
@@ -3462,7 +3462,7 @@
        height="20"
        x="180"
        y="680"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1143" />
     <rect
        class="swatch_2 spans_1"
@@ -3470,7 +3470,7 @@
        height="20"
        x="220"
        y="680"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1145" />
     <rect
        class="swatch_0 spans_2"
@@ -3478,7 +3478,7 @@
        height="20"
        x="240"
        y="680"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1147" />
     <rect
        class="swatch_2 spans_1"
@@ -3486,7 +3486,7 @@
        height="20"
        x="280"
        y="680"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1149" />
     <rect
        class="swatch_0 spans_2"
@@ -3494,7 +3494,7 @@
        height="20"
        x="300"
        y="680"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1151" />
     <rect
        class="swatch_2 spans_2"
@@ -3502,7 +3502,7 @@
        height="20"
        x="340"
        y="680"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1153" />
     <rect
        class="swatch_0 spans_1"
@@ -3510,7 +3510,7 @@
        height="20"
        x="380"
        y="680"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1155" />
     <rect
        class="swatch_1 spans_1"
@@ -3518,7 +3518,7 @@
        height="20"
        x="400"
        y="680"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1157" />
     <rect
        class="swatch_2 spans_2"
@@ -3526,7 +3526,7 @@
        height="20"
        x="420"
        y="680"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1159" />
     <rect
        class="swatch_0 spans_2"
@@ -3534,7 +3534,7 @@
        height="20.015217"
        x="459.87827"
        y="679.90869"
-       style="fill:url(#_c0);stroke:#999999;stroke-width:0.75652838"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-width:0.75652838;stroke-opacity:1"
        id="rect1161" />
     <rect
        class="swatch_1 spans_2"
@@ -3542,7 +3542,7 @@
        height="20.020935"
        x="38.968136"
        y="699.86389"
-       style="fill:url(#_c1);stroke:#999999;stroke-width:0.72784096"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-width:0.72784096;stroke-opacity:1"
        id="rect1165" />
     <rect
        class="swatch_0 spans_2"
@@ -3550,7 +3550,7 @@
        height="20"
        x="60"
        y="700"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1167" />
     <rect
        class="swatch_1 spans_2"
@@ -3558,7 +3558,7 @@
        height="20"
        x="100"
        y="700"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1169" />
     <rect
        class="swatch_2 spans_2"
@@ -3566,7 +3566,7 @@
        height="20"
        x="140"
        y="700"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1171" />
     <rect
        class="swatch_2 spans_1"
@@ -3574,7 +3574,7 @@
        height="20"
        x="180"
        y="700"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1173" />
     <rect
        class="swatch_1 spans_1"
@@ -3582,7 +3582,7 @@
        height="20"
        x="200"
        y="700"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1175" />
     <rect
        class="swatch_0 spans_1"
@@ -3590,7 +3590,7 @@
        height="20"
        x="220"
        y="700"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1177" />
     <rect
        class="swatch_2 spans_2"
@@ -3598,7 +3598,7 @@
        height="20"
        x="240"
        y="700"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1179" />
     <rect
        class="swatch_1 spans_2"
@@ -3606,7 +3606,7 @@
        height="20"
        x="280"
        y="700"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1181" />
     <rect
        class="swatch_0 spans_2"
@@ -3614,7 +3614,7 @@
        height="20"
        x="320"
        y="700"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1183" />
     <rect
        class="swatch_2 spans_2"
@@ -3622,7 +3622,7 @@
        height="20"
        x="360"
        y="700"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1185" />
     <rect
        class="swatch_0 spans_1"
@@ -3630,7 +3630,7 @@
        height="20"
        x="400"
        y="700"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1187" />
     <rect
        class="swatch_2 spans_2"
@@ -3638,7 +3638,7 @@
        height="20"
        x="420"
        y="700"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1189" />
     <rect
        class="swatch_2 spans_2"
@@ -3646,7 +3646,7 @@
        height="20.015217"
        x="459.87827"
        y="699.92389"
-       style="fill:url(#_c2);stroke:#999999;stroke-width:0.75652838"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-width:0.75652838;stroke-opacity:1"
        id="rect1191" />
     <rect
        class="swatch_2 spans_2"
@@ -3654,7 +3654,7 @@
        height="20.020935"
        x="38.968136"
        y="719.88483"
-       style="fill:url(#_c2);stroke:#999999;stroke-width:0.72784096"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-width:0.72784096;stroke-opacity:1"
        id="rect1195" />
     <rect
        class="swatch_2 spans_1"
@@ -3662,7 +3662,7 @@
        height="20"
        x="60"
        y="720"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1197" />
     <rect
        class="swatch_2 spans_1"
@@ -3670,7 +3670,7 @@
        height="20"
        x="80"
        y="720"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1199" />
     <rect
        class="swatch_2 spans_1"
@@ -3678,7 +3678,7 @@
        height="20"
        x="100"
        y="720"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1201" />
     <rect
        class="swatch_2 spans_2"
@@ -3686,7 +3686,7 @@
        height="20"
        x="120"
        y="720"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1203" />
     <rect
        class="swatch_1 spans_2"
@@ -3694,7 +3694,7 @@
        height="20"
        x="160"
        y="720"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1205" />
     <rect
        class="swatch_0 spans_1"
@@ -3702,7 +3702,7 @@
        height="20"
        x="200"
        y="720"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1207" />
     <rect
        class="swatch_0 spans_2"
@@ -3710,7 +3710,7 @@
        height="20"
        x="220"
        y="720"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1209" />
     <rect
        class="swatch_2 spans_2"
@@ -3718,7 +3718,7 @@
        height="20"
        x="260"
        y="720"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1211" />
     <rect
        class="swatch_1 spans_1"
@@ -3726,7 +3726,7 @@
        height="20"
        x="300"
        y="720"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1213" />
     <rect
        class="swatch_1 spans_2"
@@ -3734,7 +3734,7 @@
        height="20"
        x="320"
        y="720"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1215" />
     <rect
        class="swatch_2 spans_2"
@@ -3742,7 +3742,7 @@
        height="20"
        x="360"
        y="720"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1217" />
     <rect
        class="swatch_1 spans_2"
@@ -3750,7 +3750,7 @@
        height="20"
        x="400"
        y="720"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1219" />
     <rect
        class="swatch_2 spans_2"
@@ -3758,7 +3758,7 @@
        height="20"
        x="440"
        y="720"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1221" />
     <rect
        class="swatch_0 spans_1"
@@ -3766,7 +3766,7 @@
        height="20"
        x="40"
        y="740"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1225" />
     <rect
        class="swatch_0 spans_2"
@@ -3774,7 +3774,7 @@
        height="20"
        x="60"
        y="740"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1227" />
     <rect
        class="swatch_1 spans_2"
@@ -3782,7 +3782,7 @@
        height="20"
        x="100"
        y="740"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1229" />
     <rect
        class="swatch_0 spans_1"
@@ -3790,7 +3790,7 @@
        height="20"
        x="140"
        y="740"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1231" />
     <rect
        class="swatch_2 spans_2"
@@ -3798,7 +3798,7 @@
        height="20"
        x="160"
        y="740"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1233" />
     <rect
        class="swatch_1 spans_2"
@@ -3806,7 +3806,7 @@
        height="20"
        x="200"
        y="740"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1235" />
     <rect
        class="swatch_2 spans_1"
@@ -3814,7 +3814,7 @@
        height="20"
        x="240"
        y="740"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1237" />
     <rect
        class="swatch_1 spans_2"
@@ -3822,7 +3822,7 @@
        height="20"
        x="260"
        y="740"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1239" />
     <rect
        class="swatch_2 spans_2"
@@ -3830,7 +3830,7 @@
        height="20"
        x="300"
        y="740"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1241" />
     <rect
        class="swatch_1 spans_2"
@@ -3838,7 +3838,7 @@
        height="20"
        x="340"
        y="740"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1243" />
     <rect
        class="swatch_1 spans_2"
@@ -3846,7 +3846,7 @@
        height="20"
        x="380"
        y="740"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1245" />
     <rect
        class="swatch_1 spans_2"
@@ -3854,7 +3854,7 @@
        height="20"
        x="420"
        y="740"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1247" />
     <rect
        class="swatch_0 spans_1"
@@ -3862,7 +3862,7 @@
        height="20"
        x="460"
        y="740"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1249" />
     <rect
        class="swatch_1 spans_1"
@@ -3870,7 +3870,7 @@
        height="20"
        x="40"
        y="760"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1253" />
     <rect
        class="swatch_1 spans_2"
@@ -3878,7 +3878,7 @@
        height="20"
        x="60"
        y="760"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1255" />
     <rect
        class="swatch_0 spans_1"
@@ -3886,7 +3886,7 @@
        height="20"
        x="100"
        y="760"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1257" />
     <rect
        class="swatch_0 spans_2"
@@ -3894,7 +3894,7 @@
        height="20"
        x="120"
        y="760"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1259" />
     <rect
        class="swatch_2 spans_2"
@@ -3902,7 +3902,7 @@
        height="20"
        x="160"
        y="760"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1261" />
     <rect
        class="swatch_1 spans_1"
@@ -3910,7 +3910,7 @@
        height="20"
        x="200"
        y="760"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1263" />
     <rect
        class="swatch_2 spans_1"
@@ -3918,7 +3918,7 @@
        height="20"
        x="220"
        y="760"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1265" />
     <rect
        class="swatch_1 spans_1"
@@ -3926,7 +3926,7 @@
        height="20"
        x="240"
        y="760"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1267" />
     <rect
        class="swatch_1 spans_1"
@@ -3934,7 +3934,7 @@
        height="20"
        x="260"
        y="760"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1269" />
     <rect
        class="swatch_0 spans_1"
@@ -3942,7 +3942,7 @@
        height="20"
        x="280"
        y="760"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1271" />
     <rect
        class="swatch_0 spans_2"
@@ -3950,7 +3950,7 @@
        height="20"
        x="300"
        y="760"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1273" />
     <rect
        class="swatch_1 spans_2"
@@ -3958,7 +3958,7 @@
        height="20"
        x="340"
        y="760"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1275" />
     <rect
        class="swatch_0 spans_1"
@@ -3966,7 +3966,7 @@
        height="20"
        x="380"
        y="760"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1277" />
     <rect
        class="swatch_2 spans_2"
@@ -3974,7 +3974,7 @@
        height="20"
        x="400"
        y="760"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1279" />
     <rect
        class="swatch_1 spans_1"
@@ -3982,7 +3982,7 @@
        height="20"
        x="440"
        y="760"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1281" />
     <rect
        class="swatch_1 spans_1"
@@ -3990,7 +3990,7 @@
        height="20"
        x="460"
        y="760"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1283" />
     <rect
        class="swatch_0 spans_1"
@@ -3998,7 +3998,7 @@
        height="20"
        x="40"
        y="780"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1289" />
     <rect
        class="swatch_0 spans_1"
@@ -4006,7 +4006,7 @@
        height="20"
        x="60"
        y="780"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1291" />
     <rect
        class="swatch_1 spans_2"
@@ -4014,7 +4014,7 @@
        height="20"
        x="80"
        y="780"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1293" />
     <rect
        class="swatch_0 spans_2"
@@ -4022,7 +4022,7 @@
        height="20"
        x="120"
        y="780"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1295" />
     <rect
        class="swatch_0 spans_2"
@@ -4030,7 +4030,7 @@
        height="20"
        x="160"
        y="780"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1297" />
     <rect
        class="swatch_1 spans_1"
@@ -4038,7 +4038,7 @@
        height="20"
        x="200"
        y="780"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1299" />
     <rect
        class="swatch_0 spans_1"
@@ -4046,7 +4046,7 @@
        height="20"
        x="220"
        y="780"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1301" />
     <rect
        class="swatch_0 spans_1"
@@ -4054,7 +4054,7 @@
        height="20"
        x="240"
        y="780"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1303" />
     <rect
        class="swatch_0 spans_1"
@@ -4062,7 +4062,7 @@
        height="20"
        x="260"
        y="780"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1305" />
     <rect
        class="swatch_1 spans_1"
@@ -4070,7 +4070,7 @@
        height="20"
        x="280"
        y="780"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1307" />
     <rect
        class="swatch_2 spans_2"
@@ -4078,7 +4078,7 @@
        height="20"
        x="300"
        y="780"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1309" />
     <rect
        class="swatch_0 spans_2"
@@ -4086,7 +4086,7 @@
        height="20"
        x="340"
        y="780"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1311" />
     <rect
        class="swatch_1 spans_1"
@@ -4094,7 +4094,7 @@
        height="20"
        x="380"
        y="780"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1313" />
     <rect
        class="swatch_0 spans_2"
@@ -4102,7 +4102,7 @@
        height="20"
        x="400"
        y="780"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1315" />
     <rect
        class="swatch_0 spans_2"
@@ -4110,7 +4110,7 @@
        height="20"
        x="440"
        y="780"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1317" />
     <rect
        class="swatch_1 spans_2"
@@ -4118,7 +4118,7 @@
        height="20"
        x="40"
        y="800"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1323" />
     <rect
        class="swatch_0 spans_1"
@@ -4126,7 +4126,7 @@
        height="20"
        x="80"
        y="800"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1325" />
     <rect
        class="swatch_0 spans_1"
@@ -4134,7 +4134,7 @@
        height="20"
        x="100"
        y="800"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1327" />
     <rect
        class="swatch_1 spans_1"
@@ -4142,7 +4142,7 @@
        height="20"
        x="120"
        y="800"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1329" />
     <rect
        class="swatch_0 spans_1"
@@ -4150,7 +4150,7 @@
        height="20"
        x="140"
        y="800"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1331" />
     <rect
        class="swatch_1 spans_2"
@@ -4158,7 +4158,7 @@
        height="20"
        x="160"
        y="800"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1333" />
     <rect
        class="swatch_1 spans_1"
@@ -4166,7 +4166,7 @@
        height="20"
        x="200"
        y="800"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1335" />
     <rect
        class="swatch_1 spans_1"
@@ -4174,7 +4174,7 @@
        height="20"
        x="220"
        y="800"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1337" />
     <rect
        class="swatch_1 spans_1"
@@ -4182,7 +4182,7 @@
        height="20"
        x="240"
        y="800"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1339" />
     <rect
        class="swatch_0 spans_2"
@@ -4190,7 +4190,7 @@
        height="20"
        x="260"
        y="800"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1341" />
     <rect
        class="swatch_0 spans_1"
@@ -4198,7 +4198,7 @@
        height="20"
        x="300"
        y="800"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1343" />
     <rect
        class="swatch_1 spans_2"
@@ -4206,7 +4206,7 @@
        height="20"
        x="320"
        y="800"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1345" />
     <rect
        class="swatch_0 spans_2"
@@ -4214,7 +4214,7 @@
        height="20"
        x="360"
        y="800"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1347" />
     <rect
        class="swatch_0 spans_2"
@@ -4222,7 +4222,7 @@
        height="20"
        x="400"
        y="800"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1349" />
     <rect
        class="swatch_2 spans_2"
@@ -4230,7 +4230,7 @@
        height="20"
        x="440"
        y="800"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1351" />
     <rect
        class="swatch_0 spans_2"
@@ -4238,7 +4238,7 @@
        height="20.020935"
        x="38.968136"
        y="819.9895"
-       style="fill:url(#_c0);stroke:#999999;stroke-width:0.72784096"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-width:0.72784096;stroke-opacity:1"
        id="rect1355" />
     <rect
        class="swatch_0 spans_1"
@@ -4246,7 +4246,7 @@
        height="20"
        x="60"
        y="820"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1357" />
     <rect
        class="swatch_1 spans_2"
@@ -4254,7 +4254,7 @@
        height="20"
        x="80"
        y="820"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1359" />
     <rect
        class="swatch_2 spans_1"
@@ -4262,7 +4262,7 @@
        height="20"
        x="120"
        y="820"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1361" />
     <rect
        class="swatch_2 spans_1"
@@ -4270,7 +4270,7 @@
        height="20"
        x="140"
        y="820"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1363" />
     <rect
        class="swatch_0 spans_2"
@@ -4278,7 +4278,7 @@
        height="20"
        x="160"
        y="820"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1365" />
     <rect
        class="swatch_2 spans_1"
@@ -4286,7 +4286,7 @@
        height="20"
        x="200"
        y="820"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1367" />
     <rect
        class="swatch_0 spans_1"
@@ -4294,7 +4294,7 @@
        height="20"
        x="220"
        y="820"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1369" />
     <rect
        class="swatch_1 spans_2"
@@ -4302,7 +4302,7 @@
        height="20"
        x="240"
        y="820"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1371" />
     <rect
        class="swatch_0 spans_1"
@@ -4310,7 +4310,7 @@
        height="20"
        x="280"
        y="820"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1373" />
     <rect
        class="swatch_0 spans_1"
@@ -4318,7 +4318,7 @@
        height="20"
        x="300"
        y="820"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1375" />
     <rect
        class="swatch_0 spans_1"
@@ -4326,7 +4326,7 @@
        height="20"
        x="320"
        y="820"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1377" />
     <rect
        class="swatch_0 spans_2"
@@ -4334,7 +4334,7 @@
        height="20"
        x="340"
        y="820"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1379" />
     <rect
        class="swatch_2 spans_2"
@@ -4342,7 +4342,7 @@
        height="20"
        x="380"
        y="820"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1381" />
     <rect
        class="swatch_1 spans_2"
@@ -4350,7 +4350,7 @@
        height="20"
        x="420"
        y="820"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1383" />
     <rect
        class="swatch_2 spans_1"
@@ -4358,7 +4358,7 @@
        height="20"
        x="460"
        y="820"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1385" />
     <rect
        class="swatch_2 spans_2"
@@ -4366,7 +4366,7 @@
        height="20"
        x="40"
        y="840"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1389" />
     <rect
        class="swatch_2 spans_2"
@@ -4374,7 +4374,7 @@
        height="20"
        x="80"
        y="840"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1391" />
     <rect
        class="swatch_0 spans_1"
@@ -4382,7 +4382,7 @@
        height="20"
        x="120"
        y="840"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1393" />
     <rect
        class="swatch_2 spans_1"
@@ -4390,7 +4390,7 @@
        height="20"
        x="140"
        y="840"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1395" />
     <rect
        class="swatch_2 spans_1"
@@ -4398,7 +4398,7 @@
        height="20"
        x="160"
        y="840"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1397" />
     <rect
        class="swatch_1 spans_1"
@@ -4406,7 +4406,7 @@
        height="20"
        x="180"
        y="840"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1399" />
     <rect
        class="swatch_0 spans_1"
@@ -4414,7 +4414,7 @@
        height="20"
        x="200"
        y="840"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1401" />
     <rect
        class="swatch_2 spans_1"
@@ -4422,7 +4422,7 @@
        height="20"
        x="220"
        y="840"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1403" />
     <rect
        class="swatch_2 spans_2"
@@ -4430,7 +4430,7 @@
        height="20"
        x="240"
        y="840"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1405" />
     <rect
        class="swatch_2 spans_2"
@@ -4438,7 +4438,7 @@
        height="20"
        x="280"
        y="840"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1407" />
     <rect
        class="swatch_2 spans_2"
@@ -4446,7 +4446,7 @@
        height="20"
        x="320"
        y="840"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1409" />
     <rect
        class="swatch_2 spans_1"
@@ -4454,7 +4454,7 @@
        height="20"
        x="360"
        y="840"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1411" />
     <rect
        class="swatch_1 spans_1"
@@ -4462,7 +4462,7 @@
        height="20"
        x="380"
        y="840"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1413" />
     <rect
        class="swatch_2 spans_2"
@@ -4470,7 +4470,7 @@
        height="20"
        x="400"
        y="840"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1415" />
     <rect
        class="swatch_1 spans_2"
@@ -4478,7 +4478,7 @@
        height="20"
        x="440"
        y="840"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1417" />
     <rect
        class="swatch_1 spans_2"
@@ -4486,7 +4486,7 @@
        height="20.020935"
        x="38.968136"
        y="860.03143"
-       style="fill:url(#_c1);stroke:#999999;stroke-width:0.72784096"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-width:0.72784096;stroke-opacity:1"
        id="rect1421" />
     <rect
        class="swatch_1 spans_2"
@@ -4494,7 +4494,7 @@
        height="20"
        x="60"
        y="860"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1423" />
     <rect
        class="swatch_1 spans_2"
@@ -4502,7 +4502,7 @@
        height="20"
        x="100"
        y="860"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1425" />
     <rect
        class="swatch_0 spans_1"
@@ -4510,7 +4510,7 @@
        height="20"
        x="140"
        y="860"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1427" />
     <rect
        class="swatch_1 spans_2"
@@ -4518,7 +4518,7 @@
        height="20"
        x="160"
        y="860"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1429" />
     <rect
        class="swatch_2 spans_2"
@@ -4526,7 +4526,7 @@
        height="20"
        x="200"
        y="860"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1431" />
     <rect
        class="swatch_2 spans_2"
@@ -4534,7 +4534,7 @@
        height="20"
        x="240"
        y="860"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1433" />
     <rect
        class="swatch_1 spans_2"
@@ -4542,7 +4542,7 @@
        height="20"
        x="280"
        y="860"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1435" />
     <rect
        class="swatch_0 spans_1"
@@ -4550,7 +4550,7 @@
        height="20"
        x="320"
        y="860"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1437" />
     <rect
        class="swatch_2 spans_1"
@@ -4558,7 +4558,7 @@
        height="20"
        x="340"
        y="860"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1439" />
     <rect
        class="swatch_0 spans_2"
@@ -4566,7 +4566,7 @@
        height="20"
        x="360"
        y="860"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1441" />
     <rect
        class="swatch_1 spans_1"
@@ -4574,7 +4574,7 @@
        height="20"
        x="400"
        y="860"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1443" />
     <rect
        class="swatch_0 spans_1"
@@ -4582,7 +4582,7 @@
        height="20"
        x="420"
        y="860"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1445" />
     <rect
        class="swatch_1 spans_2"
@@ -4590,7 +4590,7 @@
        height="20"
        x="440"
        y="860"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1447" />
     <rect
        class="swatch_0 spans_1"
@@ -4598,7 +4598,7 @@
        height="20"
        x="40"
        y="880"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1451" />
     <rect
        class="swatch_2 spans_1"
@@ -4606,7 +4606,7 @@
        height="20"
        x="60"
        y="880"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1453" />
     <rect
        class="swatch_1 spans_2"
@@ -4614,7 +4614,7 @@
        height="20"
        x="80"
        y="880"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1455" />
     <rect
        class="swatch_2 spans_2"
@@ -4622,7 +4622,7 @@
        height="20"
        x="120"
        y="880"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1457" />
     <rect
        class="swatch_2 spans_2"
@@ -4630,7 +4630,7 @@
        height="20"
        x="160"
        y="880"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1459" />
     <rect
        class="swatch_1 spans_2"
@@ -4638,7 +4638,7 @@
        height="20"
        x="200"
        y="880"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1461" />
     <rect
        class="swatch_2 spans_2"
@@ -4646,7 +4646,7 @@
        height="20"
        x="240"
        y="880"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1463" />
     <rect
        class="swatch_1 spans_2"
@@ -4654,7 +4654,7 @@
        height="20"
        x="280"
        y="880"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1465" />
     <rect
        class="swatch_2 spans_1"
@@ -4662,7 +4662,7 @@
        height="20"
        x="320"
        y="880"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1467" />
     <rect
        class="swatch_2 spans_2"
@@ -4670,7 +4670,7 @@
        height="20"
        x="340"
        y="880"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1469" />
     <rect
        class="swatch_2 spans_1"
@@ -4678,7 +4678,7 @@
        height="20"
        x="380"
        y="880"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1471" />
     <rect
        class="swatch_2 spans_1"
@@ -4686,7 +4686,7 @@
        height="20"
        x="400"
        y="880"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1473" />
     <rect
        class="swatch_0 spans_2"
@@ -4694,7 +4694,7 @@
        height="20"
        x="420"
        y="880"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1475" />
     <rect
        class="swatch_1 spans_1"
@@ -4702,7 +4702,7 @@
        height="20"
        x="460"
        y="880"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1477" />
     <rect
        class="swatch_0 spans_1"
@@ -4710,7 +4710,7 @@
        height="20"
        x="40"
        y="900"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1481" />
     <rect
        class="swatch_1 spans_1"
@@ -4718,7 +4718,7 @@
        height="20"
        x="60"
        y="900"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1483" />
     <rect
        class="swatch_2 spans_1"
@@ -4726,7 +4726,7 @@
        height="20"
        x="80"
        y="900"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1485" />
     <rect
        class="swatch_1 spans_2"
@@ -4734,7 +4734,7 @@
        height="20"
        x="100"
        y="900"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1487" />
     <rect
        class="swatch_2 spans_2"
@@ -4742,7 +4742,7 @@
        height="20"
        x="140"
        y="900"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1489" />
     <rect
        class="swatch_0 spans_2"
@@ -4750,7 +4750,7 @@
        height="20"
        x="180"
        y="900"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1491" />
     <rect
        class="swatch_0 spans_1"
@@ -4758,7 +4758,7 @@
        height="20"
        x="220"
        y="900"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1493" />
     <rect
        class="swatch_1 spans_1"
@@ -4766,7 +4766,7 @@
        height="20"
        x="240"
        y="900"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1495" />
     <rect
        class="swatch_2 spans_2"
@@ -4774,7 +4774,7 @@
        height="20"
        x="260"
        y="900"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1497" />
     <rect
        class="swatch_1 spans_2"
@@ -4782,7 +4782,7 @@
        height="20"
        x="300"
        y="900"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1499" />
     <rect
        class="swatch_0 spans_1"
@@ -4790,7 +4790,7 @@
        height="20"
        x="340"
        y="900"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1501" />
     <rect
        class="swatch_1 spans_2"
@@ -4798,7 +4798,7 @@
        height="20"
        x="360"
        y="900"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1503" />
     <rect
        class="swatch_2 spans_2"
@@ -4806,7 +4806,7 @@
        height="20"
        x="400"
        y="900"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1505" />
     <rect
        class="swatch_1 spans_1"
@@ -4814,7 +4814,7 @@
        height="20"
        x="440"
        y="900"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1507" />
     <rect
        class="swatch_2 spans_1"
@@ -4822,7 +4822,7 @@
        height="20"
        x="460"
        y="900"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1509" />
     <rect
        class="swatch_2 spans_1"
@@ -4830,7 +4830,7 @@
        height="20"
        x="40"
        y="920"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1513" />
     <rect
        class="swatch_2 spans_2"
@@ -4838,7 +4838,7 @@
        height="20"
        x="60"
        y="920"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1515" />
     <rect
        class="swatch_0 spans_1"
@@ -4846,7 +4846,7 @@
        height="20"
        x="100"
        y="920"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1517" />
     <rect
        class="swatch_0 spans_2"
@@ -4854,7 +4854,7 @@
        height="20"
        x="120"
        y="920"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1519" />
     <rect
        class="swatch_2 spans_1"
@@ -4862,7 +4862,7 @@
        height="20"
        x="160"
        y="920"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1521" />
     <rect
        class="swatch_1 spans_1"
@@ -4870,7 +4870,7 @@
        height="20"
        x="180"
        y="920"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1523" />
     <rect
        class="swatch_1 spans_1"
@@ -4878,7 +4878,7 @@
        height="20"
        x="200"
        y="920"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1525" />
     <rect
        class="swatch_0 spans_1"
@@ -4886,7 +4886,7 @@
        height="20"
        x="220"
        y="920"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1527" />
     <rect
        class="swatch_1 spans_1"
@@ -4894,7 +4894,7 @@
        height="20"
        x="240"
        y="920"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1529" />
     <rect
        class="swatch_0 spans_1"
@@ -4902,7 +4902,7 @@
        height="20"
        x="260"
        y="920"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1531" />
     <rect
        class="swatch_0 spans_1"
@@ -4910,7 +4910,7 @@
        height="20"
        x="280"
        y="920"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1533" />
     <rect
        class="swatch_2 spans_1"
@@ -4918,7 +4918,7 @@
        height="20"
        x="300"
        y="920"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1535" />
     <rect
        class="swatch_2 spans_1"
@@ -4926,7 +4926,7 @@
        height="20"
        x="320"
        y="920"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1537" />
     <rect
        class="swatch_1 spans_1"
@@ -4934,7 +4934,7 @@
        height="20"
        x="340"
        y="920"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1539" />
     <rect
        class="swatch_0 spans_2"
@@ -4942,7 +4942,7 @@
        height="20"
        x="360"
        y="920"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1541" />
     <rect
        class="swatch_0 spans_1"
@@ -4950,7 +4950,7 @@
        height="20"
        x="400"
        y="920"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1543" />
     <rect
        class="swatch_0 spans_1"
@@ -4958,7 +4958,7 @@
        height="20"
        x="420"
        y="920"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1545" />
     <rect
        class="swatch_2 spans_1"
@@ -4966,7 +4966,7 @@
        height="20"
        x="440"
        y="920"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1547" />
     <rect
        class="swatch_0 spans_1"
@@ -4974,7 +4974,7 @@
        height="20"
        x="460"
        y="920"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1549" />
     <rect
        class="swatch_0 spans_2"
@@ -4982,7 +4982,7 @@
        height="20.020935"
        x="38.968136"
        y="940.11517"
-       style="fill:url(#_c0);stroke:#999999;stroke-width:0.72784096"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-width:0.72784096;stroke-opacity:1"
        id="rect1553" />
     <rect
        class="swatch_1 spans_2"
@@ -4990,7 +4990,7 @@
        height="20"
        x="60"
        y="940"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1555" />
     <rect
        class="swatch_1 spans_1"
@@ -4998,7 +4998,7 @@
        height="20"
        x="100"
        y="940"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1557" />
     <rect
        class="swatch_2 spans_1"
@@ -5006,7 +5006,7 @@
        height="20"
        x="120"
        y="940"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1559" />
     <rect
        class="swatch_0 spans_1"
@@ -5014,7 +5014,7 @@
        height="20"
        x="140"
        y="940"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1561" />
     <rect
        class="swatch_2 spans_1"
@@ -5022,7 +5022,7 @@
        height="20"
        x="160"
        y="940"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1563" />
     <rect
        class="swatch_1 spans_1"
@@ -5030,7 +5030,7 @@
        height="20"
        x="180"
        y="940"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1565" />
     <rect
        class="swatch_1 spans_1"
@@ -5038,7 +5038,7 @@
        height="20"
        x="200"
        y="940"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1567" />
     <rect
        class="swatch_0 spans_1"
@@ -5046,7 +5046,7 @@
        height="20"
        x="220"
        y="940"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1569" />
     <rect
        class="swatch_2 spans_2"
@@ -5054,7 +5054,7 @@
        height="20"
        x="240"
        y="940"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1571" />
     <rect
        class="swatch_1 spans_2"
@@ -5062,7 +5062,7 @@
        height="20"
        x="280"
        y="940"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1573" />
     <rect
        class="swatch_1 spans_1"
@@ -5070,7 +5070,7 @@
        height="20"
        x="320"
        y="940"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1575" />
     <rect
        class="swatch_2 spans_1"
@@ -5078,7 +5078,7 @@
        height="20"
        x="340"
        y="940"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1577" />
     <rect
        class="swatch_0 spans_1"
@@ -5086,7 +5086,7 @@
        height="20"
        x="360"
        y="940"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1579" />
     <rect
        class="swatch_2 spans_1"
@@ -5094,7 +5094,7 @@
        height="20"
        x="380"
        y="940"
-       style="fill:url(#_c2);stroke:#999999"
+       style="fill:url(#_c2);stroke:#ffffff;stroke-opacity:1"
        id="rect1581" />
     <rect
        class="swatch_1 spans_2"
@@ -5102,7 +5102,7 @@
        height="20"
        x="400"
        y="940"
-       style="fill:url(#_c1);stroke:#999999"
+       style="fill:url(#_c1);stroke:#ffffff;stroke-opacity:1"
        id="rect1583" />
     <rect
        class="swatch_0 spans_1"
@@ -5110,7 +5110,7 @@
        height="20"
        x="440"
        y="940"
-       style="fill:url(#_c0);stroke:#999999"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-opacity:1"
        id="rect1585" />
     <rect
        class="swatch_0 spans_2"
@@ -5118,7 +5118,7 @@
        height="20.015217"
        x="459.87827"
        y="940.10651"
-       style="fill:url(#_c0);stroke:#999999;stroke-width:0.75652838"
+       style="fill:url(#_c0);stroke:#ffffff;stroke-width:0.75652838;stroke-opacity:1"
        id="rect1587" />
   </g>
 </svg>
