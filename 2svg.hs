@@ -13,18 +13,14 @@ main = do
 
 parseTiles :: Int -> IO ()
 parseTiles rowNum = do
-  row <- getLine
-  let rowBW = removeEsc row
+  rowBW <- removeEsc <$> getLine
   -- let row' = filter isCodeChar row
-  if null rowBW || length rowBW < 2
-    then 
-      return ()
-    else do
+  when (length rowBW >= 2) $ do
       putStrLn $ svgRow 0 rowNum rowBW
       parseTiles $ rowNum + 1
 
 svgHead :: String
-svgHead = 
+svgHead =
   "<svg xmlns=\"" ++ ns ++ "\"\n" ++
   " xmlns:osb=\"" ++ osb_ns ++ "\"\n" ++
   " version=\"1.1\" " ++
@@ -34,15 +30,15 @@ svgHead =
   where
     ns = "http://www.w3.org/2000/svg"
     osb_ns = "http://www.openswatchbook.org/uri/2009/osb"
-    
+
 svgFoot :: String
-svgFoot = 
+svgFoot =
   "</g></svg>"
 
 -- works w ESC[ codes from 00-99 ending w 'm'
 removeEsc :: String -> String
-removeEsc (a:b:c:d:xs)  
-  | a == '\ESC' && b == '[' = 
+removeEsc (a:b:c:d:xs)
+  | a == '\ESC' && b == '[' =
     if d == 'm'
     then removeEsc xs -- one figure code
     else removeEsc $ drop 1 xs -- two figure code
@@ -61,7 +57,7 @@ tile (x:[]) = error $ "Need 2 chars! Got '" ++ [x] ++ "'"
 tile (x:xs) = Tile span' color'
   where
   span' = if x == 's' then 1 else 2
-  color' = if isDigit colorChar 
+  color' = if isDigit colorChar
             then read [colorChar] :: Color
             else error $ "Illegal color num '" ++ [colorChar] ++ "'"
   colorChar = if x == 's' then head xs else xs!!2
@@ -75,8 +71,8 @@ tileCharLen _ = error "møkka tile"
 svgRow :: Int -> Int -> String -> String
 svgRow _ _ [] = "\n"
 svgRow _ _ (x:[]) = error "crap in;" ++ [x]
-svgRow xOffset rowN row = 
-  r0 ++ nextCall 
+svgRow xOffset rowN row =
+  r0 ++ nextCall
   where
     r0 = rect (rectX,rectY) (cellSpan t) (color t)
     nextCall = svgRow nextOffset rowN ( drop charsUsed row )
@@ -88,10 +84,10 @@ svgRow xOffset rowN row =
 
 
 rect :: Pos -> Int -> Color -> String
-rect pos wFactor color = 
+rect pos wFactor color =
   "<rect " ++
   " class=\"swatch_" ++ show color ++ " spans_" ++ show wFactor ++ "\"" ++
-  " width=" ++ attr ( rectWidth * wFactor ) ++ 
+  " width=" ++ attr ( rectWidth * wFactor ) ++
   " height=" ++ attr rectHeight ++
   " x=" ++ attr (fst pos) ++
   " y=" ++ attr (snd pos) ++
@@ -99,7 +95,7 @@ rect pos wFactor color =
   " />\n"
 
 attr :: Int -> String
-attr n = 
+attr n =
   "\"" ++ show n ++ "\""
 
 style :: Color -> String
@@ -140,5 +136,3 @@ hexd c = case c of
            6 -> "EEE"
            7 -> "F4F4F4"
            _ -> "A11"
-
-
